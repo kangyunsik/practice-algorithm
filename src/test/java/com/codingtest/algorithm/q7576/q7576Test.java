@@ -3,6 +3,8 @@ package com.codingtest.algorithm.q7576;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import static org.assertj.core.api.Assertions.*;
+
 class q7576Test {
 
     String[][] getStrings(int[][] array) {
@@ -27,7 +29,7 @@ class q7576Test {
         Main main = new Main();
         main.init(6, 4, array);
         main.run();
-        Assertions.assertThat(main.getAnswer()).isEqualTo(8);
+        assertThat(main.getAnswer()).isEqualTo(8);
     }
 
     @Test
@@ -42,7 +44,7 @@ class q7576Test {
         Main main = new Main();
         main.init(6, 4, getStrings(array));
         main.run();
-        Assertions.assertThat(main.getAnswer()).isEqualTo(-1);
+        assertThat(main.getAnswer()).isEqualTo(-1);
     }
 
     @Test
@@ -57,7 +59,7 @@ class q7576Test {
         Main main = new Main();
         main.init(6, 4, getStrings(array));
         main.run();
-        Assertions.assertThat(main.getAnswer()).isEqualTo(6);
+        assertThat(main.getAnswer()).isEqualTo(6);
     }
 
     @Test
@@ -73,7 +75,7 @@ class q7576Test {
         Main main = new Main();
         main.init(5, 5, getStrings(array));
         main.run();
-        Assertions.assertThat(main.getAnswer()).isEqualTo(14);
+        assertThat(main.getAnswer()).isEqualTo(14);
     }
 
     @Test
@@ -86,7 +88,7 @@ class q7576Test {
         Main main = new Main();
         main.init(2, 2, getStrings(array));
         main.run();
-        Assertions.assertThat(main.getAnswer()).isEqualTo(0);
+        assertThat(main.getAnswer()).isEqualTo(0);
     }
 
     @Test
@@ -99,7 +101,7 @@ class q7576Test {
         Main main = new Main();
         main.init(2, 2, getStrings(array));
         main.run();
-        Assertions.assertThat(main.getAnswer()).isEqualTo(2);
+        assertThat(main.getAnswer()).isEqualTo(2);
     }
 
     @Test
@@ -112,7 +114,7 @@ class q7576Test {
         Main main = new Main();
         main.init(2, 2, getStrings(array));
         main.run();
-        Assertions.assertThat(main.getAnswer()).isEqualTo(-1);
+        assertThat(main.getAnswer()).isEqualTo(-1);
     }
 
     @Test
@@ -127,7 +129,7 @@ class q7576Test {
         Main main = new Main();
         main.init(4, 4, getStrings(array));
         main.run();
-        Assertions.assertThat(main.getAnswer()).isEqualTo(0);
+        assertThat(main.getAnswer()).isEqualTo(0);
     }
 
     @Test
@@ -153,6 +155,6 @@ class q7576Test {
         Main main = new Main();
         main.init(1000, 1000, getStrings(array));
         main.run();
-        Assertions.assertThat(main.getAnswer()).isEqualTo(500499);
+        assertThat(main.getAnswer()).isEqualTo(500499);
     }
 }
