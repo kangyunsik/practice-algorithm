@@ -8,12 +8,23 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
 
 + q1780(Silver 2)
 
-종이의 개수 (20210907)
+  - 종이의 개수
+  - (20210907)
+  
 
 + q2630(Silver 3)
 
-색종이 만들기 (20210907)
+    - 색종이 만들기
+    - (20210907)
+
 
 + q5525(Silver 2)
 
-IOIOI (20210907)
+    - IOIOI
+    - (20210907)
+
+
++ q7576(Silver 1)
+
+    - 토마토
+    - (20210907)
