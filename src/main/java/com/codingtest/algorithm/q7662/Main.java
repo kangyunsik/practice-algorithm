@@ -1,76 +1,78 @@
 package com.codingtest.algorithm.q7662;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Main {
-    int n;
-    List<Long> list;
-    long value;
+    StringTokenizer st;
+    PriorityQueue<Long> minHeap;
+    PriorityQueue<Long> maxHeap;
+    Map<Long, Integer> map;
+    int cnt;
 
-    public void init(int n){
-        this.n = n;
-        list = new ArrayList<>();
+    public void init() {
+        minHeap = new PriorityQueue<>();
+        maxHeap = new PriorityQueue<>(Collections.reverseOrder());
+        map = new HashMap<>();
+        cnt = 0;
     }
 
-    public void run(String s){
-        char order = s.split(" ")[0].charAt(0);
-        value = Long.parseLong(s.split(" ")[1]);
+    public void run(String s) {
+        st = new StringTokenizer(s, " ");
+        long value;
 
-        switch(order){
+        char order = st.nextToken().charAt(0);
+        value = Long.parseLong(st.nextToken());
+
+        switch (order) {
             case 'I':
-                insert(value);
+                cnt++;
+                minHeap.offer(value);
+                maxHeap.offer(value);
+                map.merge(value, 1, Integer::sum);
+
                 break;
             case 'D':
-                delete(value);
+                long k;
+                if(cnt == 0)
+                    break;
+
+                if (value == 1L && !maxHeap.isEmpty()) {
+                    do {
+                        k = maxHeap.poll();
+                    } while ( map.get(k) == 0);
+                    map.put(k, map.get(k) - 1);
+                } else if (value == -1L && !minHeap.isEmpty()) {
+                    do {
+                        k = minHeap.poll();
+                    } while (map.get(k) == 0);
+                    map.put(k, map.get(k) - 1);
+                }
+                cnt--;
                 break;
         }
     }
 
-    public void insert(long value){
-        int size = list.size();
+    public String getAnswer() {
 
-        if(size==0)
-            list.add(value);
-        else
-            list.add(binarySearch(0,size-1),value);
-    }
+        long min, max;
+        do {
+            if (!maxHeap.isEmpty()) {
+                max = maxHeap.poll();
+            } else
+                return "EMPTY";
+        } while (map.get(max) == 0);
 
-    public int binarySearch(int s, int e){
-        int m;
-        while(!(e-1 == s || e==s)){
-            m = (s+e)/2;
-            if(list.get(m) <= value){
-                s = m;
-            }else{
-                e = m;
-            }
-        }
+        do {
+            if (!minHeap.isEmpty()) {
+                min = minHeap.poll();
+            } else
+                return "EMPTY";
+        } while (map.get(min) == 0);
 
-        if(list.get(e) < value)
-            return e+1;
-        else
-            return e;
-
+        return max + " " + min;
 
     }
-
-    public void delete(long value){
-        if(list.size() > 0 && value == 1){
-            list.remove(list.size()-1);
-        }else if(list.size() > 0 && value == -1){
-            list.remove(0);
-        }
-    }
-
-    public String getAnswer(){
-        if(list.size() == 0)
-            return "EMPTY";
-        else
-            return list.get(list.size()-1) + " " + list.get(0);
-    }
-
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -83,13 +85,12 @@ public class Main {
         for (int i = 0; i < t; i++) {
             n = Integer.parseInt(br.readLine());
             main = new Main();
-            main.init(n);
+            main.init();
             for (int j = 0; j < n; j++) {
                 main.run(br.readLine());
             }
-            bw.write(main.getAnswer()+"\n");
+            bw.write(main.getAnswer() + "\n");
+            bw.flush();
         }
-        bw.flush();
-
     }
 }
