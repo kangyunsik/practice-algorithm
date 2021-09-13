@@ -32,8 +32,14 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
 
 + q7576(Silver 1)
 
-  - 토마토
+  - 토마토(2차원)
   - (20210907)
+
+
++ q7569(Silver 1)
+
+  - 토마토(3차원)
+  - (20210913)
 
 
 + q11723(Silver 5)

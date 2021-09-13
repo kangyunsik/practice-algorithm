@@ -20,7 +20,7 @@ class q7569Test {
 
         for (int i = 0; i < h; i++) {
             for (int j = 0; j < m; j++) {
-                main.set(strings[i],j,i);
+                main.set(strings[j+m*i],j,i);
             }
         }
 
@@ -44,7 +44,7 @@ class q7569Test {
 
         for (int i = 0; i < h; i++) {
             for (int j = 0; j < m; j++) {
-                main.set(strings[i],j,i);
+                main.set(strings[j+m*i],j,i);
             }
         }
 
@@ -69,7 +69,7 @@ class q7569Test {
 
         for (int i = 0; i < h; i++) {
             for (int j = 0; j < m; j++) {
-                main.set(strings[i],j,i);
+                main.set(strings[j+m*i],j,i);
             }
         }
 
