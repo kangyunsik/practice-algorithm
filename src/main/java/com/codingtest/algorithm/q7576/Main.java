@@ -1,8 +1,6 @@
 package com.codingtest.algorithm.q7576;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
@@ -98,6 +96,7 @@ public class Main {
         String[][] array;
         StringTokenizer tokenizer;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         tokenizer = new StringTokenizer(br.readLine(), " ");
 
@@ -116,6 +115,7 @@ public class Main {
         Main main = new Main();
         main.init(m, n, array);
         main.run();
-        System.out.println(main.getAnswer());
+        bw.write(main.getAnswer()+"");
+        bw.flush();
     }
 }
