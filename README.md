@@ -52,6 +52,11 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
   - (20210909)
   
 
++ q9019(Gold 5)
+  - DSLR
+  - (20210914)
+
+
 + q11403(Silver 1)
   - 경로 찾기
   - (20210912)
