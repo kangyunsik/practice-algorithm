@@ -36,6 +36,11 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
   - (20210913)
 
 
++ q10026(Gold 5)
+  - 적록색약
+  - (20210915)
+
+
 + q11286(Silver 1)
   - 절댓값 힙
   - (20210913)
