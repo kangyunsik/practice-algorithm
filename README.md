@@ -67,6 +67,11 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
   - (20210912)
 
 
++ q14500(Gold 5)
+  - 테트로미노
+  - (20210916)
+
+
 + q16928(Silver 1)
   - 뱀과 사다리 게임
   - (20210914)
