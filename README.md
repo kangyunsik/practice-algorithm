@@ -77,6 +77,11 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
   - (20210916)
 
 
++ q16236(Gold 5)
+  - 아기 상어
+  - (20190917)
+
+
 + q16928(Silver 1)
   - 뱀과 사다리 게임
   - (20210914)
