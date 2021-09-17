@@ -3,6 +3,7 @@ package com.codingtest.algorithm.q10026;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import static org.assertj.core.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 class q10026Test {
@@ -20,8 +21,8 @@ class q10026Test {
             main.set(i,input[i]);
         }
 
-        Assertions.assertThat(main.getAnswer(false)).isEqualTo(4);
-        Assertions.assertThat(main.getAnswer(true)).isEqualTo(3);
+        assertThat(main.getAnswer(false)).isEqualTo(4);
+        assertThat(main.getAnswer(true)).isEqualTo(3);
     }
 
 }
