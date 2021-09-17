@@ -31,6 +31,11 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
   - (20210907)
 
 
++ q5639(Silver 1)
+  - 이진 검색 트리
+  - (20210918)
+
+
 + q7569(Silver 1)
   - 토마토(3차원)
   - (20210913)
