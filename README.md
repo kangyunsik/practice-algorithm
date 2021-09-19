@@ -11,6 +11,11 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
   - (20210917)
 
 
++ q1167(Gold 3)
+  - 트리의 지름
+  - (20210919)
+
+
 + q1541(Silver 2)
   - 잃어버린 괄호
   - (20210909)
