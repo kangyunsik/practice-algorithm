@@ -4,8 +4,6 @@ import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class q5939Test {
     @Test
     void test() throws IOException {
