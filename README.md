@@ -16,6 +16,11 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
   - (20210919)
 
 
++ q1202(Gold 2)
+  - 보석 도둑
+  - (20210921)
+
+
 + q1238(Gold 3)
   - 파티
   - (20210921)
