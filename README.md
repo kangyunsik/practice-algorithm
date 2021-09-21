@@ -16,6 +16,11 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
   - (20210919)
 
 
++ q1238(Gold 3)
+  - 파티
+  - (20210921)
+
+
 + q1541(Silver 2)
   - 잃어버린 괄호
   - (20210909)
