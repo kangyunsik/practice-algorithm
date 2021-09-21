@@ -6,7 +6,7 @@ import java.util.*;
 public class Main {
     int n, k;
     PriorityQueue<Jewel> jewels;
-    BagTree bagTree;
+    TreeMap<Integer,Integer> map;
     long answer;
 
     public static void main(String[] args) throws IOException {
@@ -34,7 +34,7 @@ public class Main {
         this.n = n;
         this.k = k;
         jewels = new PriorityQueue<>(Collections.reverseOrder());
-        bagTree = new BagTree();
+        map = new TreeMap<>();
         answer = 0;
     }
 
@@ -46,15 +46,20 @@ public class Main {
     }
 
     void setBag(String input) {
-        bagTree.insertValue(Integer.parseInt(input));
+        int size = Integer.parseInt(input);
+        map.merge(size, 1, Integer::sum);
     }
 
     void run() {
         while (!jewels.isEmpty()) {
             Jewel poll = jewels.poll();
-            int best = bagTree.getBestFitValue(poll.size);
-            if (best != 0) {
-                bagTree.deleteByValue(best);
+            Integer best = map.ceilingKey(poll.size);
+            if (best != null) {
+                if(map.get(best) == 1){
+                    map.remove(best);
+                }else{
+                    map.put(best,map.get(best)-1);
+                }
                 answer += poll.value;
             }
         }
@@ -75,88 +80,6 @@ public class Main {
 
         public Jewel(int size, int value) {
             this.size = size;
-            this.value = value;
-        }
-    }
-
-    class BagTree {
-        Node root;
-
-        int getBestFitValue(int target) {
-            Node current = root;
-            int temp = Integer.MAX_VALUE;
-
-            while (current != null) {
-                if (current.value == target) {
-                    return current.value;
-                } else if (current.value > target) {
-                    temp = Math.min(temp, current.value);
-                    current = current.left;
-                } else {
-                    current = current.right;
-                }
-            }
-
-            return temp == Integer.MAX_VALUE ? 0 : temp;
-        }
-
-        void insertValue(int value) {
-            root = insertRecursive(root, value);
-        }
-
-        void deleteByValue(int value) {
-            root = deleteRecursive(root, value);
-        }
-
-        private Node insertRecursive(Node current, int value) {
-            if (current == null)
-                return new Node(value);
-
-            if (value < current.value)
-                current.left = insertRecursive(current.left, value);
-            else {
-                current.right = insertRecursive(current.right, value);
-            }
-            return current;
-        }
-
-        private Node deleteRecursive(Node current, int value) {
-            if (current == null)
-                return null;
-
-            if (current.value == value) {
-                if (current.left == null && current.right == null) {
-                    return null;
-                } else if (current.right == null) {
-                    return current.left;
-                } else if (current.left == null) {
-                    return current.right;
-                }
-
-                int smallestValue = findSmallestValue(current.right);
-                current.value = smallestValue;
-                current.right = deleteRecursive(current.right, smallestValue);
-                return current;
-
-            } else if (current.value < value) {
-                current.right = deleteRecursive(current.right, value);
-            } else {
-                current.left = deleteRecursive(current.left, value);
-            }
-            return current;
-        }
-
-        private int findSmallestValue(Node root) {
-            return root.left == null ? root.value : findSmallestValue(root.left);
-        }
-    }
-
-    class Node {
-        Node left;
-        Node right;
-        int value;
-
-        public Node(int value) {
             this.value = value;
         }
     }

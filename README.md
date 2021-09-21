@@ -19,6 +19,7 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
 + q1202(Gold 2)
   - 보석 도둑
   - (20210921)
+  - (20210921) - Refactoring
 
 
 + q1238(Gold 3)
