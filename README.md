@@ -36,6 +36,11 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
   - (20210907)
   
 
++ q2143(Gold 3)
+  - 두 배열의 합
+  - (20210921)
+
+
 + q2630(Silver 3)
   - 색종이 만들기
   - (20210907)
