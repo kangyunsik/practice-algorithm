@@ -42,6 +42,11 @@ https://www.acmicpc.net/problem/{QUESTION-NUMBER}
   - (20210907)
   
 
++ q1967(Gold 4)
+  - 트리의 지름
+  - (20210923)
+
+
 + q2143(Gold 3)
   - 두 배열의 합
   - (20210921)
