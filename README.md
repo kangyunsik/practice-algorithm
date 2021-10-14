@@ -175,6 +175,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211014)
 
 
++ q42579
+  - 베스트앨범
+  - (20211014)
+
+
 + q49994
   - 방문 길이
   - (20211006)
