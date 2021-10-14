@@ -160,6 +160,16 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 
 ## <a name="programmers">Programmers</a>
 
++ q42576
+  - 완주하지 못한 선수
+  - (20211013)
+
+
++ q42577
+  - 전화번호 목록
+  - (20211014)
+
+
 + q49994
   - 방문 길이
   - (20211006)
