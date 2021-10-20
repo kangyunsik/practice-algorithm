@@ -205,6 +205,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211020)
 
 
++ q43105
+  - 정수 삼각형
+  - (20211020)
+
+
 + q49994
   - 방문 길이
   - (20211006)
