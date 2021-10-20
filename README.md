@@ -198,8 +198,13 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q42587
   - 프린터
   - (20211018)
-
   
+
++ q42626
+  - 더 맵게
+  - (20211020)
+
+
 + q49994
   - 방문 길이
   - (20211006)
