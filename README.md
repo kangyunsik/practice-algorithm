@@ -185,6 +185,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211019)
 
 
++ q42584
+  - 주식가격
+  - (20211020)
+
+
 + q42586
   - 기능개발
   - (20211017)
