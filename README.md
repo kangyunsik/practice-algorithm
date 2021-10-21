@@ -60,6 +60,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210921)
 
 
++ q2504(Silver 2)
+  - 괄호의 값
+  - (20211021)
+
+
 + q2630(Silver 3)
   - 색종이 만들기
   - (20210907)
