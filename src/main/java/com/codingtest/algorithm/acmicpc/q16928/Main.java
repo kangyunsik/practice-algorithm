@@ -46,15 +46,10 @@ public class Main {
 
     public void run(int index, int dep) {
         array[index] = dep;
-
         for (int i = 1; i <= 6 && index + i <= 100; i++) {
-            int next_index = map.get(index + i) == null ?
-                    index + i :
-                    map.get(index+i);
-
-            if (array[next_index] > array[index] + 1) {
+            int next_index = map.getOrDefault(index+i,index+i);
+            if (array[next_index] > array[index] + 1)
                 run(next_index, dep + 1);
-            }
         }
     }
 

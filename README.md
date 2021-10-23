@@ -154,6 +154,7 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q16928(Silver 1)
   - 뱀과 사다리 게임
   - (20210914)
+  - (20211023) - Refactoring
 
 
 + q16953(Silver 1)
