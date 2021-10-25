@@ -261,6 +261,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211025)
 
 
++ q42898
+  - 등굣길
+  - (20211025)
+
+
 + q43105
   - 정수 삼각형
   - (20211020)
