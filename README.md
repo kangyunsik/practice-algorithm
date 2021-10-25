@@ -236,6 +236,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211020)
 
 
++ q42839
+  - 소수 찾기
+  - (20211025)
+
+
 + q42840
   - 모의고사
   - (20211025)
