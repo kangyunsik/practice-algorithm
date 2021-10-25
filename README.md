@@ -246,6 +246,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211025)
 
 
++ q42860
+  - 조이스틱
+  - (20211025)
+
+
 + q42862
   - 체육복
   - (20211025)
