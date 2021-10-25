@@ -256,6 +256,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211025)
 
 
++ q42895
+  - N으로 표현
+  - (20211025)
+
+
 + q43105
   - 정수 삼각형
   - (20211020)
