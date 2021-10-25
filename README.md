@@ -14,6 +14,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 
 ## <a name="acmicpc">Acmicpc</a>
 
++ q1036(Gold 1)
+  - 36진수
+  - (20211024)
+
+
 + q1043(Gold 4)
   - 거짓말
   - (20210917)
@@ -229,6 +234,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q42626
   - 더 맵게
   - (20211020)
+
+
++ q42840
+  - 모의고사
+  - (20211025)
 
 
 + q43105
