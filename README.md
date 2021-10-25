@@ -261,6 +261,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211025)
 
 
++ q42897
+  - 도둑질
+  - (20211026) - FAIL
+
+
 + q42898
   - 등굣길
   - (20211025)
