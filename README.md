@@ -246,6 +246,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211025)
 
 
++ q42862
+  - 체육복
+  - (20211025)
+
+
 + q43105
   - 정수 삼각형
   - (20211020)
