@@ -301,6 +301,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211006)
 
 
++ q60062
+  - 외벽 점검
+  - (20211030)
+
+
 + q83201
   - 상호 평가
   - 위클리 챌린지 2주차
