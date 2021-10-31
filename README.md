@@ -316,6 +316,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211031)
 
 
++ q60061
+  - 기둥과 보 설치
+  - (20211031)
+
+
 + q60062
   - 외벽 점검
   - (20211030)
