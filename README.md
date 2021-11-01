@@ -343,6 +343,7 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q62048
   - 멀쩡한 사각형
   - (20211102)
+  - (20211002) - Refactoring
 
 
 + q83201
