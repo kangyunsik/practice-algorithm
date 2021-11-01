@@ -1,5 +1,6 @@
 package com.codingtest.algorithm.programmers.q1829;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -7,7 +8,6 @@ class Solution {
     public int[] solution(int m, int n, int[][] picture) {
         int numberOfArea = 0;
         int maxSizeOfOneArea = 0;
-
         boolean[][] check = new boolean[m][n];
 
         int[] dx = {0, 1, -1, 0};
