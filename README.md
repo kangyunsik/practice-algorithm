@@ -265,6 +265,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211025)
 
 
++ q42888
+  - 오픈채팅방
+  - (20211102)
+
+
 + q42895
   - N으로 표현
   - (20211025)
