@@ -2,6 +2,8 @@ package com.codingtest.algorithm.programmers.q42897;
 
 import org.junit.jupiter.api.Test;
 
+import java.util.Arrays;
+
 import static org.assertj.core.api.Assertions.assertThat;
 
 class q42897Test {
@@ -157,4 +159,12 @@ class q42897Test {
         assertThat(result).isEqualTo(expect);
     }
 
+    @Test
+    void copy_array_test(){
+        int[] ints = {5,10,15};
+        int[] p = Arrays.copyOfRange(ints,1,3);
+        for (int i : p) {
+            System.out.println("i = " + i);
+        }
+    }
 }
