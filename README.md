@@ -190,6 +190,12 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - 카카오프렌즈 컬러링북
   - (20211101)
 
+
++ q12973
+  - 짝지어 제거하기
+  - (20211104)
+
+
 + q17676
   - 추석 트래픽
   - (20211029)
