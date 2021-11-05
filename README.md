@@ -289,6 +289,7 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q42897
   - 도둑질
   - (20211026) - FAIL
+  - (20211103) - SUCCESS
 
 
 + q42898
