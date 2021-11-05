@@ -2,6 +2,10 @@ package com.codingtest.algorithm.programmers.q12973;
 
 import org.junit.jupiter.api.Test;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+
 import static org.assertj.core.api.Assertions.assertThat;
 
 class q12973Test {
