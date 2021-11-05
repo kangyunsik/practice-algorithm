@@ -353,6 +353,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211002) - Refactoring
 
 
++ q64065
+  - 튜플
+  - (20211106)
+
+
 + q72411
   - 메뉴 리뉴얼
   - (20211106)
