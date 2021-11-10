@@ -80,6 +80,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211111)
 
 
++ q2468(Silver 1)
+  - 안전 영역
+  - (20211111)
+
+
 + q2504(Silver 2)
   - 괄호의 값
   - (20211021)
