@@ -322,6 +322,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211109) - FAIL
 
 
++ q49189
+  - 가장 먼 노드
+  - (20211110)
+
+
 + q49994
   - 방문 길이
   - (20211006)
