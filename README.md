@@ -317,6 +317,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211028)
 
 
++ q43238
+  - 입국심사
+  - (20211109) - FAIL
+
+
 + q49994
   - 방문 길이
   - (20211006)
