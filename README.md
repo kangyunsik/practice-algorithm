@@ -409,3 +409,8 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - 전력망을 둘로 나누기
   - 위클리 챌린지 9주차
   - (20211006)
+
+
++ q87946
+  - 피로도
+  - (20211112)
