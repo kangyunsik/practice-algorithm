@@ -191,6 +191,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210907)
 
 
++ q13975(Gold 5)
+  - 파일 합치기 3
+  - (20211126)
+
+
 + q14500(Gold 5)
   - 테트로미노
   - (20210916)
