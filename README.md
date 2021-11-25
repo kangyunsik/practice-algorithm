@@ -141,6 +141,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210915)
 
 
++ q11052(Silver 1)
+  - 카드 구매하기
+  - (20211126)
+
+
 + q11286(Silver 1)
   - 절댓값 힙
   - (20210913)
