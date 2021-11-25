@@ -1,8 +1,6 @@
 package com.codingtest.algorithm.acmicpc.q9963;
 
 import java.io.*;
-import java.util.HashSet;
-import java.util.Set;
 
 public class Main {
 

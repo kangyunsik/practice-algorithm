@@ -100,6 +100,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211021)
 
 
++ q2580(Gold 4)
+  - 스도쿠
+  - (20211126)
+
+
 + q2630(Silver 3)
   - 색종이 만들기
   - (20210907)
