@@ -50,6 +50,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210909)
 
 
++ q1717(Gold 4)
+  - 집합의 표현
+  - (20211126)
+
+
 + q1753(Gold 5)
   - 최단경로
   - (20210921)
