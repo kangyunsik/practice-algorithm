@@ -65,6 +65,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211022)
 
 
++ q1920(Silver 4)
+  - 수 찾기
+  - (20211125)
+
+
 + q1967(Gold 4)
   - 트리의 지름
   - (20210923)
