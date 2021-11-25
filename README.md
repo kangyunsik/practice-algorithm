@@ -131,6 +131,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210914)
 
 
++ q9663(Gold 5)
+  - N-Queen
+  - (20211126)
+
+
 + q10026(Gold 5)
   - 적록색약
   - (20210915)
