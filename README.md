@@ -100,6 +100,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211111)
 
 
++ q2493(Gold 5)
+  - 탑
+  - (20211126)
+
+
 + q2504(Silver 2)
   - 괄호의 값
   - (20211021)
