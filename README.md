@@ -166,6 +166,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210916)
 
 
++ q14501(Silver 3)
+  - 퇴사
+  - (20211126)
+
+
 + q14888(Silver 1)
   - 연산자 끼워넣기
   - (20211021)
