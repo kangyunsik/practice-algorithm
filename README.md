@@ -232,6 +232,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211126)
 
 
++ q15712(Gold 2)
+  - 등비수열
+  - (20211127)
+
+
 + q16236(Gold 5)
   - 아기 상어
   - (20190917)
