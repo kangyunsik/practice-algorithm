@@ -14,6 +14,12 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 
 ## <a name="acmicpc">Acmicpc</a>
 
+
++ q1016(Gold 1)
+  - 제곱 ㄴㄴ 수
+  - (20211126)
+
+
 + q1036(Gold 1)
   - 36진수
   - (20211024)
