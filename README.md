@@ -66,6 +66,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210909)
 
 
++ q1644(Gold 3)
+  - 소수의 연속합
+  - (20211128)
+
+
 + q1717(Gold 4)
   - 집합의 표현
   - (20211126)
