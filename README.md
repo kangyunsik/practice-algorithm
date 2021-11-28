@@ -161,6 +161,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210907)
 
 
++ q3008(Platinum 5)
+  - 직각 삼각형의 개수
+  - (20211129) - TIMEOUT
+
+
 + q3273(Silver 3)
   - 두 수의 합
   - (20211128)
