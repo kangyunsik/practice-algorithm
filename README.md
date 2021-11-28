@@ -121,6 +121,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211111)
 
 
++ q2470(Gold 5)
+  - 두 용액
+  - (20211128)
+
+
 + q2493(Gold 5)
   - 탑
   - (20211126)
