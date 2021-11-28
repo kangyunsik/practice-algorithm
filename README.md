@@ -51,6 +51,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211110)
 
 
++ q1337(Silver 4)
+  - 올바른 배열
+  - (20211128)
+
+
 + q1541(Silver 2)
   - 잃어버린 괄호
   - (20210909)
