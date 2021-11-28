@@ -116,6 +116,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210921)
 
 
++ q2230(Gold 5)
+  - 수 고르기
+  - (20211129)
+
+
 + q2331(Silver 4)
   - 반복수열
   - (20211111)
