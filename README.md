@@ -232,6 +232,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210907)
 
 
++ q11728(Silver 5)
+  - 배열 합치기
+  - (20211128)
+
+
 + q12865(Gold 5)
   - 평범한 배낭
   - (20211128)
