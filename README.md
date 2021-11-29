@@ -71,6 +71,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211128)
 
 
++ q1715(Gold 4)
+  - 카드 정렬하기
+  - (20211130)
+
+
 + q1717(Gold 4)
   - 집합의 표현
   - (20211126)
