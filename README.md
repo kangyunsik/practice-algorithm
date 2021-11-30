@@ -61,6 +61,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211128)
 
 
++ q1504(Gold 4)
+  - 특정한 최단 경로
+  - (20211201)
+
+
 + q1541(Silver 2)
   - 잃어버린 괄호
   - (20210909)
