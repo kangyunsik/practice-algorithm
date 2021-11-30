@@ -116,6 +116,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211127)
 
 
++ q2042(Gold 1)
+  - 구간 합 구하기
+  - (20211130)
+  
+
 + q2143(Gold 3)
   - 두 배열의 합
   - (20210921)
