@@ -101,6 +101,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211022)
 
 
++ q1916(Gold 5)
+  - 최소비용 구하기
+  - (20211130)
+
+
 + q1920(Silver 4)
   - 수 찾기
   - (20211125)
