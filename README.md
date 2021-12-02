@@ -186,6 +186,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211126)
 
 
++ q2589(Gold 5)
+  - 보물섬
+  - (20211202)
+
+
 + q2630(Silver 3)
   - 색종이 만들기
   - (20210907)
