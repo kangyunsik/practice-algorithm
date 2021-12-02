@@ -221,6 +221,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210907)
 
 
++ q5582(Gold 5)
+  - 공통 부분 문자열
+  - (20211203)
+
+
 + q5639(Silver 1)
   - 이진 검색 트리
   - (20210918)
