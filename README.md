@@ -136,6 +136,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211130)
   
 
++ q2075(Gold 5)
+  - N번째 큰 수
+  - (20211203)
+
+
 + q2143(Gold 3)
   - 두 배열의 합
   - (20210921)
