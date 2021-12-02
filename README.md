@@ -120,6 +120,7 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - 욕심쟁이 판다
   - (20211202)
 
+
 + q1967(Gold 4)
   - 트리의 지름
   - (20210923)
@@ -198,6 +199,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q3273(Silver 3)
   - 두 수의 합
   - (20211128)
+
+
++ q5052(Gold 4)
+  - 전화번호 목록
+  - (20211202)
 
 
 + q5525(Silver 2)
