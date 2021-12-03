@@ -272,6 +272,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211126)
 
 
++ q11055(Silver 2)
+  - 가장 큰 증가 부분 수열
+  - (20211203)
+
+
 + q11066(Gold 3)
   - 파일 합치기
   - (20211126)
