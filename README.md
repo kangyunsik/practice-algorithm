@@ -472,6 +472,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211020)
 
 
++ q42746
+  - 가장 큰 수
+  - (20211205)
+
+
 + q42839
   - 소수 찾기
   - (20211025)
