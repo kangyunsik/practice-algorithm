@@ -373,6 +373,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210912)
 
 
++ q17298(Gold 4)
+  - 오큰수
+  - (20211204)
+
+
 + q17626(Silver 5)
   - Four Squares
   - (20210912)
