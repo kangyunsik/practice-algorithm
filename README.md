@@ -492,6 +492,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211102)
 
 
++ q42889
+  - 실패율
+  - (20211205)
+
+
 + q42895
   - N으로 표현
   - (20211025)
