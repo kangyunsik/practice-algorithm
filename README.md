@@ -422,6 +422,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211023)
 
 
++ q43238
+  - 입국심사
+  - (20211205)
+
+
 + q42576
   - 완주하지 못한 선수
   - (20211013)
