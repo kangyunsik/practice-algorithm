@@ -388,7 +388,7 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 ## <a name="programmers">Programmers</a>
 
 + q1835
-  - (단체사진 찍기)
+  - 단체사진 찍기
   - (20211102)
 
 
@@ -405,6 +405,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q17676
   - 추석 트래픽
   - (20211029)
+
+
++ q17677
+  - 뉴스 클러스터링
+  - (20211204)
 
 
 + q17679
