@@ -317,6 +317,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211128)
 
 
++ q12904(Gold 5)
+  - A와 B
+  - (20211205)
+
+
 + q13975(Gold 5)
   - 파일 합치기 3
   - (20211126)
