@@ -287,6 +287,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211203)
 
 
++ q11058(Gold 5)
+  - 크리보드
+  - (20211206)
+
+
 + q11066(Gold 3)
   - 파일 합치기
   - (20211126)
