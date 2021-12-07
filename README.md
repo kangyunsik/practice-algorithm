@@ -362,6 +362,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211021)
 
 
++ q14890(Gold 3)
+  - 경사로
+  - (20211207)
+
+
 + q15649(Silver 3)
   - N과 M(1)
   - (20211126)
