@@ -387,6 +387,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211126)
 
 
++ q15650(Silver 3)
+  - N과 M(2)
+  - (20211208)
+
+
 + q15651(Silver 3)
   - N과 M(3)
   - (20211204)
