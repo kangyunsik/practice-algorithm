@@ -392,6 +392,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211021)
 
 
++ q14889(Silver 3)
+  - 스타트와 링크
+  - (20211210)
+
+
 + q14890(Gold 3)
   - 경사로
   - (20211207)
