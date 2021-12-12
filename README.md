@@ -161,6 +161,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211203)
 
 
++ q2096(Gold 4)
+  - 내려가기
+  - (20211212)
+
+
 + q2143(Gold 3)
   - 두 배열의 합
   - (20210921)
