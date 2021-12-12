@@ -367,6 +367,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211128)
 
 
++ q11779(Gold 3)
+  - 최소비용 구하기 2
+  - (20211212)
+
+
 + q12865(Gold 5)
   - 평범한 배낭
   - (20211128)
