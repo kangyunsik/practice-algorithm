@@ -417,6 +417,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211207)
 
 
++ q14939(Platinum 5)
+  - 불 끄기
+  - (20211214)
+
+
 + q15649(Silver 3)
   - N과 M(1)
   - (20211126)
