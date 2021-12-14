@@ -56,6 +56,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211110)
 
 
++ q1287(Platinum 5)
+  - 할 수 있다
+  - (20211214)
+
+
 + q1323(Gold 5)
   - 숫자 연결하기
   - (20211205)
