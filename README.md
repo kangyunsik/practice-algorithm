@@ -459,7 +459,12 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 
 + q16236(Gold 5)
   - 아기 상어
-  - (20190917)
+  - (20210917)
+
+
++ q16566(Platinum 5)
+  - 카드 게임
+  - (20211214)
 
 
 + q16928(Silver 1)
