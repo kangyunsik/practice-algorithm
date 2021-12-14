@@ -392,6 +392,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211126)
 
 
++ q14003(Platinum 5)
+  - 가장 긴 증가하는 부분 수열 5
+  - (20211214)
+
+
 + q14500(Gold 5)
   - 테트로미노
   - (20210916)
