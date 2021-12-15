@@ -41,6 +41,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210921) - Refactoring
 
 
++ q1208(Gold 1)
+  - 부분수열의 합 2
+  - (20211215)
+
+
 + q1238(Gold 3)
   - 파티
   - (20210921)
