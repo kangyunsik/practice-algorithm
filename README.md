@@ -25,6 +25,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211024)
 
 
++ q1038(Gold 5)
+  - 감소하는 수
+  - (20211217)
+
+
 + q1043(Gold 4)
   - 거짓말
   - (20210917)
