@@ -35,6 +35,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210917)
 
 
++ q1111(Gold 2)
+  - IQ Test
+  - (20211218)
+
+
 + q1167(Gold 3)
   - 트리의 지름
   - (20210919)
