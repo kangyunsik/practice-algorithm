@@ -241,6 +241,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211021)
 
 
++ q2568(Platinum 5)
+  - 전깃줄 - 2
+  - (20211219)
+
+
 + q2580(Gold 4)
   - 스도쿠
   - (20211126)
