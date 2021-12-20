@@ -332,6 +332,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211206)
 
 
++ q10942(Gold 3)
+  - 팰린드롬?
+  - (20211220)
+
+
 + q11004(Silver 5)
   - K번째 수
   - (20211209)
