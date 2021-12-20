@@ -196,6 +196,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210921)
 
 
++ q2166(Gold 5)
+  - 다각형의 면적
+  - (20211220)
+
+
 + q2206(Gold 4)
   - 벽 부수고 이동하기
   - (20211129)
