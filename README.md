@@ -301,6 +301,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210918)
 
 
++ q6549(Platinum 5)
+  - 히스토그램에서 가장 큰 직사각형
+  - (20211221)
+
+
 + q7453(Gold 2)
   - 합이 0인 네 정수
   - (20211128)
