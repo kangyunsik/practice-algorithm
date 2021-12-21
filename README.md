@@ -166,6 +166,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211202)
 
 
++ q1946(Silver 1)
+  - 신입 사원
+  - (20211221)
+
+
 + q1967(Gold 4)
   - 트리의 지름
   - (20210923)
