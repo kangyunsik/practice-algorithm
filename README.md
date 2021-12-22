@@ -357,6 +357,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211209)
 
 
++ q11049(Gold 3)
+  - 행렬 곱셈 순서
+  - (20211222)
+
+
 + q11052(Silver 1)
   - 카드 구매하기
   - (20211126)
