@@ -216,6 +216,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211129)
 
 
++ q2252(Gold 3)
+  - 줄 세우기
+  - (20211222)
+
+
 + q2263(Gold 2)
   - 트리의 순회
   - (20211209)
