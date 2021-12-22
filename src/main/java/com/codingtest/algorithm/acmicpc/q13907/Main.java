@@ -31,8 +31,8 @@ public class Main {
             a = Integer.parseInt(st.nextToken())-1;
             b = Integer.parseInt(st.nextToken())-1;
             c = Integer.parseInt(st.nextToken());
-            edges[a].put(b, Math.min(edges[a].getOrDefault(b, Integer.MAX_VALUE), c));
-            edges[b].put(a, Math.min(edges[b].getOrDefault(a, Integer.MAX_VALUE), c));
+            edges[a].put(b, Math.min(edges[a].getOrDefault(b, INF), c));
+            edges[b].put(a, Math.min(edges[b].getOrDefault(a, INF), c));
         }
         dijkstra(s,e);
 
