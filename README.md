@@ -447,6 +447,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211207)
 
 
++ q13907(Platinum 4)
+  - 세금
+  - (20211222)
+
+
 + q13975(Gold 5)
   - 파일 합치기 3
   - (20211126)
