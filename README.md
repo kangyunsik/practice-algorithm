@@ -35,6 +35,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210917)
 
 
++ q1052(Silver 1)
+  - 물병
+  - (20211222)
+
+
 + q1111(Gold 2)
   - IQ Test
   - (20211218)
