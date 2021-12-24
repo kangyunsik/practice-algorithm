@@ -357,6 +357,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210914)
 
 
++ q9205(Silver 1)
+  - 맥주 마시면서 걸어가기
+  - (20211224)
+
+
 + q9663(Gold 5)
   - N-Queen
   - (20211126)
