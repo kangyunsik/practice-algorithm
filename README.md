@@ -392,6 +392,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211126)
 
 
++ q11054(Gold 3)
+  - 가장 긴 바이토닉 부분수열
+  - (20211224)
+
+
 + q11055(Silver 2)
   - 가장 큰 증가 부분 수열
   - (20211203)
