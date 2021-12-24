@@ -20,6 +20,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211126)
 
 
++ q1028(Platinum 5)
+  - 다이아몬드 광산
+  - (20211225)
+
+
 + q1036(Gold 1)
   - 36진수
   - (20211024)
