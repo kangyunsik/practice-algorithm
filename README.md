@@ -294,6 +294,7 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q3008(Platinum 5)
   - 직각 삼각형의 개수
   - (20211129) - TIMEOUT
+  - (20211225) - TIMEOUT
 
 
 + q3273(Silver 3)
