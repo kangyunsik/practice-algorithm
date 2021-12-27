@@ -116,6 +116,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211128)
 
 
++ q1655(Gold 2)
+  - 가운데를 말해요
+  - (20211228)
+
+
 + q1707(Gold 4)
   - 이분 그래프
   - (20211208)
