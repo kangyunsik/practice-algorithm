@@ -563,6 +563,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211213)
 
 
++ q15663(Silver 2)
+  - N과 M(9)
+  - (20211227)
+
+
 + q15686(Gold 5)
   - 치킨 배달
   - (20211213)
