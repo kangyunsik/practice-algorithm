@@ -50,6 +50,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211222)
 
 
++ q1062(Gold 4)
+  - 가르침
+  - (20211228)
+
+
 + q1111(Gold 2)
   - IQ Test
   - (20211218)
