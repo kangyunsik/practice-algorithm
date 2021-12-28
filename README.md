@@ -20,6 +20,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211126)
 
 
++ q1025(Gold 5)
+  - 제곱수 찾기
+  - (20211228)
+
+
 + q1028(Platinum 5)
   - 다이아몬드 광산
   - (20211225)
