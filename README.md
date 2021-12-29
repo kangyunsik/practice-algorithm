@@ -281,6 +281,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211128)
 
 
++ q2481(Gold 2)
+  - 해밍 경로
+  - (20211229)
+
+
 + q2493(Gold 5)
   - 탑
   - (20211126)
