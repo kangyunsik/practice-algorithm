@@ -518,6 +518,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211205)
 
 
++ q13460(Gold 1)
+  - 구슬 탈출 2
+  - (20211230)
+
+
 + q13549(Gold 5)
   - 숨바꼭질 3
   - (20211207)
