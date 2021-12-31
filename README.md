@@ -55,6 +55,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211228)
 
 
++ q1069(Gold 2)
+  - 집으로
+  - (20211231)
+
+
 + q1111(Gold 2)
   - IQ Test
   - (20211218)
