@@ -216,6 +216,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211127)
 
 
++ q2004(Silver 2)
+  - 조합 0의 개수
+  - (20220102)
+
+
 + q2042(Gold 1)
   - 구간 합 구하기
   - (20211130)
