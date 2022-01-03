@@ -518,6 +518,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211212)
 
 
++ q12782(Silver 4)
+  - 비트 우정지수
+  - (20220103)
+
+
 + q12865(Gold 5)
   - 평범한 배낭
   - (20211128)
