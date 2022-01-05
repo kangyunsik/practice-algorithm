@@ -101,6 +101,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211214)
 
 
++ q1300(Gold 2)
+  - K번째 수
+  - (20220105)
+
+
 + q1323(Gold 5)
   - 숫자 연결하기
   - (20211205)
