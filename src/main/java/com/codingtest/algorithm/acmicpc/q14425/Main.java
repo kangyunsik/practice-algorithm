@@ -1,7 +1,8 @@
 package com.codingtest.algorithm.acmicpc.q14425;
 
 import java.io.*;
-import java.util.Map;
+import java.util.HashSet;
+import java.util.Set;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -12,13 +13,13 @@ public class Main {
         int n, m, ans = 0;
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
-        Trie trie = new Trie();
+        Set<String> already = new HashSet<>();
 
         for (int i = 0; i < n; i++) {
-            trie.offer(br.readLine(), 0);
+            already.add(br.readLine());
         }
         for (int i = 0; i < m; i++) {
-            if (trie.find(br.readLine(), 0)) {
+            if (already.contains(br.readLine())) {
                 ans++;
             }
         }
@@ -27,41 +28,4 @@ public class Main {
         bw.flush();
         bw.close();
     }
-}
-
-class Trie {
-    int cnt;
-    Trie[] sub;
-
-    public Trie() {
-        this.cnt = 0;
-        this.sub = new Trie[26];
-    }
-
-    public void offer(String string, int loc) {
-        if (loc == string.length()) {
-            this.cnt++;
-            return;
-        }
-
-        int index = string.charAt(loc) - 'a';
-        if (sub[index] == null) {
-            sub[index] = new Trie();
-        }
-        sub[index].offer(string, loc + 1);
-    }
-
-    public boolean find(String input, int loc) {
-        if (input.length() == loc) {
-            return this.cnt > 0;
-        }
-
-        int index = input.charAt(loc) - 'a';
-        if (sub[index] != null) {
-            return sub[index].find(input, loc + 1);
-        } else {
-            return false;
-        }
-    }
-
 }
