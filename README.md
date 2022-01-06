@@ -573,6 +573,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211214)
 
 
++ q14425(Silver 3)
+  - 문자열 집합
+  - (20220106)
+
+
 + q14500(Gold 5)
   - 테트로미노
   - (20210916)
