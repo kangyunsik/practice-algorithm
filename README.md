@@ -326,6 +326,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211202)
 
 
++ q2629(Gold 3)
+  - 양팔저울
+  - (20220107)
+
+
 + q2630(Silver 3)
   - 색종이 만들기
   - (20210907)
