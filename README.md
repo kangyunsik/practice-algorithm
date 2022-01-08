@@ -407,6 +407,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210907)
 
 
++ q7579(Gold 3)
+  - 앱
+  - (20220108)
+
+
 + q7662(Gold 5)
   - 이중 우선순위 큐
   - (20210908) - Timeout
