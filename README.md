@@ -397,6 +397,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211128)
 
 
++ q7562(Silver 2)
+  - 나이트의 이동
+  - (20220108)
+
+
 + q7569(Silver 1)
   - 토마토(3차원)
   - (20210913)
