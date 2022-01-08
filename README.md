@@ -463,6 +463,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211220)
 
 
++ q11003(Platinum 5)
+  - 최솟값 찾기
+  - (20220108)
+
+
 + q11004(Silver 5)
   - K번째 수
   - (20211209)
