@@ -116,6 +116,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211128)
 
 
++ q1450(Gold 1)
+  - 냅색문제
+  - (20220108)
+
+
 + q1504(Gold 4)
   - 특정한 최단 경로
   - (20211201)
