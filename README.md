@@ -271,6 +271,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211129)
 
 
++ q2234(Gold 4)
+  - 성곽
+  - (20220110)
+
+
 + q2252(Gold 3)
   - 줄 세우기
   - (20211222)
