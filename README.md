@@ -356,6 +356,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211230)
 
 
++ q2696(Gold 2)
+ - 중앙값 구하기
+ - (20220110)
+
+
 + q3008(Platinum 5)
   - 직각 삼각형의 개수
   - (20211129) - TIMEOUT
