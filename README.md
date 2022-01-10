@@ -357,8 +357,8 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 
 
 + q2696(Gold 2)
- - 중앙값 구하기
- - (20220110)
+  - 중앙값 구하기
+  - (20220110)
 
 
 + q3008(Platinum 5)
