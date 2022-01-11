@@ -301,6 +301,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211226)
 
 
++ q2463(Platinum 5)
+  - 비용
+  - (20220111)
+
+
 + q2468(Silver 1)
   - 안전 영역
   - (20211111)
