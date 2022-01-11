@@ -286,6 +286,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211209)
 
 
++ q2283(Gold 2)
+  - 구간 자르기
+  - (20220111)
+
+
 + q2331(Silver 4)
   - 반복수열
   - (20211111)
