@@ -1,7 +1,5 @@
 # Practice Algorithms
 
-### In the Spring project, the package is divided by algorithm problem and, if necessary, test code is written and algorithm study is performed.
-
 ### (acmicpc)
 
 https://www.acmicpc.net/problem/{QUESTION-NUMBER}
@@ -777,6 +775,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q18258(Silver 4)
   - 큐
   - (20220101)
+
+
++ q21608(Silver 1)
+  - 상어 초등학교
+  - (20220113)
 
 
 ---------------------------------------------------------
