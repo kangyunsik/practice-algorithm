@@ -646,6 +646,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220111)
 
 
++ q14499(Gold 4)
+  - 주사위 굴리기
+  - (20220114)
+
+
 + q14500(Gold 5)
   - 테트로미노
   - (20210916)
