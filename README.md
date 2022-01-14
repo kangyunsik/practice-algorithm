@@ -777,6 +777,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211204)
 
 
++ q17406(Gold 4)
+  - 배열 돌리기 4
+  - (20220114)
+
+
 + q17626(Silver 5)
   - Four Squares
   - (20210912)
