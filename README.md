@@ -596,6 +596,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220103)
 
 
++ q12852(Silver 1)
+  - 1로 만들기 2
+  - (20220114)
+
+
 + q12865(Gold 5)
   - 평범한 배낭
   - (20211128)
