@@ -99,6 +99,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211214)
 
 
++ q1292(Silver 5)
+  - 쉽게 푸는 문제
+  - (20220115)
+
+
 + q1300(Gold 2)
   - K번째 수
   - (20220105)
