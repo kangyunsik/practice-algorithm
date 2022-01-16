@@ -686,6 +686,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211207)
 
 
++ q14891(Silver 1)
+  - 톱니바퀴
+  - (20220116)
+
+
 + q14939(Platinum 5)
   - 불 끄기
   - (20211214)
