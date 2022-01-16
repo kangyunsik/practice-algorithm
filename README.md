@@ -641,6 +641,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211126)
 
 
++ q14002(Gold 4)
+  - 가장 긴 증가하는 부분 수열 4
+  - (20220116)
+
+
 + q14003(Platinum 5)
   - 가장 긴 증가하는 부분 수열 5
   - (20211214)
