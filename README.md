@@ -601,6 +601,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220117)
 
 
++ q12100(Gold 2)
+  - 2048 (Easy)
+  - (20220117)
+
+
 + q12782(Silver 4)
   - 비트 우정지수
   - (20220103)
