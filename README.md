@@ -380,6 +380,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211225) - TIMEOUT
 
 
++ q3190(Gold 5)
+  - 뱀
+  - (20220118)
+
+
 + q3273(Silver 3)
   - 두 수의 합
   - (20211128)
