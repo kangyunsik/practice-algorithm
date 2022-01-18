@@ -691,6 +691,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211126)
 
 
++ q14503(Gold 5)
+  - 로봇 청소기
+  - (20220118)
+
+
 + q14725(Gold 2)
   - 개미굴
   - (20220106)
