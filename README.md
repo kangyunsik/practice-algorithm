@@ -388,6 +388,7 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q3197(Platinum 5)
   - 백조의 호수
   - (20220118)
+  - (20220118) - Refactoring
 
 
 + q3273(Silver 3)

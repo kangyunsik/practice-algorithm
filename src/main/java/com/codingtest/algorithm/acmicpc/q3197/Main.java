@@ -33,9 +33,9 @@ public class Main {
                     y1 = j;
                 }
 
-                if(c == 'X'){
+                if (c == 'X') {
                     board[i][j] = -1;
-                }else{
+                } else {
                     none[i][j] = true;
                     water.add(encodePosition(i, j));
                 }
@@ -44,7 +44,7 @@ public class Main {
 
         int ans = 0;
         init();
-        while(!find(board[x1][y1],board[x2][y2])){
+        while (!find(board[x1][y1], board[x2][y2])) {
             impact();
             ans++;
         }
@@ -53,7 +53,7 @@ public class Main {
         bw.flush();
     }
 
-    private static void init(){
+    private static void init() {
         int cnt = 1;
         Queue<Integer> qx = new LinkedList<>();
         Queue<Integer> qy = new LinkedList<>();
@@ -61,10 +61,10 @@ public class Main {
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if(already[i][j] || board[i][j] == -1) continue;
+                if (already[i][j] || board[i][j] == -1) continue;
                 qx.offer(i);
                 qy.offer(j);
-                while(!qx.isEmpty()){
+                while (!qx.isEmpty()) {
                     Integer X = qx.poll();
                     Integer Y = qy.poll();
                     board[X][Y] = cnt;
@@ -97,12 +97,12 @@ public class Main {
                 int px = poses[0] + dx[i];
                 int py = poses[1] + dy[i];
                 if (inRange(px, py)) {
-                    if(!none[px][py]){
-                        temp.add(encodePosition(px,py));
-                        none[px][py] = true;
-                    }
-                    if(board[px][py] > 0){
+                    if (board[px][py] > 0) {
                         union(board[px][py], board[poses[0]][poses[1]]);
+                    }
+                    if (!none[px][py]) {
+                        temp.add(encodePosition(px, py));
+                        none[px][py] = true;
                     }
                     board[px][py] = board[poses[0]][poses[1]];
                 }
@@ -115,7 +115,7 @@ public class Main {
                 int px = poses[0] + dx[i];
                 int py = poses[1] + dy[i];
                 if (inRange(px, py)) {
-                    if(board[px][py] > 0){
+                    if (board[px][py] > 0) {
                         union(board[px][py], board[poses[0]][poses[1]]);
                     }
                 }
@@ -124,22 +124,22 @@ public class Main {
         water = new HashSet<>(temp);
     }
 
-    private static void union(int a, int b){
+    private static void union(int a, int b) {
         a = getParent(a);
         b = getParent(b);
-        if(a > b) parent[a] = b;
+        if (a > b) parent[a] = b;
         else parent[b] = a;
     }
 
-    private static int getParent(int a){
-        if(parent[a] == a) return a;
+    private static int getParent(int a) {
+        if (parent[a] == a) return a;
         else return parent[a] = getParent(parent[a]);
     }
 
-    private static boolean find(int a, int b){
+    private static boolean find(int a, int b) {
         a = getParent(a);
         b = getParent(b);
-        return a==b;
+        return a == b;
     }
 
     private static boolean inRange(int x, int y) {
