@@ -507,6 +507,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210915)
 
 
++ q10253(Gold 2)
+  - 헨리
+  - (20220119)
+
+
 + q10825(Silver 4)
   - 국영수
   - (20211206)
