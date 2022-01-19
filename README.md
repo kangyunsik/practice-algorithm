@@ -58,6 +58,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211231)
 
 
++ q1083(Gold 4)
+  - 소트
+  - (20220119)
+
+
 + q1111(Gold 2)
   - IQ Test
   - (20211218)
