@@ -349,6 +349,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211219)
 
 
++ q2573(Gold 4)
+  - 빙산
+  - (20220120)
+
+
 + q2580(Gold 4)
   - 스도쿠
   - (20211126)
