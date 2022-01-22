@@ -817,6 +817,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220113)
 
 
++ q16235(Gold 4)
+  - 나무 재테크
+  - (20220122)
+
+
 + q16236(Gold 5)
   - 아기 상어
   - (20210917)
