@@ -937,6 +937,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220122)
 
 
++ q17687
+  - [3차] n진수 게임
+  - (20220122)
+
+
 + q43238
   - 입국심사
   - (20211205)
