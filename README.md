@@ -512,6 +512,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220112)
 
 
++ q9466(Gold 3)
+  - 텀 프로젝트
+  - (20220122)
+
+
 + q9663(Gold 5)
   - N-Queen
   - (20211126)
