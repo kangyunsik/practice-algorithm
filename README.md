@@ -431,6 +431,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211202)
 
 
++ q5373(Platinum 5)
+  - 큐빙
+  - (20220123)
+
+
 + q5525(Silver 2)
   - IOIOI
   - (20210907)
