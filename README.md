@@ -837,6 +837,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220113)
 
 
++ q16234(Gold 5)
+  - 인구 이동
+  - (20220124)
+
+
 + q16235(Gold 4)
   - 나무 재테크
   - (20220122)
