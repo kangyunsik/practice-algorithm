@@ -868,6 +868,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210918)
 
 
++ q17144(Gold 4)
+  - 미세먼지 안녕!
+  - (20220124)
+
+
 + q17219(Silver 4)
   - 비밀번호 찾기
   - (20210912)
