@@ -476,6 +476,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211221)
 
 
++ q6588(Silver 1)
+  - 골드바흐의 추측
+  - (20220125)
+
+
 + q7453(Gold 2)
   - 합이 0인 네 정수
   - (20211128)
