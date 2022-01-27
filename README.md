@@ -867,6 +867,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210917)
 
 
++ q16472(Gold 4)
+  - 고냥이
+  - (20220127)
+
+
 + q16566(Platinum 5)
   - 카드 게임
   - (20211214)
