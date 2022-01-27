@@ -870,6 +870,7 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q16472(Gold 4)
   - 고냥이
   - (20220127)
+  - (20220127) - Refactoring
 
 
 + q16566(Platinum 5)
