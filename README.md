@@ -234,6 +234,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210923)
 
 
++ q1976(Gold 4)
+  - 여행 가자
+  - (20220128)
+
+
 + q1987(Gold 4)
   - 알파벳
   - (20211127)
