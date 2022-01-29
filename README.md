@@ -1241,3 +1241,8 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q92341
   - 주차 요금 계산
   - (20220129)
+
+
++ q92342
+  - 양궁대회
+  - (20220129)
