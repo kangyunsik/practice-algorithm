@@ -1226,3 +1226,8 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q87946
   - 피로도
   - (20211112)
+
+
++ q92334
+  - 신고 결과 받기
+  - (20220129)
