@@ -894,6 +894,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210918)
 
 
++ q17143(Gold 2)
+  - 낚시왕
+  - (20220130)
+
+
 + q17144(Gold 4)
   - 미세먼지 안녕!
   - (20220124)
