@@ -1276,3 +1276,8 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q92342
   - 양궁대회
   - (20220129)
+
+
++ q92344
+  - 파괴되지 않은 건물
+  - (20220131)
