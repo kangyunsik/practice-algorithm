@@ -537,6 +537,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220110)
 
 
++ q9177(Gold 4)
+  - 단어 섞기
+  - (20220131)
+
+
 + q9205(Silver 1)
   - 맥주 마시면서 걸어가기
   - (20211224)
