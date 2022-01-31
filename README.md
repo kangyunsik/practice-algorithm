@@ -451,6 +451,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220125)
 
 
++ q5014(Gold 5)
+  - 스타트링크
+  - (20220131)
+
+
 + q5052(Gold 4)
   - 전화번호 목록
   - (20211202)
