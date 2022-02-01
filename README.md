@@ -314,6 +314,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211111)
 
 
++ q2357(Gold 1)
+  - 최솟값과 최댓값
+  - (20220201)
+
+
 + q2422(Silver 5)
   - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
   - (20211226)
