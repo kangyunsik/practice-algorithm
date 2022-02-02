@@ -923,6 +923,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220127) - Refactoring
 
 
++ q16565(Gold 1)
+  - N포커
+  - (20220203)
+
+
 + q16566(Platinum 5)
   - 카드 게임
   - (20211214)
