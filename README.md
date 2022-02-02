@@ -184,6 +184,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210907)
   
 
++ q1781(Gold 2)
+  - 컵라면
+  - (20220202)
+
+
 + q1806(Gold 4)
   - 부분합
   - (20211022)
