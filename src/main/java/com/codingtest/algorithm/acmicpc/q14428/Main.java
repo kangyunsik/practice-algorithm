@@ -22,7 +22,7 @@ public class Main {
         for (int i = 0; i < m; i++) {
             st = new StringTokenizer(br.readLine(), " ");
             if (st.nextToken().equals("1")) {
-                root.set(Integer.parseInt(st.nextToken()) - 1, Integer.parseInt(st.nextToken()));
+                root.change(Integer.parseInt(st.nextToken()) - 1, Integer.parseInt(st.nextToken()));
             } else {
                 int[] temp = root.findIndex(Integer.parseInt(st.nextToken()) - 1, Integer.parseInt(st.nextToken()) - 1);
                 ans.append(temp[0] + 1).append("\n");
@@ -44,19 +44,19 @@ public class Main {
             this.index = -1;
         }
 
-        public void set(int idx, int v) {
+        public void change(int idx, int v) {
             boolean need = (index == idx);
+
             if ((left == null && right == null) || value > v || (value == v && index > idx)) {
                 index = idx;
                 value = v;
             }
 
             if (idx == s && idx == e) return;
-            if (left == null) left = new Node(0, m);
-            if (right == null) right = new Node(m + 1, e);
 
-            if (idx <= m) left.set(idx, v);
-            else right.set(idx, v);
+            if (idx <= m) left.change(idx, v);
+            else  right.change(idx, v);
+
             if (need) {
                 int[] temp1 = left.findIndex(left.s, left.e);
                 int[] temp2 = right.findIndex(right.s, right.e);
@@ -69,6 +69,19 @@ public class Main {
                 index = target[0];
                 value = target[1];
             }
+        }
+
+        public void set(int idx, int v) {
+            if (value > v || (value == v && index > idx)) {
+                index = idx;
+                value = v;
+            }
+            if (idx == s && idx == e) return;
+
+            if (left == null) left = new Node(s, m);
+            if (right == null) right = new Node(m + 1, e);
+            if (idx <= m) left.set(idx, v);
+            else right.set(idx, v);
         }
 
         public int[] findIndex(int begin, int end) {

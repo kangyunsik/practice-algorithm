@@ -785,6 +785,7 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q14428(Gold 1)
   - 수열과 쿼리 16
   - (20220203)
+  - (20220203) - Refactoring
 
 
 + q14442(Gold 3)
