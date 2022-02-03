@@ -782,6 +782,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220106)
 
 
++ q14428(Gold 1)
+  - 수열과 쿼리 16
+  - (20220203)
+
+
 + q14442(Gold 3)
   - 벽 부수고 이동하기 2
   - (20220111)
