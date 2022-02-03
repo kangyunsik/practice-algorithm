@@ -1256,6 +1256,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211124)
 
 
++ q72414
+  - 광고 삽입
+  - (20220203)
+
+
 + q77485
   - 행렬 테두리 회전하기
   - (20211105)
