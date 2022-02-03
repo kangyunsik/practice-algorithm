@@ -144,6 +144,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211223)
 
 
++ q1600(Gold 4)
+  - 말이 되고픈 원숭이
+  - (20220203)
+
+
 + q1644(Gold 3)
   - 소수의 연속합
   - (20211128)
