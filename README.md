@@ -456,6 +456,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211128)
 
 
++ q3986(Silver 4)
+  - 좋은 단어
+  - (20220205)
+
+
 + q4358(Silver 1)
   - 생태학
   - (20211223)
