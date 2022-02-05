@@ -1020,6 +1020,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220113)
 
 
++ q22866(Gold 4)
+  - 탑 보기
+  - (20220205)
+
+
 + q22942(Gold 4)
   - 데이터 체커
   - (20220205)
