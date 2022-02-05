@@ -424,6 +424,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220110)
 
 
++ q2800(Gold 5)
+  - 괄호 제거
+  - (20220205)
+
+
 + q3008(Platinum 5)
   - 직각 삼각형의 개수
   - (20211129) - TIMEOUT
