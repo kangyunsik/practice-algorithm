@@ -1005,6 +1005,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220113)
 
 
++ q22942(Gold 4)
+  - 데이터 체커
+  - (20220205)
+
+
 ---------------------------------------------------------
 
 ## <a name="programmers">Programmers</a>
