@@ -923,6 +923,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211127)
 
 
++ q15791(Gold 1)
+  - 세진이의 미팅
+  - (20220206)
+
+
 + q15817(Silver 1)
   - 배수 공사
   - (20211228)
