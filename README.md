@@ -324,6 +324,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211222)
 
 
++ q2261(Platinum 2)
+  - 가장 가까운 두 점
+  - (20220207)
+
+
 + q2263(Gold 2)
   - 트리의 순회
   - (20211209)
