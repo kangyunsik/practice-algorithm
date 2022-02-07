@@ -985,6 +985,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210918)
 
 
++ q17140(Gold 4)
+  - 이차원 배열과 연산
+  - (20220207)
+
+
 + q17143(Gold 2)
   - 낚시왕
   - (20220130)
