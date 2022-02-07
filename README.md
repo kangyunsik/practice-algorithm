@@ -279,6 +279,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211212)
 
 
++ q2098(Gold 1)
+  - 외판원 순회
+  - (20220207)
+
+
 + q2133(Gold 5)
   - 타일 채우기
   - (20220131)
