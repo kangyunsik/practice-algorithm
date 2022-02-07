@@ -314,6 +314,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220110)
 
 
++ q2239(Gold 4)
+  - 스도쿠
+  - (20220207)
+
+
 + q2252(Gold 3)
   - 줄 세우기
   - (20211222)
