@@ -1000,6 +1000,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220207)
 
 
++ q17142(Gold 4)
+  - 연구소 3
+  - (20220208)
+
+
 + q17143(Gold 2)
   - 낚시왕
   - (20220130)
