@@ -28,6 +28,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211225)
 
 
++ q1033(Gold 2)
+  - 칵테일
+  - (20220208)
+
+
 + q1036(Gold 1)
   - 36진수
   - (20211024)
