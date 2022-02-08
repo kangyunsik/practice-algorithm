@@ -682,6 +682,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211220)
 
 
++ q10999(Platinum 4)
+  - 구간 합 구하기 2
+  - (20220209)
+
+
 + q11003(Platinum 5)
   - 최솟값 찾기
   - (20220108)
