@@ -134,6 +134,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211128)
 
 
++ q1354(Gold 4)
+  - 무한 수열 2
+  - (20220208)
+
+
 + q1450(Gold 1)
   - 냅색문제
   - (20220108)
