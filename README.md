@@ -1050,6 +1050,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211204)
 
 
++ q17299(Gold 3)
+  - 오등큰수
+  - (20220208)
+
+
 + q17406(Gold 4)
   - 배열 돌리기 4
   - (20220114)
