@@ -38,6 +38,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211217)
 
 
++ q1039(Gold 3)
+  - 교환
+  - (20220208)
+
+
 + q1043(Gold 4)
   - 거짓말
   - (20210917)
