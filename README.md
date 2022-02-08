@@ -124,6 +124,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211205)
 
 
++ q1327(Silver 1)
+  - 소트 게임
+  - (20220208)
+
+
 + q1337(Silver 4)
   - 올바른 배열
   - (20211128)
