@@ -692,6 +692,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210915)
 
 
++ q10157(Silver 4)
+  - 자리배정
+  - (20220209)
+
+
 + q10217(Gold 1)
   - KCM Travel
   - (20220201)
