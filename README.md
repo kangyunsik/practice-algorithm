@@ -429,6 +429,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220121)
 
 
++ q2563(Bronze 1)
+  - 색종이
+  - (20220209)
+
+
 + q2568(Platinum 5)
   - 전깃줄 - 2
   - (20211219)
