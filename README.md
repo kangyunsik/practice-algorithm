@@ -99,6 +99,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20210921)
 
 
++ q1244(Silver 3)
+  - 스위치 켜고 끄기
+  - (20220209)
+
+
 + q1253(Gold 4)
   - 좋다
   - (20211128)
