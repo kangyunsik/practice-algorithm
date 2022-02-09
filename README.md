@@ -835,6 +835,7 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 + q12865(Gold 5)
   - 평범한 배낭
   - (20211128)
+  - (20220209) - Refactoring
 
 
 + q12904(Gold 5)

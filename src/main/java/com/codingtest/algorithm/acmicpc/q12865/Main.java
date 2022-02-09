@@ -9,50 +9,34 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
-
-        int n, k, sum = 0;
-        List<Item> items = new ArrayList<>();
-        Map<Integer, Integer> bag = new HashMap<>();
-        Map<Integer, Integer> rem = new HashMap<>();
-        st = new StringTokenizer(br.readLine()," ");
+        int n, k;
+        st = new StringTokenizer(br.readLine(), " ");
         n = Integer.parseInt(st.nextToken());
         k = Integer.parseInt(st.nextToken());
 
+        int[][] items = new int[n][2];
+        int[] dp = new int[k + 1];
+
         for (int i = 0; i < n; i++) {
             st = new StringTokenizer(br.readLine(), " ");
-            int w = Integer.parseInt(st.nextToken());
-            int value = Integer.parseInt(st.nextToken());
-            items.add(new Item(w,value));
+            items[i][0] = Integer.parseInt(st.nextToken());
+            items[i][1] = Integer.parseInt(st.nextToken());
         }
 
-        bag.put(0,0);
-        for (Item item : items) {
-            rem.clear();
-            for (Integer bag_weight : bag.keySet()) {
-                int sum_weight = item.weight + bag_weight;
-                int value = item.value + bag.get(bag_weight);
-                rem.put(sum_weight, Integer.max(bag.getOrDefault(sum_weight, 0), value));
-            }
-
-            for (Integer r : rem.keySet()) {
-                Integer value = rem.get(r);
-                if(bag.getOrDefault(r, 0) < value && r <= k){
-                    bag.put(r, value);
-                    sum = Integer.max(sum, value);
+        Arrays.fill(dp, -1);
+        dp[0] = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = k - items[i][0]; j >= 0; j--) {
+                if (dp[j] >= 0) {
+                    dp[j + items[i][0]] = Math.max(dp[j + items[i][0]], dp[j] + items[i][1]);
                 }
             }
         }
 
-        System.out.println(sum);
-    }
-}
-
-class Item{
-    int weight;
-    int value;
-
-    public Item(int weight, int value) {
-        this.weight = weight;
-        this.value = value;
+        int ans = 0;
+        for (int i : dp) {
+            ans = Math.max(ans, i);
+        }
+        System.out.println(ans);
     }
 }
