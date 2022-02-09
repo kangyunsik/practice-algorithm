@@ -439,6 +439,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220120)
 
 
++ q2578(Silver 5)
+  - 빙고
+  - (20220209)
+
+
 + q2580(Gold 4)
   - 스도쿠
   - (20211126)
