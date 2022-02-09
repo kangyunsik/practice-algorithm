@@ -409,6 +409,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211128)
 
 
++ q2477(Silver 4)
+  - 참외밭
+  - (20220209)
+
+
 + q2481(Gold 2)
   - 해밍 경로
   - (20211229)
