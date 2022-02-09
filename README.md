@@ -414,6 +414,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211229)
 
 
++ q2491(Silver 3)
+  - 수열
+  - (20220209)
+
+
 + q2493(Gold 5)
   - 탑
   - (20211126)
