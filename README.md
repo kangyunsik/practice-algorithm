@@ -434,6 +434,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220209)
 
 
++ q2564(Silver 1)
+  - 경비원
+  - (20220209)
+
+
 + q2568(Platinum 5)
   - 전깃줄 - 2
   - (20211219)
