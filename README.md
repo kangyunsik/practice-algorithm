@@ -449,6 +449,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20211202)
 
 
++ q2605(Bronze 2)
+  - 줄 세우기
+  - (20220209)
+
+
 + q2615(Silver 2)
   - 오목
   - (20220125)
