@@ -454,6 +454,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220121)
 
 
++ q2559(Silver 3)
+  - 수열
+  - (20220210)
+
+
 + q2563(Bronze 1)
   - 색종이
   - (20220209)
