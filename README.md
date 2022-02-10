@@ -489,6 +489,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220125)
 
 
++ q2628(Silver 5)
+  - 종이 자르기
+  - (20220210)
+
+
 + q2629(Gold 3)
   - 양팔저울
   - (20220107)
