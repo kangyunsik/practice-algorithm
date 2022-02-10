@@ -13,6 +13,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
 ## <a name="acmicpc">Acmicpc</a>
 
 
++ q1014(Platinum 4)
+  - 컨닝
+  - (20220210)
+
+
 + q1016(Gold 1)
   - 제곱 ㄴㄴ 수
   - (20211126)
