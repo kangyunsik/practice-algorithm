@@ -1,1510 +1,320 @@
 # Practice Algorithms
 
-### (acmicpc)
-
-https://www.acmicpc.net/problem/{QUESTION-NUMBER}
-
-### (programmers)
-
-https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
+### Yunsik's Algorithm study
 
 ---------------------------------------------------------------------
 
-## <a name="acmicpc">Acmicpc</a>
-
-
-+ q1014(Platinum 4)
-  - 컨닝
-  - (20220210)
-
-
-+ q1016(Gold 1)
-  - 제곱 ㄴㄴ 수
-  - (20211126)
-
-
-+ q1025(Gold 5)
-  - 제곱수 찾기
-  - (20211228)
-
-
-+ q1028(Platinum 5)
-  - 다이아몬드 광산
-  - (20211225)
-
-
-+ q1033(Gold 2)
-  - 칵테일
-  - (20220208)
-
-
-+ q1036(Gold 1)
-  - 36진수
-  - (20211024)
-
-
-+ q1038(Gold 5)
-  - 감소하는 수
-  - (20211217)
-
-
-+ q1039(Gold 3)
-  - 교환
-  - (20220208)
-
-
-+ q1043(Gold 4)
-  - 거짓말
-  - (20210917)
-
-
-+ q1052(Silver 1)
-  - 물병
-  - (20211222)
-
-
-+ q1062(Gold 4)
-  - 가르침
-  - (20211228)
-
-
-+ q1069(Gold 2)
-  - 집으로
-  - (20211231)
-
-
-+ q1083(Gold 4)
-  - 소트
-  - (20220119)
-
-
-+ q1111(Gold 2)
-  - IQ Test
-  - (20211218)
-
-
-+ q1167(Gold 3)
-  - 트리의 지름
-  - (20210919)
-
-
-+ q1202(Gold 2)
-  - 보석 도둑
-  - (20210921)
-  - (20210921) - Refactoring
-
-
-+ q1208(Gold 1)
-  - 부분수열의 합 2
-  - (20211215)
-
-
-+ q1238(Gold 3)
-  - 파티
-  - (20210921)
-
-
-+ q1244(Silver 3)
-  - 스위치 켜고 끄기
-  - (20220209)
-
-
-+ q1253(Gold 4)
-  - 좋다
-  - (20211128)
-
-
-+ q1260(Silver 2)
-  - DFS와 BFS
-  - (20211110)
-
-
-+ q1287(Platinum 5)
-  - 할 수 있다
-  - (20211214)
-
-
-+ q1292(Silver 5)
-  - 쉽게 푸는 문제
-  - (20220115)
-
-
-+ q1300(Gold 2)
-  - K번째 수
-  - (20220105)
-
-
-+ q1323(Gold 5)
-  - 숫자 연결하기
-  - (20211205)
-
-
-+ q1327(Silver 1)
-  - 소트 게임
-  - (20220208)
-
-
-+ q1337(Silver 4)
-  - 올바른 배열
-  - (20211128)
-
-
-+ q1354(Gold 4)
-  - 무한 수열 2
-  - (20220208)
-
-
-+ q1450(Gold 1)
-  - 냅색문제
-  - (20220108)
-
-
-+ q1504(Gold 4)
-  - 특정한 최단 경로
-  - (20211201)
-
-
-+ q1541(Silver 2)
-  - 잃어버린 괄호
-  - (20210909)
-
-
-+ q1543(Silver 4)
-  - 문서 검색
-  - (20211223)
-
-
-+ q1600(Gold 4)
-  - 말이 되고픈 원숭이
-  - (20220203)
-
-
-+ q1644(Gold 3)
-  - 소수의 연속합
-  - (20211128)
-
-
-+ q1655(Gold 2)
-  - 가운데를 말해요
-  - (20211228)
-
-
-+ q1707(Gold 4)
-  - 이분 그래프
-  - (20211208)
-
-
-+ q1715(Gold 4)
-  - 카드 정렬하기
-  - (20211130)
-
-
-+ q1717(Gold 4)
-  - 집합의 표현
-  - (20211126)
-
-
-+ q1720(Gold 5)
-  - 타일 코드
-  - (20220208)
-
-
-+ q1753(Gold 5)
-  - 최단경로
-  - (20210921)
-
-  
-+ q1759(Gold 5)
-  - 암호 만들기
-  - (20211126)
-
-
-+ q1780(Silver 2)
-  - 종이의 개수
-  - (20210907)
-  
-
-+ q1781(Gold 2)
-  - 컵라면
-  - (20220202)
-
-
-+ q1806(Gold 4)
-  - 부분합
-  - (20211022)
-
-
-+ q1863(Gold 5)
-  - 스카이라인 쉬운거
-  - (20220205)
-
-
-+ q1865(Gold 3)
-  - 웜홀
-  - (20211206)
-
-
-+ q1916(Gold 5)
-  - 최소비용 구하기
-  - (20211130)
-
-
-+ q1918(Gold 3)
-  - 후위 표기식
-  - (20211210)
-
-
-+ q1920(Silver 4)
-  - 수 찾기
-  - (20211125)
-
-
-+ q1935(Silver 3)
-  - 후위 표기식 2
-  - (20211216)
-
-
-+ q1937(Gold 3)
-  - 욕심쟁이 판다
-  - (20211202)
-
-
-+ q1946(Silver 1)
-  - 신입 사원
-  - (20211221)
-
-
-+ q1956(Gold 4)
-  - 운동
-  - (20220109)
-
-
-+ q1967(Gold 4)
-  - 트리의 지름
-  - (20210923)
-
-
-+ q1976(Gold 4)
-  - 여행 가자
-  - (20220128)
-
-
-+ q1987(Gold 4)
-  - 알파벳
-  - (20211127)
-
-
-+ q2004(Silver 2)
-  - 조합 0의 개수
-  - (20220102)
-
-
-+ q2042(Gold 1)
-  - 구간 합 구하기
-  - (20211130)
-  
-
-+ q2075(Gold 5)
-  - N번째 큰 수
-  - (20211203)
-
-
-+ q2096(Gold 4)
-  - 내려가기
-  - (20211212)
-
-
-+ q2098(Gold 1)
-  - 외판원 순회
-  - (20220207)
-
-
-+ q2116(Gold 4)
-  - 주사위 쌓기
-  - (20220210)
-
-
-+ q2133(Gold 5)
-  - 타일 채우기
-  - (20220131)
-
-
-+ q2143(Gold 3)
-  - 두 배열의 합
-  - (20210921)
-
-
-+ q2166(Gold 5)
-  - 다각형의 면적
-  - (20211220)
-
-
-+ q2206(Gold 4)
-  - 벽 부수고 이동하기
-  - (20211129)
-  
-
-+ q2230(Gold 5)
-  - 수 고르기
-  - (20211129)
-
-
-+ q2234(Gold 4)
-  - 성곽
-  - (20220110)
-
-
-+ q2239(Gold 4)
-  - 스도쿠
-  - (20220207)
-
-
-+ q2252(Gold 3)
-  - 줄 세우기
-  - (20211222)
-
-
-+ q2261(Platinum 2)
-  - 가장 가까운 두 점
-  - (20220207)
-
-
-+ q2263(Gold 2)
-  - 트리의 순회
-  - (20211209)
-
-
-+ q2283(Gold 2)
-  - 구간 자르기
-  - (20220111)
-
-
-+ q2304(Silver 2)
-  - 창고 다각형
-  - (20220210)
-
-
-+ q2309(Bronze 2)
-  - 일곱 난쟁이
-  - (20220209)
-
-
-+ q2331(Silver 4)
-  - 반복수열
-  - (20211111)
-
-
-+ q2346(Silver 3)
-  - 풍선 터뜨리기
-  - (20220204)
-
-
-+ q2357(Gold 1)
-  - 최솟값과 최댓값
-  - (20220201)
-
-
-+ q2422(Silver 5)
-  - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
-  - (20211226)
-
-
-+ q2463(Platinum 5)
-  - 비용
-  - (20220111)
-
-
-+ q2468(Silver 1)
-  - 안전 영역
-  - (20211111)
-
-
-+ q2470(Gold 5)
-  - 두 용액
-  - (20211128)
-
-
-+ q2473(Gold 4)
-  - 세 용액
-  - (20211128)
-
-
-+ q2477(Silver 4)
-  - 참외밭
-  - (20220209)
-
-
-+ q2481(Gold 2)
-  - 해밍 경로
-  - (20211229)
-
-
-+ q2491(Silver 3)
-  - 수열
-  - (20220209)
-
-
-+ q2493(Gold 5)
-  - 탑
-  - (20211126)
-
-
-+ q2504(Silver 2)
-  - 괄호의 값
-  - (20211021)
-
-
-+ q2533(Gold 3)
-  - 사회망 서비스(SNS)
-  - (20220121)
-
-
-+ q2559(Silver 3)
-  - 수열
-  - (20220210)
-
-
-+ q2563(Bronze 1)
-  - 색종이
-  - (20220209)
-
-
-+ q2564(Silver 1)
-  - 경비원
-  - (20220209)
-
-
-+ q2568(Platinum 5)
-  - 전깃줄 - 2
-  - (20211219)
-
-
-+ q2573(Gold 4)
-  - 빙산
-  - (20220120)
-
-
-+ q2578(Silver 5)
-  - 빙고
-  - (20220209)
-
-
-+ q2580(Gold 4)
-  - 스도쿠
-  - (20211126)
-
-
-+ q2589(Gold 5)
-  - 보물섬
-  - (20211202)
-
-
-+ q2605(Bronze 2)
-  - 줄 세우기
-  - (20220209)
-
-
-+ q2615(Silver 2)
-  - 오목
-  - (20220125)
-
-
-+ q2628(Silver 5)
-  - 종이 자르기
-  - (20220210)
-
-
-+ q2629(Gold 3)
-  - 양팔저울
-  - (20220107)
-
-
-+ q2630(Silver 3)
-  - 색종이 만들기
-  - (20210907)
-
-
-+ q2638(Gold 4)
-  - 치즈
-  - (20211230)
-
-
-+ q2696(Gold 2)
-  - 중앙값 구하기
-  - (20220110)
-
-
-+ q2800(Gold 5)
-  - 괄호 제거
-  - (20220205)
-
-
-+ q3008(Platinum 5)
-  - 직각 삼각형의 개수
-  - (20211129) - TIMEOUT
-  - (20211225) - TIMEOUT
-
-
-+ q3015(Gold 1)
-  - 오아시스 재결합
-  - (20220130)
-
-
-+ q3190(Gold 5)
-  - 뱀
-  - (20220118)
-
-
-+ q3197(Platinum 5)
-  - 백조의 호수
-  - (20220118)
-  - (20220118) - Refactoring
-
-
-+ q3273(Silver 3)
-  - 두 수의 합
-  - (20211128)
-
-
-+ q3986(Silver 4)
-  - 좋은 단어
-  - (20220205)
-
-
-+ q4358(Silver 1)
-  - 생태학
-  - (20211223)
-
-
-+ q4803(Gold 4)
-  - 트리
-  - (20220109)
-
-
-+ q4866(?)
-  - Squares
-  - (20211228)
-
-
-+ q4991(Gold 2)
-  - 로봇 청소기
-  - (20220125)
-
-
-+ q5014(Gold 5)
-  - 스타트링크
-  - (20220131)
-
-
-+ q5052(Gold 4)
-  - 전화번호 목록
-  - (20211202)
-
-
-+ q5373(Platinum 5)
-  - 큐빙
-  - (20220123)
-
-
-+ q5397(Silver 3)
-  - 키로거
-  - (20220123)
-
-
-+ q5525(Silver 2)
-  - IOIOI
-  - (20210907)
-
-
-+ q5582(Gold 5)
-  - 공통 부분 문자열
-  - (20211203)
-
-
-+ q5639(Silver 1)
-  - 이진 검색 트리
-  - (20210918)
-
-
-+ q5719(Platinum 5)
-  - 거의 최단 경로
-  - (20211222)
-
-
-+ q6549(Platinum 5)
-  - 히스토그램에서 가장 큰 직사각형
-  - (20211221)
-
-
-+ q6588(Silver 1)
-  - 골드바흐의 추측
-  - (20220125)
-
-
-+ q7453(Gold 2)
-  - 합이 0인 네 정수
-  - (20211128)
-
-
-+ q7562(Silver 2)
-  - 나이트의 이동
-  - (20220108)
-
-
-+ q7569(Silver 1)
-  - 토마토(3차원)
-  - (20210913)
-
-
-+ q7576(Silver 1)
-  - 토마토(2차원)
-  - (20210907)
-
-
-+ q7579(Gold 3)
-  - 앱
-  - (20220108)
-
-
-+ q7662(Gold 5)
-  - 이중 우선순위 큐
-  - (20210908) - Timeout
-  - (20210909)
-  
-
-+ q8892(Silver 5)
-  - 팰린드롬
-  - (20211227)
-
-
-+ q8980(Gold 3)
-  - 택배
-  - (20220202)
-
-
-+ q9019(Gold 5)
-  - DSLR
-  - (20210914)
-
-
-+ q9084(Gold 5)
-  - 동전
-  - (20220110)
-
-
-+ q9177(Gold 4)
-  - 단어 섞기
-  - (20220131)
-
-
-+ q9205(Silver 1)
-  - 맥주 마시면서 걸어가기
-  - (20211224)
-
-
-+ q9333(Silver 2)
-  - 돈 갚기
-  - (20220112)
-
-
-+ q9466(Gold 3)
-  - 텀 프로젝트
-  - (20220122)
-
-
-+ q9663(Gold 5)
-  - N-Queen
-  - (20211126)
-
-
-+ q10026(Gold 5)
-  - 적록색약
-  - (20210915)
-
-
-+ q10157(Silver 4)
-  - 자리배정
-  - (20220209)
-
-
-+ q10158(Silver 4)
-  - 개미
-  - (20220209)
-
-
-+ q10217(Gold 1)
-  - KCM Travel
-  - (20220201)
-
-
-+ q10253(Gold 2)
-  - 헨리
-  - (20220119)
-
-
-+ q10819(Silver 2)
-  - 차이를 최대로
-  - (20220131)
-
-
-+ q10825(Silver 4)
-  - 국영수
-  - (20211206)
-
-
-+ q10942(Gold 3)
-  - 팰린드롬?
-  - (20211220)
-
-
-+ q10999(Platinum 4)
-  - 구간 합 구하기 2
-  - (20220209)
-
-
-+ q11003(Platinum 5)
-  - 최솟값 찾기
-  - (20220108)
-
-
-+ q11004(Silver 5)
-  - K번째 수
-  - (20211209)
-
-
-+ q11049(Gold 3)
-  - 행렬 곱셈 순서
-  - (20211222)
-
-
-+ q11052(Silver 1)
-  - 카드 구매하기
-  - (20211126)
-
-
-+ q11054(Gold 3)
-  - 가장 긴 바이토닉 부분수열
-  - (20211224)
-
-
-+ q11055(Silver 2)
-  - 가장 큰 증가 부분 수열
-  - (20211203)
-
-
-+ q11058(Gold 5)
-  - 크리보드
-  - (20211206)
-
-
-+ q11066(Gold 3)
-  - 파일 합치기
-  - (20211126)
-
-
-+ q11286(Silver 1)
-  - 절댓값 힙
-  - (20210913)
-
-
-+ q11403(Silver 1)
-  - 경로 찾기
-  - (20210912)
-
-
-+ q11404(Gold 4)
-  - 플로이드
-  - (20211207)
-
-
-+ q11444(Gold 3)
-  - 피보나치 수 6
-  - (20211211)
-
-
-+ q11497(Silver 1)
-  - 통나무 건너뛰기
-  - (20220104)
-
-
-+ q11659(Silver 3)
-  - 구간 합 구하기4
-  - (20210912)
-
-
-+ q11660(Silver 1)
-  - 구간 합 구하기5
-  - (20210921)
-
-  
-+ q11723(Silver 5)
-  - 집합
-  - (20210907)
-
-
-+ q11728(Silver 5)
-  - 배열 합치기
-  - (20211128)
-
-
-+ q11779(Gold 3)
-  - 최소비용 구하기 2
-  - (20211212)
-
-
-+ q11780(Gold 2)
-  - 플로이드 2
-  - (20220117)
-
-
-+ q12100(Gold 2)
-  - 2048 (Easy)
-  - (20220117)
-
-
-+ q12782(Silver 4)
-  - 비트 우정지수
-  - (20220103)
-
-
-+ q12852(Silver 1)
-  - 1로 만들기 2
-  - (20220114)
-
-
-+ q12865(Gold 5)
-  - 평범한 배낭
-  - (20211128)
-  - (20220209) - Refactoring
-
-
-+ q12904(Gold 5)
-  - A와 B
-  - (20211205)
-
-
-+ q13305(Silver 4)
-  - 주유소
-  - (20220101)
-
-
-+ q13460(Gold 1)
-  - 구슬 탈출 2
-  - (20211230)
-
-
-+ q13549(Gold 5)
-  - 숨바꼭질 3
-  - (20211207)
-
-
-+ q13907(Platinum 4)
-  - 세금
-  - (20211222)
-
-
-+ q13975(Gold 5)
-  - 파일 합치기 3
-  - (20211126)
-
-
-+ q14002(Gold 4)
-  - 가장 긴 증가하는 부분 수열 4
-  - (20220116)
-
-
-+ q14003(Platinum 5)
-  - 가장 긴 증가하는 부분 수열 5
-  - (20211214)
-
-
-+ q14425(Silver 3)
-  - 문자열 집합
-  - (20220106)
-
-
-+ q14428(Gold 1)
-  - 수열과 쿼리 16
-  - (20220203)
-  - (20220203) - Refactoring
-
-
-+ q14442(Gold 3)
-  - 벽 부수고 이동하기 2
-  - (20220111)
-
-
-+ q14499(Gold 4)
-  - 주사위 굴리기
-  - (20220114)
-
-
-+ q14500(Gold 5)
-  - 테트로미노
-  - (20210916)
-
-
-+ q14501(Silver 3)
-  - 퇴사
-  - (20211126)
-
-
-+ q14503(Gold 5)
-  - 로봇 청소기
-  - (20220118)
-
-
-+ q14725(Gold 2)
-  - 개미굴
-  - (20220106)
-
-
-+ q14888(Silver 1)
-  - 연산자 끼워넣기
-  - (20211021)
-
-
-+ q14889(Silver 3)
-  - 스타트와 링크
-  - (20211210)
-
-
-+ q14890(Gold 3)
-  - 경사로
-  - (20211207)
-
-
-+ q14891(Silver 1)
-  - 톱니바퀴
-  - (20220116)
-
-
-+ q14939(Platinum 5)
-  - 불 끄기
-  - (20211214)
-
-
-+ q15649(Silver 3)
-  - N과 M(1)
-  - (20211126)
-
-
-+ q15650(Silver 3)
-  - N과 M(2)
-  - (20211208)
-
-
-+ q15651(Silver 3)
-  - N과 M(3)
-  - (20211204)
-
-
-+ q15652(Silver 3)
-  - N과 M(4)
-  - (20211210)
-
-
-+ q15654(Silver 3)
-  - N과 M(5)
-  - (20211208)
-
-
-+ q15657(Silver 3)
-  - N과 M(8)
-  - (20211213)
-
-
-+ q15663(Silver 2)
-  - N과 M(9)
-  - (20211227)
-
-
-+ q15665(Silver 2)
-  - N과 M(11)
-  - (20220208)
-
-
-+ q15666(Silver 2)
-  - N과 M(12)
-  - (20220210)
-
-
-+ q15683(Gold 5)
-  - 감시
-  - (20220119)
-
-
-+ q15684(Gold 4)
-  - 사다리 조작
-  - (20220120)
-
-
-+ q15685(Gold 4)
-  - 드래곤 커브
-  - (20220123)
-
-
-+ q15686(Gold 5)
-  - 치킨 배달
-  - (20211213)
-
-
-+ q15712(Gold 2)
-  - 등비수열
-  - (20211127)
-
-
-+ q15791(Gold 1)
-  - 세진이의 미팅
-  - (20220206)
-
-
-+ q15817(Silver 1)
-  - 배수 공사
-  - (20211228)
-
-
-+ q15990(Silver 2)
-  - 1, 2, 3 더하기 5
-  - (20220113)
-
-
-+ q16234(Gold 5)
-  - 인구 이동
-  - (20220124)
-
-
-+ q16235(Gold 4)
-  - 나무 재테크
-  - (20220122)
-
-
-+ q16236(Gold 5)
-  - 아기 상어
-  - (20210917)
-
-
-+ q16472(Gold 4)
-  - 고냥이
-  - (20220127)
-  - (20220127) - Refactoring
-
-
-+ q16565(Gold 1)
-  - N포커
-  - (20220203)
-
-
-+ q16566(Platinum 5)
-  - 카드 게임
-  - (20211214)
-
-
-+ q16928(Silver 1)
-  - 뱀과 사다리 게임
-  - (20210914)
-  - (20211023) - Refactoring
-
-
-+ q16953(Silver 1)
-  - A->B
-  - (20210918)
-
-
-+ q17140(Gold 4)
-  - 이차원 배열과 연산
-  - (20220207)
-
-
-+ q17142(Gold 4)
-  - 연구소 3
-  - (20220208)
-
-
-+ q17143(Gold 2)
-  - 낚시왕
-  - (20220130)
-
-
-+ q17144(Gold 4)
-  - 미세먼지 안녕!
-  - (20220124)
-
-
-+ q17219(Silver 4)
-  - 비밀번호 찾기
-  - (20210912)
-
-
-+ q17298(Gold 4)
-  - 오큰수
-  - (20211204)
-
-
-+ q17299(Gold 3)
-  - 오등큰수
-  - (20220208)
-
-
-+ q17406(Gold 4)
-  - 배열 돌리기 4
-  - (20220114)
-
-
-+ q17626(Silver 5)
-  - Four Squares
-  - (20210912)
-
-
-+ q18115(Silver 3)
-  - 카드 놓기
-  - (20220205)
-
-
-+ q18258(Silver 4)
-  - 큐
-  - (20220101)
-
-
-+ q21608(Silver 1)
-  - 상어 초등학교
-  - (20220113)
-
-
-+ q22866(Gold 4)
-  - 탑 보기
-  - (20220205)
-
-
-+ q22942(Gold 4)
-  - 데이터 체커
-  - (20220205)
-
-
----------------------------------------------------------
-
-## <a name="programmers">Programmers</a>
-
-+ q1829
-  - 카카오프렌즈 컬러링북
-  - (20211101)
-
-
-+ q1835
-  - 단체사진 찍기
-  - (20211102)
-
-
-+ q1844
-  - 게임 맵 최단거리
-  - (20211206)
-
-
-+ q12973
-  - 짝지어 제거하기
-  - (20211104)
-
-
-+ q17676
-  - 추석 트래픽
-  - (20211029)
-
-
-+ q17677
-  - 뉴스 클러스터링
-  - (20211204)
-
-
-+ q17678
-  - [1차] 셔틀버스
-  - (20220122)
-
-
-+ q17679
-  - 프렌즈4블록
-  - (20211023)
-
-
-+ q17680
-  - [1차] 캐시
-  - (20220122)
-
-
-+ q17683
-  - [3차] 방금그곡
-  - (20220122)
-
-
-+ q17684
-  - 압축
-  - (20211023)
-
-
-+ q17685
-  - [3차] 자동완성
-  - (20220122)
-
-
-+ q17686
-  - [3차] 파일명 정렬
-  - (20220122)
-
-
-+ q17687
-  - [3차] n진수 게임
-  - (20220122)
-
-
-+ q43238
-  - 입국심사
-  - (20211205)
-
-
-+ q42576
-  - 완주하지 못한 선수
-  - (20211013)
-
-
-+ q42577
-  - 전화번호 목록
-  - (20211014)
-
-
-+ q42578
-  - 위장
-  - (20211014)
-
-
-+ q42579
-  - 베스트앨범
-  - (20211014)
-
-
-+ q42583
-  - 다리를 지나는 트럭
-  - (20211019)
-
-
-+ q42584
-  - 주식가격
-  - (20211020)
-
-
-+ q42586
-  - 기능개발
-  - (20211017)
-
-
-+ q42587
-  - 프린터
-  - (20211018)
-  
-
-+ q42626
-  - 더 맵게
-  - (20211020)
-
-
-+ q42746
-  - 가장 큰 수
-  - (20211205)
-
-
-+ q42839
-  - 소수 찾기
-  - (20211025)
-
-
-+ q42840
-  - 모의고사
-  - (20211025)
-
-
-+ q42860
-  - 조이스틱
-  - (20211025)
-
-
-+ q42862
-  - 체육복
-  - (20211025)
-
-
-+ q42888
-  - 오픈채팅방
-  - (20211102)
-
-
-+ q42889
-  - 실패율
-  - (20211205)
-
-
-+ q42895
-  - N으로 표현
-  - (20211025)
-
-
-+ q42897
-  - 도둑질
-  - (20211026) - FAIL
-  - (20211103) - SUCCESS
-
-
-+ q42898
-  - 등굣길
-  - (20211025)
-
-
-+ q43105
-  - 정수 삼각형
-  - (20211020)
-
-
-+ q43162
-  - 네트워크
-  - (20211028)
-
-
-+ q43163
-  - 단어 변환
-  - (20211028)
-
-
-+ q43165
-  - 타겟 넘버
-  - (20211028)
-
-
-+ q43238
-  - 입국심사
-  - (20211109) - FAIL
-
-
-+ q49189
-  - 가장 먼 노드
-  - (20211110)
-
-
-+ q49994
-  - 방문 길이
-  - (20211006)
-
-  
-+ q60057
-  - 문자열 압축
-  - (20211031)
-
-
-+ q60058
-  - 괄호 변환
-  - (20211031)
-
-
-+ q60059
-  - 자물쇠와 열쇠
-  - (20211031)
-
-
-+ q60061
-  - 기둥과 보 설치
-  - (20211031)
-
-
-+ q60062
-  - 외벽 점검
-  - (20211030)
-
-
-+ q62048
-  - 멀쩡한 사각형
-  - (20211102)
-  - (20211002) - Refactoring
-
-
-+ q64065
-  - 튜플
-  - (20211106)
-
-
-+ q72411
-  - 메뉴 리뉴얼
-  - (20211106)
-
-
-+ q72412
-  - 순위 검색
-  - (20211122)
-
-
-+ q72413
-  - 합승 택시 요금
-  - (20211124)
-
-
-+ q72414
-  - 광고 삽입
-  - (20220203)
-
-
-+ q77485
-  - 행렬 테두리 회전하기
-  - (20211105)
-
-
-+ q77486
-  - 다단계 칫솔 판매
-  - (20211123)
-
-
-+ q83201
-  - 상호 평가
-  - 위클리 챌린지 2주차
-  - (20211006)
-
-
-+ q84021
-  - 퍼즐 조각 채우기
-  - 위클리 챌린지 3주차
-  - (20211006)
-
-
-+ q86971
-  - 전력망을 둘로 나누기
-  - 위클리 챌린지 9주차
-  - (20211006)
-
-
-+ q87377
-  - 교점에 별 만들기
-  - (20211112)
-
-
-+ q87946
-  - 피로도
-  - (20211112)
-
-
-+ q92334
-  - 신고 결과 받기
-  - (20220129)
-
-
-+ q92335
-  - k진수에서 소수 개수 구하기
-  - (20220129)
-
-
-+ q92341
-  - 주차 요금 계산
-  - (20220129)
-
-
-+ q92342
-  - 양궁대회
-  - (20220129)
-
-
-+ q92344
-  - 파괴되지 않은 건물
-  - (20220131)
+## [Baekjoon - Acmicpc](https://www.acmicpc.net/)
+
+<br>
+<br>
+
+|문제 번호|제목|난이도|최초 작성|최근 작성|소스 링크|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|[1014](https://www.acmicpc.net/problem/1014)|컨닝|Platinum 4|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1014/Main.java)|
+|[1016](https://www.acmicpc.net/problem/1016)|제곱 ㄴㄴ 수|Gold 1|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1016/Main.java)|
+|[1025](https://www.acmicpc.net/problem/1025)|제곱수 찾기|Gold 5|2021-12-28|2021-12-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1025/Main.java)|
+|[1028](https://www.acmicpc.net/problem/1028)|다이아몬드 광산|Platinum 5|2021-12-25|2021-12-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1028/Main.java)|
+|[1033](https://www.acmicpc.net/problem/1033)|칵테일|Gold 2|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1033/Main.java)|
+|[1036](https://www.acmicpc.net/problem/1036)|36진수|Gold 1|2021-10-24|2021-10-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1036/Main.java)|
+|[1038](https://www.acmicpc.net/problem/1038)|감소하는 수|Gold 5|2021-12-17|2021-12-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1038/Main.java)|
+|[1039](https://www.acmicpc.net/problem/1039)|교환|Gold 3|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1039/Main.java)|
+|[1043](https://www.acmicpc.net/problem/1043)|거짓말|Gold 4|2021-09-17|2021-09-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1043/Main.java)|
+|[1052](https://www.acmicpc.net/problem/1052)|물병|Silver 1|2021-12-22|2021-12-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1052/Main.java)|
+|[1062](https://www.acmicpc.net/problem/1062)|가르침|Gold 4|2021-12-28|2021-12-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1062/Main.java)|
+|[1069](https://www.acmicpc.net/problem/1069)|집으로|Gold 2|2021-12-31|2021-12-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1069/Main.java)|
+|[1083](https://www.acmicpc.net/problem/1083)|소트|Gold 4|2022-01-19|2022-01-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1083/Main.java)|
+|[1111](https://www.acmicpc.net/problem/1111)|IQ Test|Gold 2|2021-12-18|2021-12-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1111/Main.java)|
+|[1167](https://www.acmicpc.net/problem/1167)|트리의 지름|Gold 3|2021-09-19|2021-09-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1167/Main.java)|
+|[1202](https://www.acmicpc.net/problem/1202)|보석 도둑|Gold 2|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1202/Main.java)|
+|[1208](https://www.acmicpc.net/problem/1208)|부분수열의 합 2|Gold 1|2021-12-15|2021-12-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1208/Main.java)|
+|[1238](https://www.acmicpc.net/problem/1238)|파티|Gold 3|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1238/Main.java)|
+|[1244](https://www.acmicpc.net/problem/1244)|스위치 켜고 끄기|Silver 3|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1244/Main.java)|
+|[1253](https://www.acmicpc.net/problem/1253)|좋다|Gold 4|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1253/Main.java)|
+|[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|Silver 2|2021-11-10|2021-11-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1260/Main.java)|
+|[1287](https://www.acmicpc.net/problem/1287)|할 수 있다|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1287/Main.java)|
+|[1292](https://www.acmicpc.net/problem/1292)|쉽게 푸는 문제|Silver 5|2022-01-15|2022-01-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1292/Main.java)|
+|[1300](https://www.acmicpc.net/problem/1300)|K번째 수|Gold 2|2022-01-05|2022-01-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1300/Main.java)|
+|[1323](https://www.acmicpc.net/problem/1323)|숫자 연결하기|Gold 5|2021-12-05|2021-12-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1323/Main.java)|
+|[1327](https://www.acmicpc.net/problem/1327)|소트 게임|Silver 1|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1327/Main.java)|
+|[1337](https://www.acmicpc.net/problem/1337)|올바른 배열|Silver 4|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1337/Main.java)|
+|[1354](https://www.acmicpc.net/problem/1354)|무한 수열 2|Gold 4|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1354/Main.java)|
+|[1450](https://www.acmicpc.net/problem/1450)|냅색문제|Gold 1|2022-01-08|2022-01-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1450/Main.java)|
+|[1504](https://www.acmicpc.net/problem/1504)|특정한 최단 경로|Gold 4|2021-12-01|2021-12-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1504/Main.java)|
+|[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|Silver 2|2021-09-09|2021-09-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1541/Main.java)|
+|[1543](https://www.acmicpc.net/problem/1543)|문서 검색|Silver 4|2021-12-23|2021-12-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1543/Main.java)|
+|[1600](https://www.acmicpc.net/problem/1600)|말이 되고픈 원숭이|Gold 4|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1600/Main.java)|
+|[1644](https://www.acmicpc.net/problem/1644)|소수의 연속합|Gold 3|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1644/Main.java)|
+|[1655](https://www.acmicpc.net/problem/1655)|가운데를 말해요|Gold 2|2021-12-28|2021-12-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1655/Main.java)|
+|[1707](https://www.acmicpc.net/problem/1707)|이분 그래프|Gold 4|2021-12-08|2021-12-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1707/Main.java)|
+|[1715](https://www.acmicpc.net/problem/1715)|카드 정렬하기|Gold 4|2021-11-30|2021-11-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1715/Main.java)|
+|[1717](https://www.acmicpc.net/problem/1717)|집합의 표현|Gold 4|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1717/Main.java)|
+|[1720](https://www.acmicpc.net/problem/1720)|타일 코드|Gold 5|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1720/Main.java)|
+|[1753](https://www.acmicpc.net/problem/1753)|최단경로|Gold 5|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1753/Main.java)|
+|[1759](https://www.acmicpc.net/problem/1759)|암호 만들기|Gold 5|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1759/Main.java)|
+|[1780](https://www.acmicpc.net/problem/1780)|종이의 개수|Silver 2|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1780/Main.java)|
+|[1781](https://www.acmicpc.net/problem/1781)|컵라면|Gold 2|2022-02-02|2022-02-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1781/Main.java)|
+|[1806](https://www.acmicpc.net/problem/1806)|부분합|Gold 4|2021-10-22|2021-10-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1806/Main.java)|
+|[1863](https://www.acmicpc.net/problem/1863)|스카이라인 쉬운거|Gold 5|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1863/Main.java)|
+|[1865](https://www.acmicpc.net/problem/1865)|웜홀|Gold 3|2021-12-06|2021-12-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1865/Main.java)|
+|[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|Gold 5|2021-11-30|2021-11-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1916/Main.java)|
+|[1918](https://www.acmicpc.net/problem/1918)|후위 표기식|Gold 3|2021-12-10|2021-12-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1918/Main.java)|
+|[1920](https://www.acmicpc.net/problem/1920)|수 찾기|Silver 4|2021-11-25|2021-11-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1920/Main.java)|
+|[1935](https://www.acmicpc.net/problem/1935)|후위 표기식 2|Silver 3|2021-12-16|2021-12-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1935/Main.java)|
+|[1937](https://www.acmicpc.net/problem/1937)|욕심쟁이 판다|Gold 3|2021-12-02|2021-12-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1937/Main.java)|
+|[1946](https://www.acmicpc.net/problem/1946)|신입 사원|Silver 1|2021-12-21|2021-12-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1946/Main.java)|
+|[1956](https://www.acmicpc.net/problem/1956)|운동|Gold 4|2022-01-09|2022-01-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1956/Main.java)|
+|[1967](https://www.acmicpc.net/problem/1967)|트리의 지름|Gold 4|2021-09-23|2021-09-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1967/Main.java)|
+|[1976](https://www.acmicpc.net/problem/1976)|여행 가자|Gold 4|2022-01-28|2022-01-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1976/Main.java)|
+|[1987](https://www.acmicpc.net/problem/1987)|알파벳|Gold 4|2021-11-27|2021-11-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1987/Main.java)|
+|[2004](https://www.acmicpc.net/problem/2004)|조합 0의 개수|Silver 2|2022-01-02|2022-01-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2004/Main.java)|
+|[2042](https://www.acmicpc.net/problem/2042)|구간 합 구하기|Gold 1|2021-11-30|2021-11-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2042/Main.java)|
+|[2075](https://www.acmicpc.net/problem/2075)|N번째 큰 수|Gold 5|2021-12-03|2021-12-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2075/Main.java)|
+|[2096](https://www.acmicpc.net/problem/2096)|내려가기|Gold 4|2021-12-12|2021-12-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2096/Main.java)|
+|[2098](https://www.acmicpc.net/problem/2098)|외판원 순회|Gold 1|2022-02-07|2022-02-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2098/Main.java)|
+|[2116](https://www.acmicpc.net/problem/2116)|주사위 쌓기|Gold 4|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2116/Main.java)|
+|[2133](https://www.acmicpc.net/problem/2133)|타일 채우기|Gold 5|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2133/Main.java)|
+|[2143](https://www.acmicpc.net/problem/2143)|두 배열의 합|Gold 3|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2143/Main.java)|
+|[2166](https://www.acmicpc.net/problem/2166)|다각형의 면적|Gold 5|2021-12-20|2021-12-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2166/Main.java)|
+|[2206](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|Gold 4|2021-11-29|2021-11-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2206/Main.java)|
+|[2230](https://www.acmicpc.net/problem/2230)|수 고르기|Gold 5|2021-11-29|2021-11-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2230/Main.java)|
+|[2234](https://www.acmicpc.net/problem/2234)|성곽|Gold 4|2022-01-10|2022-01-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2234/Main.java)|
+|[2239](https://www.acmicpc.net/problem/2239)|스도쿠|Gold 4|2022-02-07|2022-02-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2239/Main.java)|
+|[2252](https://www.acmicpc.net/problem/2252)|줄 세우기|Gold 3|2021-12-22|2021-12-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2252/Main.java)|
+|[2261](https://www.acmicpc.net/problem/2261)|가장 가까운 두 점|Platinum 2|2022-02-07|2022-02-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2261/Main.java)|
+|[2263](https://www.acmicpc.net/problem/2263)|트리의 순회|Gold 2|2021-12-09|2021-12-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2263/Main.java)|
+|[2283](https://www.acmicpc.net/problem/2283)|구간 자르기|Gold 2|2022-01-11|2022-01-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2283/Main.java)|
+|[2304](https://www.acmicpc.net/problem/2304)|창고 다각형|Silver 2|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2304/Main.java)|
+|[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이|Bronze 2|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2309/Main.java)|
+|[2331](https://www.acmicpc.net/problem/2331)|반복수열|Silver 4|2021-11-11|2021-11-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2331/Main.java)|
+|[2346](https://www.acmicpc.net/problem/2346)|풍선 터뜨리기|Silver 3|2022-02-04|2022-02-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2346/Main.java)|
+|[2357](https://www.acmicpc.net/problem/2357)|최솟값과 최댓값|Gold 1|2022-02-01|2022-02-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2357/Main.java)|
+|[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에 가서 아이스크림을 사먹는데|Silver 5|2021-12-26|2021-12-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2422/Main.java)|
+|[2463](https://www.acmicpc.net/problem/2463)|비용|Platinum 5|2022-01-11|2022-01-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2463/Main.java)|
+|[2468](https://www.acmicpc.net/problem/2468)|안전 영역|Silver 1|2021-11-11|2021-11-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2468/Main.java)|
+|[2470](https://www.acmicpc.net/problem/2470)|두 용액|Gold 5|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2470/Main.java)|
+|[2473](https://www.acmicpc.net/problem/2473)|세 용액|Gold 4|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2473/Main.java)|
+|[2477](https://www.acmicpc.net/problem/2477)|참외밭|Silver 4|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2477/Main.java)|
+|[2481](https://www.acmicpc.net/problem/2481)|해밍 경로|Gold 2|2021-12-29|2021-12-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2481/Main.java)|
+|[2491](https://www.acmicpc.net/problem/2491)|수열|Silver 3|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2491/Main.java)|
+|[2493](https://www.acmicpc.net/problem/2493)|탑|Gold 5|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2493/Main.java)|
+|[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|Silver 2|2021-10-21|2021-10-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2504/Main.java)|
+|[2533](https://www.acmicpc.net/problem/2533)|사회망 서비스(SNS)|Gold 3|2022-01-21|2022-01-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2533/Main.java)|
+|[2559](https://www.acmicpc.net/problem/2559)|수열|Silver 3|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2559/Main.java)|
+|[2563](https://www.acmicpc.net/problem/2563)|색종이|Bronze 1|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2563/Main.java)|
+|[2564](https://www.acmicpc.net/problem/2564)|경비원|Silver 1|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2564/Main.java)|
+|[2568](https://www.acmicpc.net/problem/2568)|전깃줄|Platinum 5|2021-12-19|2021-12-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2568/Main.java)|
+|[2573](https://www.acmicpc.net/problem/2573)|빙산|Gold 4|2022-01-20|2022-01-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2573/Main.java)|
+|[2578](https://www.acmicpc.net/problem/2578)|빙고|Silver 5|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2578/Main.java)|
+|[2580](https://www.acmicpc.net/problem/2580)|스도쿠|Gold 4|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2580/Main.java)|
+|[2589](https://www.acmicpc.net/problem/2589)|보물섬|Gold 5|2021-12-02|2021-12-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2589/Main.java)|
+|[2605](https://www.acmicpc.net/problem/2605)|줄 세우기|Bronze 2|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2605/Main.java)|
+|[2615](https://www.acmicpc.net/problem/2615)|오목|Silver 2|2022-01-25|2022-01-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2615/Main.java)|
+|[2628](https://www.acmicpc.net/problem/2628)|종이 자르기|Silver 5|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2628/Main.java)|
+|[2629](https://www.acmicpc.net/problem/2629)|양팔저울|Gold 3|2022-01-07|2022-01-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2629/Main.java)|
+|[2630](https://www.acmicpc.net/problem/2630)|색종이 만들기|Silver 3|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2630/Main.java)|
+|[2638](https://www.acmicpc.net/problem/2638)|치즈|Gold 4|2021-12-30|2021-12-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2638/Main.java)|
+|[2696](https://www.acmicpc.net/problem/2696)|중앙값 구하기|Gold 2|2022-01-10|2022-01-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2696/Main.java)|
+|[2800](https://www.acmicpc.net/problem/2800)|괄호 제거|Gold 5|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2800/Main.java)|
+|[3008](https://www.acmicpc.net/problem/3008)|직각 삼각형의 개수|Platinum 5|2021-11-29|2021-12-25|[🕐](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3008/Main.java)|
+|[3015](https://www.acmicpc.net/problem/3015)|오아시스 재결합|Gold 1|2022-01-30|2022-01-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3015/Main.java)|
+|[3190](https://www.acmicpc.net/problem/3190)|뱀|Gold 5|2022-01-18|2022-01-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3190/Main.java)|
+|[3197](https://www.acmicpc.net/problem/3197)|백조의 호수|Platinum 5|2022-01-18|2022-01-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3197/Main.java)|
+|[3273](https://www.acmicpc.net/problem/3273)|두 수의 합|Silver 3|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3273/Main.java)|
+|[3986](https://www.acmicpc.net/problem/3986)|좋은 단어|Silver 4|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3986/Main.java)|
+|[4358](https://www.acmicpc.net/problem/4358)|생태학|Silver 1|2021-12-23|2021-12-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4358/Main.java)|
+|[4803](https://www.acmicpc.net/problem/4803)|트리|Gold 4|2022-01-09|2022-01-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4803/Main.java)|
+|[4866](https://programmers.co.kr/learn/courses/30/lessons/4866)|Squares|?|2021-12-28|2021-12-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q4866/Solution.java)|
+|[4991](https://www.acmicpc.net/problem/4991)|로봇 청소기|Gold 2|2022-01-25|2022-01-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4991/Main.java)|
+|[5014](https://www.acmicpc.net/problem/5014)|스타트링크|Gold 5|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5014/Main.java)|
+|[5052](https://www.acmicpc.net/problem/5052)|전화번호 목록|Gold 4|2021-12-02|2021-12-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5052/Main.java)|
+|[5373](https://www.acmicpc.net/problem/5373)|큐빙|Platinum 5|2022-01-23|2022-01-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5373/Main.java)|
+|[5397](https://www.acmicpc.net/problem/5397)|키로거|Silver 3|2022-01-23|2022-01-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5397/Main.java)|
+|[5525](https://www.acmicpc.net/problem/5525)|IOIOI|Silver 2|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5525/Main.java)|
+|[5582](https://www.acmicpc.net/problem/5582)|공통 부분 문자열|Gold 5|2021-12-03|2021-12-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5582/Main.java)|
+|[5639](https://www.acmicpc.net/problem/5639)|이진 검색 트리|Silver 1|2021-09-18|2021-09-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5639/Main.java)|
+|[5719](https://www.acmicpc.net/problem/5719)|거의 최단 경로|Platinum 5|2021-12-22|2021-12-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5719/Main.java)|
+|[6549](https://www.acmicpc.net/problem/6549)|히스토그램에서 가장 큰 직사각형|Platinum 5|2021-12-21|2021-12-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6549/Main.java)|
+|[6588](https://www.acmicpc.net/problem/6588)|골드바흐의 추측|Silver 1|2022-01-25|2022-01-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6588/Main.java)|
+|[7453](https://www.acmicpc.net/problem/7453)|합이 0인 네 정수|Gold 2|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7453/Main.java)|
+|[7562](https://www.acmicpc.net/problem/7562)|나이트의 이동|Silver 2|2022-01-08|2022-01-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7562/Main.java)|
+|[7569](https://www.acmicpc.net/problem/7569)|토마토(3차원)|Silver 1|2021-09-13|2021-09-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7569/Main.java)|
+|[7576](https://www.acmicpc.net/problem/7576)|토마토(2차원)|Silver 1|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7576/Main.java)|
+|[7579](https://www.acmicpc.net/problem/7579)|앱|Gold 3|2022-01-08|2022-01-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7579/Main.java)|
+|[7662](https://www.acmicpc.net/problem/7662)|이중 우선순위 큐|Gold 5|2021-09-08|2021-09-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7662/Main.java)|
+|[8892](https://www.acmicpc.net/problem/8892)|팰린드롬|Silver 5|2021-12-27|2021-12-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q8892/Main.java)|
+|[8980](https://www.acmicpc.net/problem/8980)|택배|Gold 3|2022-02-02|2022-02-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q8980/Main.java)|
+|[9019](https://www.acmicpc.net/problem/9019)|DSLR|Gold 5|2021-09-14|2021-09-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9019/Main.java)|
+|[9084](https://www.acmicpc.net/problem/9084)|동전|Gold 5|2022-01-10|2022-01-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9084/Main.java)|
+|[9177](https://www.acmicpc.net/problem/9177)|단어 섞기|Gold 4|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9177/Main.java)|
+|[9205](https://www.acmicpc.net/problem/9205)|맥주 마시면서 걸어가기|Silver 1|2021-12-24|2021-12-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9205/Main.java)|
+|[9333](https://www.acmicpc.net/problem/9333)|돈 갚기|Silver 2|2022-01-12|2022-01-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9333/Main.java)|
+|[9466](https://www.acmicpc.net/problem/9466)|텀 프로젝트|Gold 3|2022-01-22|2022-01-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9466/Main.java)|
+|[9663](https://www.acmicpc.net/problem/9663)|N|Gold 5|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9663/Main.java)|
+|[10026](https://www.acmicpc.net/problem/10026)|적록색약|Gold 5|2021-09-15|2021-09-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10026/Main.java)|
+|[10157](https://www.acmicpc.net/problem/10157)|자리배정|Silver 4|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10157/Main.java)|
+|[10158](https://www.acmicpc.net/problem/10158)|개미|Silver 4|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10158/Main.java)|
+|[10217](https://www.acmicpc.net/problem/10217)|KCM Travel|Gold 1|2022-02-01|2022-02-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10217/Main.java)|
+|[10253](https://www.acmicpc.net/problem/10253)|헨리|Gold 2|2022-01-19|2022-01-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10253/Main.java)|
+|[10819](https://www.acmicpc.net/problem/10819)|차이를 최대로|Silver 2|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10819/Main.java)|
+|[10825](https://www.acmicpc.net/problem/10825)|국영수|Silver 4|2021-12-06|2021-12-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10825/Main.java)|
+|[10942](https://www.acmicpc.net/problem/10942)|팰린드롬?|Gold 3|2021-12-20|2021-12-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10942/Main.java)|
+|[10999](https://www.acmicpc.net/problem/10999)|구간 합 구하기 2|Platinum 4|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10999/Main.java)|
+|[11003](https://www.acmicpc.net/problem/11003)|최솟값 찾기|Platinum 5|2022-01-08|2022-01-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11003/Main.java)|
+|[11004](https://www.acmicpc.net/problem/11004)|K번째 수|Silver 5|2021-12-09|2021-12-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11004/Main.java)|
+|[11049](https://www.acmicpc.net/problem/11049)|행렬 곱셈 순서|Gold 3|2021-12-22|2021-12-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11049/Main.java)|
+|[11052](https://www.acmicpc.net/problem/11052)|카드 구매하기|Silver 1|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11052/Main.java)|
+|[11054](https://www.acmicpc.net/problem/11054)|가장 긴 바이토닉 부분수열|Gold 3|2021-12-24|2021-12-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11054/Main.java)|
+|[11055](https://www.acmicpc.net/problem/11055)|가장 큰 증가 부분 수열|Silver 2|2021-12-03|2021-12-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11055/Main.java)|
+|[11058](https://www.acmicpc.net/problem/11058)|크리보드|Gold 5|2021-12-06|2021-12-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11058/Main.java)|
+|[11066](https://www.acmicpc.net/problem/11066)|파일 합치기|Gold 3|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11066/Main.java)|
+|[11286](https://www.acmicpc.net/problem/11286)|절댓값 힙|Silver 1|2021-09-13|2021-09-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11286/Main.java)|
+|[11403](https://www.acmicpc.net/problem/11403)|경로 찾기|Silver 1|2021-09-12|2021-09-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11403/Main.java)|
+|[11404](https://www.acmicpc.net/problem/11404)|플로이드|Gold 4|2021-12-07|2021-12-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11404/Main.java)|
+|[11444](https://www.acmicpc.net/problem/11444)|피보나치 수 6|Gold 3|2021-12-11|2021-12-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11444/Main.java)|
+|[11497](https://www.acmicpc.net/problem/11497)|통나무 건너뛰기|Silver 1|2022-01-04|2022-01-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11497/Main.java)|
+|[11659](https://www.acmicpc.net/problem/11659)|구간 합 구하기4|Silver 3|2021-09-12|2021-09-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11659/Main.java)|
+|[11660](https://www.acmicpc.net/problem/11660)|구간 합 구하기5|Silver 1|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11660/Main.java)|
+|[11723](https://www.acmicpc.net/problem/11723)|집합|Silver 5|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11723/Main.java)|
+|[11728](https://www.acmicpc.net/problem/11728)|배열 합치기|Silver 5|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11728/Main.java)|
+|[11779](https://www.acmicpc.net/problem/11779)|최소비용 구하기 2|Gold 3|2021-12-12|2021-12-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11779/Main.java)|
+|[11780](https://www.acmicpc.net/problem/11780)|플로이드 2|Gold 2|2022-01-17|2022-01-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11780/Main.java)|
+|[12100](https://www.acmicpc.net/problem/12100)|2048 (Easy)|Gold 2|2022-01-17|2022-01-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12100/Main.java)|
+|[12782](https://www.acmicpc.net/problem/12782)|비트 우정지수|Silver 4|2022-01-03|2022-01-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12782/Main.java)|
+|[12852](https://www.acmicpc.net/problem/12852)|1로 만들기 2|Silver 1|2022-01-14|2022-01-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12852/Main.java)|
+|[12865](https://www.acmicpc.net/problem/12865)|평범한 배낭|Gold 5|2021-11-28|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12865/Main.java)|
+|[12904](https://www.acmicpc.net/problem/12904)|A와 B|Gold 5|2021-12-05|2021-12-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12904/Main.java)|
+|[13305](https://www.acmicpc.net/problem/13305)|주유소|Silver 4|2022-01-01|2022-01-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13305/Main.java)|
+|[13460](https://www.acmicpc.net/problem/13460)|구슬 탈출 2|Gold 1|2021-12-30|2021-12-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13460/Main.java)|
+|[13549](https://www.acmicpc.net/problem/13549)|숨바꼭질 3|Gold 5|2021-12-07|2021-12-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13549/Main.java)|
+|[13907](https://www.acmicpc.net/problem/13907)|세금|Platinum 4|2021-12-22|2021-12-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13907/Main.java)|
+|[13975](https://www.acmicpc.net/problem/13975)|파일 합치기 3|Gold 5|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13975/Main.java)|
+|[14002](https://www.acmicpc.net/problem/14002)|가장 긴 증가하는 부분 수열 4|Gold 4|2022-01-16|2022-01-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14002/Main.java)|
+|[14003](https://www.acmicpc.net/problem/14003)|가장 긴 증가하는 부분 수열 5|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14003/Main.java)|
+|[14425](https://www.acmicpc.net/problem/14425)|문자열 집합|Silver 3|2022-01-06|2022-01-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14425/Main.java)|
+|[14428](https://www.acmicpc.net/problem/14428)|수열과 쿼리 16|Gold 1|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14428/Main.java)|
+|[14442](https://www.acmicpc.net/problem/14442)|벽 부수고 이동하기 2|Gold 3|2022-01-11|2022-01-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14442/Main.java)|
+|[14499](https://www.acmicpc.net/problem/14499)|주사위 굴리기|Gold 4|2022-01-14|2022-01-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14499/Main.java)|
+|[14500](https://www.acmicpc.net/problem/14500)|테트로미노|Gold 5|2021-09-16|2021-09-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14500/Main.java)|
+|[14501](https://www.acmicpc.net/problem/14501)|퇴사|Silver 3|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14501/Main.java)|
+|[14503](https://www.acmicpc.net/problem/14503)|로봇 청소기|Gold 5|2022-01-18|2022-01-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14503/Main.java)|
+|[14725](https://www.acmicpc.net/problem/14725)|개미굴|Gold 2|2022-01-06|2022-01-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14725/Main.java)|
+|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|Silver 1|2021-10-21|2021-10-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14888/Main.java)|
+|[14889](https://www.acmicpc.net/problem/14889)|스타트와 링크|Silver 3|2021-12-10|2021-12-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14889/Main.java)|
+|[14890](https://www.acmicpc.net/problem/14890)|경사로|Gold 3|2021-12-07|2021-12-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14890/Main.java)|
+|[14891](https://www.acmicpc.net/problem/14891)|톱니바퀴|Silver 1|2022-01-16|2022-01-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14891/Main.java)|
+|[14939](https://www.acmicpc.net/problem/14939)|불 끄기|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14939/Main.java)|
+|[15649](https://www.acmicpc.net/problem/15649)|N과 M(1)|Silver 3|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15649/Main.java)|
+|[15650](https://www.acmicpc.net/problem/15650)|N과 M(2)|Silver 3|2021-12-08|2021-12-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15650/Main.java)|
+|[15651](https://www.acmicpc.net/problem/15651)|N과 M(3)|Silver 3|2021-12-04|2021-12-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15651/Main.java)|
+|[15652](https://www.acmicpc.net/problem/15652)|N과 M(4)|Silver 3|2021-12-10|2021-12-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15652/Main.java)|
+|[15654](https://www.acmicpc.net/problem/15654)|N과 M(5)|Silver 3|2021-12-08|2021-12-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15654/Main.java)|
+|[15657](https://www.acmicpc.net/problem/15657)|N과 M(8)|Silver 3|2021-12-13|2021-12-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15657/Main.java)|
+|[15663](https://www.acmicpc.net/problem/15663)|N과 M(9)|Silver 2|2021-12-27|2021-12-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15663/Main.java)|
+|[15665](https://www.acmicpc.net/problem/15665)|N과 M(11)|Silver 2|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15665/Main.java)|
+|[15666](https://www.acmicpc.net/problem/15666)|N과 M(12)|Silver 2|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15666/Main.java)|
+|[15683](https://www.acmicpc.net/problem/15683)|감시|Gold 5|2022-01-19|2022-01-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15683/Main.java)|
+|[15684](https://www.acmicpc.net/problem/15684)|사다리 조작|Gold 4|2022-01-20|2022-01-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15684/Main.java)|
+|[15685](https://www.acmicpc.net/problem/15685)|드래곤 커브|Gold 4|2022-01-23|2022-01-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15685/Main.java)|
+|[15686](https://www.acmicpc.net/problem/15686)|치킨 배달|Gold 5|2021-12-13|2021-12-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15686/Main.java)|
+|[15712](https://www.acmicpc.net/problem/15712)|등비수열|Gold 2|2021-11-27|2021-11-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15712/Main.java)|
+|[15791](https://www.acmicpc.net/problem/15791)|세진이의 미팅|Gold 1|2022-02-06|2022-02-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15791/Main.java)|
+|[15817](https://www.acmicpc.net/problem/15817)|배수 공사|Silver 1|2021-12-28|2021-12-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15817/Main.java)|
+|[15990](https://www.acmicpc.net/problem/15990)|1, 2, 3 더하기 5|Silver 2|2022-01-13|2022-01-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15990/Main.java)|
+|[16234](https://www.acmicpc.net/problem/16234)|인구 이동|Gold 5|2022-01-24|2022-01-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16234/Main.java)|
+|[16235](https://www.acmicpc.net/problem/16235)|나무 재테크|Gold 4|2022-01-22|2022-01-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16235/Main.java)|
+|[16236](https://www.acmicpc.net/problem/16236)|아기 상어|Gold 5|2021-09-17|2021-09-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16236/Main.java)|
+|[16472](https://www.acmicpc.net/problem/16472)|고냥이|Gold 4|2022-01-27|2022-01-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16472/Main.java)|
+|[16565](https://www.acmicpc.net/problem/16565)|N포커|Gold 1|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16565/Main.java)|
+|[16566](https://www.acmicpc.net/problem/16566)|카드 게임|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16566/Main.java)|
+|[16928](https://www.acmicpc.net/problem/16928)|뱀과 사다리 게임|Silver 1|2021-09-14|2021-10-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16928/Main.java)|
+|[16953](https://www.acmicpc.net/problem/16953)|A|Silver 1|2021-09-18|2021-09-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16953/Main.java)|
+|[17140](https://www.acmicpc.net/problem/17140)|이차원 배열과 연산|Gold 4|2022-02-07|2022-02-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17140/Main.java)|
+|[17142](https://www.acmicpc.net/problem/17142)|연구소 3|Gold 4|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17142/Main.java)|
+|[17143](https://www.acmicpc.net/problem/17143)|낚시왕|Gold 2|2022-01-30|2022-01-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17143/Main.java)|
+|[17144](https://www.acmicpc.net/problem/17144)|미세먼지 안녕!|Gold 4|2022-01-24|2022-01-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17144/Main.java)|
+|[17219](https://www.acmicpc.net/problem/17219)|비밀번호 찾기|Silver 4|2021-09-12|2021-09-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17219/Main.java)|
+|[17298](https://www.acmicpc.net/problem/17298)|오큰수|Gold 4|2021-12-04|2021-12-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17298/Main.java)|
+|[17299](https://www.acmicpc.net/problem/17299)|오등큰수|Gold 3|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17299/Main.java)|
+|[17406](https://www.acmicpc.net/problem/17406)|배열 돌리기 4|Gold 4|2022-01-14|2022-01-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17406/Main.java)|
+|[17626](https://www.acmicpc.net/problem/17626)|Four Squares|Silver 5|2021-09-12|2021-09-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17626/Main.java)|
+|[18115](https://www.acmicpc.net/problem/18115)|카드 놓기|Silver 3|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18115/Main.java)|
+|[18258](https://www.acmicpc.net/problem/18258)|큐|Silver 4|2022-01-01|2022-01-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18258/Main.java)|
+|[21608](https://www.acmicpc.net/problem/21608)|상어 초등학교|Silver 1|2022-01-13|2022-01-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q21608/Main.java)|
+|[22866](https://www.acmicpc.net/problem/22866)|탑 보기|Gold 4|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q22866/Main.java)|
+|[22942](https://www.acmicpc.net/problem/22942)|데이터 체커|Gold 4|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q22942/Main.java)|
+
+
+<br>
+
+## [Programmers](https://www.acmicpc.net/)
+
+<br>
+<br>
+
+|문제 번호|제목|난이도|최초 작성|최근 작성|소스 링크|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|[1829](https://programmers.co.kr/learn/courses/30/lessons/1829)|카카오프렌즈 컬러링북|Level 2|2021-11-01|2021-11-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q1829/Solution.java)|
+|[1835](https://programmers.co.kr/learn/courses/30/lessons/1835)|단체사진 찍기|Level 2|2021-11-02|2021-11-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q1835/Solution.java)|
+|[1844](https://programmers.co.kr/learn/courses/30/lessons/1844)|게임 맵 최단거리|Level 2|2021-12-06|2021-12-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q1844/Solution.java)|
+|[12973](https://programmers.co.kr/learn/courses/30/lessons/12973)|짝지어 제거하기|Level 2|2021-11-04|2021-11-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q12973/Solution.java)|
+|[17676](https://programmers.co.kr/learn/courses/30/lessons/17676)|추석 트래픽|Level 3|2021-10-29|2021-10-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q17676/Solution.java)|
+|[17677](https://programmers.co.kr/learn/courses/30/lessons/17677)|[1차] 뉴스 클러스터링|Level 2|2021-12-04|2021-12-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q17677/Solution.java)|
+|[17678](https://programmers.co.kr/learn/courses/30/lessons/17678)|[1차] 셔틀버스|Level 3|2022-01-22|2022-01-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q17678/Solution.java)|
+|[17679](https://programmers.co.kr/learn/courses/30/lessons/17679)|[1차] 프렌즈4블록|Level 2|2021-10-23|2021-10-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q17679/Solution.java)|
+|[17680](https://programmers.co.kr/learn/courses/30/lessons/17680)|[1차] 캐시|Level 2|2022-01-22|2022-01-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q17680/Solution.java)|
+|[17683](https://programmers.co.kr/learn/courses/30/lessons/17683)|[3차] 방금그곡|Level 2|2022-01-22|2022-01-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q17683/Solution.java)|
+|[17684](https://programmers.co.kr/learn/courses/30/lessons/17684)|압축|Level 2|2021-10-23|2021-10-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q17684/Solution.java)|
+|[17685](https://programmers.co.kr/learn/courses/30/lessons/17685)|[3차] 자동완성|Level 4|2022-01-22|2022-01-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q17685/Solution.java)|
+|[17686](https://programmers.co.kr/learn/courses/30/lessons/17686)|[3차] 파일명 정렬|Level 2|2022-01-22|2022-01-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q17686/Solution.java)|
+|[17687](https://programmers.co.kr/learn/courses/30/lessons/17687)|[3차] n진수 게임|Level 2|2022-01-22|2022-01-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q17687/Solution.java)|
+|[43238](https://programmers.co.kr/learn/courses/30/lessons/43238)|입국심사|?|2021-12-05|2021-12-05|[❌](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q43238/Solution.java)|
+|[42576](https://programmers.co.kr/learn/courses/30/lessons/42576)|완주하지 못한 선수|Level 1|2021-10-13|2021-10-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42576/Solution.java)|
+|[42577](https://programmers.co.kr/learn/courses/30/lessons/42577)|전화번호 목록|Level 2|2021-10-14|2021-10-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42577/Solution.java)|
+|[42578](https://programmers.co.kr/learn/courses/30/lessons/42578)|위장|Level 2|2021-10-14|2021-10-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42578/Solution.java)|
+|[42579](https://programmers.co.kr/learn/courses/30/lessons/42579)|베스트앨범|Level 3|2021-10-14|2021-10-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42579/Solution.java)|
+|[42583](https://programmers.co.kr/learn/courses/30/lessons/42583)|다리를 지나는 트럭|Level 2|2021-10-19|2021-10-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42583/Solution.java)|
+|[42584](https://programmers.co.kr/learn/courses/30/lessons/42584)|주식가격|Level 2|2021-10-20|2021-10-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42584/Solution.java)|
+|[42586](https://programmers.co.kr/learn/courses/30/lessons/42586)|기능개발|Level 2|2021-10-17|2021-10-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42586/Solution.java)|
+|[42587](https://programmers.co.kr/learn/courses/30/lessons/42587)|프린터|Level 2|2021-10-18|2021-10-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42587/Solution.java)|
+|[42626](https://programmers.co.kr/learn/courses/30/lessons/42626)|더 맵게|Level 2|2021-10-20|2021-10-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42626/Solution.java)|
+|[42746](https://programmers.co.kr/learn/courses/30/lessons/42746)|가장 큰 수|Level 2|2021-12-05|2021-12-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42746/Solution.java)|
+|[42839](https://programmers.co.kr/learn/courses/30/lessons/42839)|소수 찾기|Level 2|2021-10-25|2021-10-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42839/Solution.java)|
+|[42840](https://programmers.co.kr/learn/courses/30/lessons/42840)|모의고사|Level 1|2021-10-25|2021-10-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42840/Solution.java)|
+|[42860](https://programmers.co.kr/learn/courses/30/lessons/42860)|조이스틱|Level 2|2021-10-25|2021-10-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42860/Solution.java)|
+|[42862](https://programmers.co.kr/learn/courses/30/lessons/42862)|체육복|Level 1|2021-10-25|2021-10-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42862/Solution.java)|
+|[42888](https://programmers.co.kr/learn/courses/30/lessons/42888)|오픈채팅방|Level 2|2021-11-02|2021-11-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42888/Solution.java)|
+|[42889](https://programmers.co.kr/learn/courses/30/lessons/42889)|실패율|Level 1|2021-12-05|2021-12-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42889/Solution.java)|
+|[42895](https://programmers.co.kr/learn/courses/30/lessons/42895)|N으로 표현|Level 3|2021-10-25|2021-10-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42895/Solution.java)|
+|[42897](https://programmers.co.kr/learn/courses/30/lessons/42897)|도둑질|Level 4|2021-10-26|2021-11-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42897/Solution.java)|
+|[42898](https://programmers.co.kr/learn/courses/30/lessons/42898)|등굣길|Level 3|2021-10-25|2021-10-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q42898/Solution.java)|
+|[43105](https://programmers.co.kr/learn/courses/30/lessons/43105)|정수 삼각형|Level 3|2021-10-20|2021-10-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q43105/Solution.java)|
+|[43162](https://programmers.co.kr/learn/courses/30/lessons/43162)|네트워크|Level 3|2021-10-28|2021-10-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q43162/Solution.java)|
+|[43163](https://programmers.co.kr/learn/courses/30/lessons/43163)|단어 변환|Level 3|2021-10-28|2021-10-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q43163/Solution.java)|
+|[43165](https://programmers.co.kr/learn/courses/30/lessons/43165)|타겟 넘버|Level 2|2021-10-28|2021-10-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q43165/Solution.java)|
+|[43238](https://programmers.co.kr/learn/courses/30/lessons/43238)|입국심사|Level 3|2021-11-09|2021-11-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q43238/Solution.java)|
+|[49189](https://programmers.co.kr/learn/courses/30/lessons/49189)|가장 먼 노드|Level 3|2021-11-10|2021-11-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q49189/Solution.java)|
+|[49994](https://programmers.co.kr/learn/courses/30/lessons/49994)|방문 길이|Level 2|2021-10-06|2021-10-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q49994/Solution.java)|
+|[60057](https://programmers.co.kr/learn/courses/30/lessons/60057)|문자열 압축|Level 2|2021-10-31|2021-10-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q60057/Solution.java)|
+|[60058](https://programmers.co.kr/learn/courses/30/lessons/60058)|괄호 변환|Level 2|2021-10-31|2021-10-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q60058/Solution.java)|
+|[60059](https://programmers.co.kr/learn/courses/30/lessons/60059)|자물쇠와 열쇠|Level 3|2021-10-31|2021-10-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q60059/Solution.java)|
+|[60061](https://programmers.co.kr/learn/courses/30/lessons/60061)|기둥과 보 설치|Level 3|2021-10-31|2021-10-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q60061/Solution.java)|
+|[60062](https://programmers.co.kr/learn/courses/30/lessons/60062)|외벽 점검|Level 3|2021-10-30|2021-10-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q60062/Solution.java)|
+|[62048](https://programmers.co.kr/learn/courses/30/lessons/62048)|멀쩡한 사각형|Level 2|2021-11-02|2021-10-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q62048/Solution.java)|
+|[64065](https://programmers.co.kr/learn/courses/30/lessons/64065)|튜플|Level 2|2021-11-06|2021-11-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q64065/Solution.java)|
+|[72411](https://programmers.co.kr/learn/courses/30/lessons/72411)|메뉴 리뉴얼|Level 2|2021-11-06|2021-11-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q72411/Solution.java)|
+|[72412](https://programmers.co.kr/learn/courses/30/lessons/72412)|순위 검색|Level 2|2021-11-22|2021-11-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q72412/Solution.java)|
+|[72413](https://programmers.co.kr/learn/courses/30/lessons/72413)|합승 택시 요금|Level 3|2021-11-24|2021-11-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q72413/Solution.java)|
+|[72414](https://programmers.co.kr/learn/courses/30/lessons/72414)|광고 삽입|Level 3|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q72414/Solution.java)|
+|[77485](https://programmers.co.kr/learn/courses/30/lessons/77485)|행렬 테두리 회전하기|Level 2|2021-11-05|2021-11-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q77485/Solution.java)|
+|[77486](https://programmers.co.kr/learn/courses/30/lessons/77486)|다단계 칫솔 판매|Level 3|2021-11-23|2021-11-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q77486/Solution.java)|
+|[83201](https://programmers.co.kr/learn/courses/30/lessons/83201)|상호 평가|?|2021-10-06|2021-10-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q83201/Solution.java)|
+|[84021](https://programmers.co.kr/learn/courses/30/lessons/84021)|퍼즐 조각 채우기|Level 3|2021-10-06|2021-10-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q84021/Solution.java)|
+|[86971](https://programmers.co.kr/learn/courses/30/lessons/86971)|전력망을 둘로 나누기|Level 2|2021-10-06|2021-10-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q86971/Solution.java)|
+|[87377](https://programmers.co.kr/learn/courses/30/lessons/87377)|교점에 별 만들기|Level 2|2021-11-12|2021-11-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q87377/Solution.java)|
+|[87946](https://programmers.co.kr/learn/courses/30/lessons/87946)|피로도|Level 2|2021-11-12|2021-11-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q87946/Solution.java)|
+|[92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|신고 결과 받기|Level 1|2022-01-29|2022-01-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q92334/Solution.java)|
+|[92335](https://programmers.co.kr/learn/courses/30/lessons/92335)|k진수에서 소수 개수 구하기|Level 2|2022-01-29|2022-01-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q92335/Solution.java)|
+|[92341](https://programmers.co.kr/learn/courses/30/lessons/92341)|주차 요금 계산|Level 2|2022-01-29|2022-01-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q92341/Solution.java)|
+|[92342](https://programmers.co.kr/learn/courses/30/lessons/92342)|양궁대회|Level 2|2022-01-29|2022-01-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q92342/Solution.java)|
+|[92344](https://programmers.co.kr/learn/courses/30/lessons/92344)|파괴되지 않은 건물|Level 3|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q92344/Solution.java)|
