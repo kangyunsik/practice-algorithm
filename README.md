@@ -9,7 +9,7 @@
 <br>
 <br>
 
-|문제 번호|제목|난이도|최초 작성|최근 작성|소스 링크|
+|&nbsp; 번호 &nbsp;|제목|&nbsp; &nbsp; 난이도 &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 최초 작성 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 최근 작성 &nbsp; &nbsp; &nbsp;|링크|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[1014](https://www.acmicpc.net/problem/1014)|컨닝|Platinum 4|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1014/Main.java)|
 |[1016](https://www.acmicpc.net/problem/1016)|제곱 ㄴㄴ 수|Gold 1|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1016/Main.java)|
@@ -252,7 +252,7 @@
 <br>
 <br>
 
-|문제 번호|제목|난이도|최초 작성|최근 작성|소스 링크|
+|&nbsp; 번호 &nbsp;|제목|&nbsp; &nbsp; 난이도 &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 최초 작성 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 최근 작성 &nbsp; &nbsp; &nbsp;|링크|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[1829](https://programmers.co.kr/learn/courses/30/lessons/1829)|카카오프렌즈 컬러링북|Level 2|2021-11-01|2021-11-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q1829/Solution.java)|
 |[1835](https://programmers.co.kr/learn/courses/30/lessons/1835)|단체사진 찍기|Level 2|2021-11-02|2021-11-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q1835/Solution.java)|
