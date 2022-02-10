@@ -9,7 +9,7 @@
 <br>
 <br>
 
-|&nbsp;번호&nbsp;|제목|&nbsp; &nbsp;난이도&nbsp; &nbsp;|&nbsp; &nbsp; &nbsp;최초 작성&nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp;최근 작성&nbsp; &nbsp; &nbsp;|링크|
+|&nbsp;번호&nbsp;|제목|&nbsp;&nbsp;&nbsp;난이도&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;최초 작성&nbsp;&nbsp;|&nbsp;&nbsp;최근 작성&nbsp;&nbsp;|링크|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[1014](https://www.acmicpc.net/problem/1014)|컨닝|Platinum 4|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1014/Main.java)|
 |[1016](https://www.acmicpc.net/problem/1016)|제곱 ㄴㄴ 수|Gold 1|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1016/Main.java)|
@@ -89,7 +89,7 @@
 |[2331](https://www.acmicpc.net/problem/2331)|반복수열|Silver 4|2021-11-11|2021-11-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2331/Main.java)|
 |[2346](https://www.acmicpc.net/problem/2346)|풍선 터뜨리기|Silver 3|2022-02-04|2022-02-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2346/Main.java)|
 |[2357](https://www.acmicpc.net/problem/2357)|최솟값과 최댓값|Gold 1|2022-02-01|2022-02-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2357/Main.java)|
-|[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에 가서 아이스크림을 사먹는데|Silver 5|2021-12-26|2021-12-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2422/Main.java)|
+|[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에...|Silver 5|2021-12-26|2021-12-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2422/Main.java)|
 |[2463](https://www.acmicpc.net/problem/2463)|비용|Platinum 5|2022-01-11|2022-01-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2463/Main.java)|
 |[2468](https://www.acmicpc.net/problem/2468)|안전 영역|Silver 1|2021-11-11|2021-11-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2468/Main.java)|
 |[2470](https://www.acmicpc.net/problem/2470)|두 용액|Gold 5|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2470/Main.java)|
@@ -252,7 +252,7 @@
 <br>
 <br>
 
-|&nbsp;번호&nbsp;|제목|&nbsp; &nbsp;난이도&nbsp; &nbsp;|&nbsp; &nbsp; &nbsp;최초 작성&nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp;최근 작성&nbsp; &nbsp; &nbsp;|링크|
+|&nbsp;번호&nbsp;|제목|&nbsp;&nbsp;&nbsp;난이도&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;최초 작성&nbsp;&nbsp;|&nbsp;&nbsp;최근 작성&nbsp;&nbsp;|링크|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[1829](https://programmers.co.kr/learn/courses/30/lessons/1829)|카카오프렌즈 컬러링북|Level 2|2021-11-01|2021-11-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q1829/Solution.java)|
 |[1835](https://programmers.co.kr/learn/courses/30/lessons/1835)|단체사진 찍기|Level 2|2021-11-02|2021-11-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/programmers/q1835/Solution.java)|
