@@ -155,6 +155,7 @@
 |[10026](https://www.acmicpc.net/problem/10026)|적록색약|Gold 5|2021-09-15|2021-09-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10026/Main.java)|
 |[10157](https://www.acmicpc.net/problem/10157)|자리배정|Silver 4|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10157/Main.java)|
 |[10158](https://www.acmicpc.net/problem/10158)|개미|Silver 4|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10158/Main.java)|
+|[10163](https://www.acmicpc.net/problem/10163)|색종이|Bronze 1|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10163/Main.java)|
 |[10217](https://www.acmicpc.net/problem/10217)|KCM Travel|Gold 1|2022-02-01|2022-02-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10217/Main.java)|
 |[10253](https://www.acmicpc.net/problem/10253)|헨리|Gold 2|2022-01-19|2022-01-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10253/Main.java)|
 |[10819](https://www.acmicpc.net/problem/10819)|차이를 최대로|Silver 2|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10819/Main.java)|
