@@ -314,6 +314,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220207)
 
 
++ q2116(Gold 4)
+  - 주사위 쌓기
+  - (20220210)
+
+
 + q2133(Gold 5)
   - 타일 채우기
   - (20220131)
