@@ -374,6 +374,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220111)
 
 
++ q2304(Silver 2)
+  - 창고 다각형
+  - (20220210)
+
+
 + q2309(Bronze 2)
   - 일곱 난쟁이
   - (20220209)
