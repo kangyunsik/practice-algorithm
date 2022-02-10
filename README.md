@@ -1024,6 +1024,11 @@ https://programmers.co.kr/learn/courses/30/lessons/{QUESTION-NUMBER}
   - (20220208)
 
 
++ q15666(Silver 2)
+  - N과 M(12)
+  - (20220210)
+
+
 + q15683(Gold 5)
   - 감시
   - (20220119)
