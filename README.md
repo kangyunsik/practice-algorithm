@@ -41,6 +41,7 @@
 |[1327](https://www.acmicpc.net/problem/1327)|소트 게임|Silver 1|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1327/Main.java)|
 |[1337](https://www.acmicpc.net/problem/1337)|올바른 배열|Silver 4|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1337/Main.java)|
 |[1354](https://www.acmicpc.net/problem/1354)|무한 수열 2|Gold 4|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1354/Main.java)|
+|[1410](https://www.acmicpc.net/problem/1410)|패턴의 개수|Platinum 4|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1410/Main.java)|
 |[1450](https://www.acmicpc.net/problem/1450)|냅색문제|Gold 1|2022-01-08|2022-01-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1450/Main.java)|
 |[1504](https://www.acmicpc.net/problem/1504)|특정한 최단 경로|Gold 4|2021-12-01|2021-12-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1504/Main.java)|
 |[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|Silver 2|2021-09-09|2021-09-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1541/Main.java)|
