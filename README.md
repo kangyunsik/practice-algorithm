@@ -93,6 +93,7 @@
 |[2357](https://www.acmicpc.net/problem/2357)|최솟값과 최댓값|Gold 1|2022-02-01|2022-02-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2357/Main.java)|
 |[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에...|Silver 5|2021-12-26|2021-12-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2422/Main.java)|
 |[2463](https://www.acmicpc.net/problem/2463)|비용|Platinum 5|2022-01-11|2022-01-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2463/Main.java)|
+|[2467](https://www.acmicpc.net/problem/2467)|용액|Gold 5|2022-02-11|2022-02-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2467/Main.java)|
 |[2468](https://www.acmicpc.net/problem/2468)|안전 영역|Silver 1|2021-11-11|2021-11-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2468/Main.java)|
 |[2470](https://www.acmicpc.net/problem/2470)|두 용액|Gold 5|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2470/Main.java)|
 |[2473](https://www.acmicpc.net/problem/2473)|세 용액|Gold 4|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2473/Main.java)|
