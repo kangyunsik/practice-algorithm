@@ -208,6 +208,7 @@
 |[14890](https://www.acmicpc.net/problem/14890)|경사로|Gold 3|2021-12-07|2021-12-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14890/Main.java)|
 |[14891](https://www.acmicpc.net/problem/14891)|톱니바퀴|Silver 1|2022-01-16|2022-01-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14891/Main.java)|
 |[14939](https://www.acmicpc.net/problem/14939)|불 끄기|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14939/Main.java)|
+|[15486](https://www.acmicpc.net/problem/15486)|퇴사 2|Silver 1|2022-02-11|2022-02-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15486/Main.java)|
 |[15649](https://www.acmicpc.net/problem/15649)|N과 M(1)|Silver 3|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15649/Main.java)|
 |[15650](https://www.acmicpc.net/problem/15650)|N과 M(2)|Silver 3|2021-12-08|2021-12-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15650/Main.java)|
 |[15651](https://www.acmicpc.net/problem/15651)|N과 M(3)|Silver 3|2021-12-04|2021-12-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15651/Main.java)|

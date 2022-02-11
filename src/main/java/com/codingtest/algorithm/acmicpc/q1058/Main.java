@@ -19,7 +19,6 @@ public class Main {
                 if (input.charAt(j) == 'Y') connect[i][j] = true;
             }
         }
-
         for (int i = 0; i < n; i++) {
             Set<Integer> next = new HashSet<>();
             Set<Integer> temp = new HashSet<>();
