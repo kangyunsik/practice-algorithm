@@ -16,6 +16,7 @@
 |[1025](https://www.acmicpc.net/problem/1025)|제곱수 찾기|Gold 5|2021-12-28|2021-12-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1025/Main.java)|
 |[1028](https://www.acmicpc.net/problem/1028)|다이아몬드 광산|Platinum 5|2021-12-25|2021-12-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1028/Main.java)|
 |[1033](https://www.acmicpc.net/problem/1033)|칵테일|Gold 2|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1033/Main.java)|
+|[1034](https://www.acmicpc.net/problem/1034)|램프|Gold 5|2022-02-11|2022-02-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1034/Main.java)|
 |[1036](https://www.acmicpc.net/problem/1036)|36진수|Gold 1|2021-10-24|2021-10-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1036/Main.java)|
 |[1038](https://www.acmicpc.net/problem/1038)|감소하는 수|Gold 5|2021-12-17|2021-12-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1038/Main.java)|
 |[1039](https://www.acmicpc.net/problem/1039)|교환|Gold 3|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1039/Main.java)|
