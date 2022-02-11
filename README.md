@@ -99,7 +99,7 @@
 |[2477](https://www.acmicpc.net/problem/2477)|참외밭|Silver 4|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2477/Main.java)|
 |[2481](https://www.acmicpc.net/problem/2481)|해밍 경로|Gold 2|2021-12-29|2021-12-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2481/Main.java)|
 |[2491](https://www.acmicpc.net/problem/2491)|수열|Silver 3|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2491/Main.java)|
-|[2493](https://www.acmicpc.net/problem/2493)|탑|Gold 5|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2493/Main.java)|
+|[2493](https://www.acmicpc.net/problem/2493)|탑|Gold 5|2021-11-26|2022-02-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2493/Main.java)|
 |[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|Silver 2|2021-10-21|2021-10-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2504/Main.java)|
 |[2527](https://www.acmicpc.net/problem/2527)|직사각형|Silver 1|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2527/Main.java)|
 |[2533](https://www.acmicpc.net/problem/2533)|사회망 서비스(SNS)|Gold 3|2022-01-21|2022-01-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2533/Main.java)|

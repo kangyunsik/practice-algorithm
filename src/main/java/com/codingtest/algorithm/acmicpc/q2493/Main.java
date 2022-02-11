@@ -5,51 +5,32 @@ import java.util.Stack;
 import java.util.StringTokenizer;
 
 public class Main {
-
-    static int[] answer;
-    static int[] heights;
+    static int[] answer, height;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        int n;
-
-        n = Integer.parseInt(br.readLine());
+        StringBuilder sb = new StringBuilder();
+        int n = Integer.parseInt(br.readLine());
         answer = new int[n];
-        heights = new int[n];
+        height = new int[n + 1];
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
-        for (int i = 0; i < n; i++) {
-            heights[i] = Integer.parseInt(st.nextToken());
+        height[0] = Integer.MAX_VALUE;
+        for (int i = 1; i <= n; i++) {
+            height[i] = Integer.parseInt(st.nextToken());
         }
 
-        Stack<Node> stack = new Stack<>();
-        for (int i = n-1; i >= 0; i--) {
-            Node item = new Node(heights[i], i);
-            if (!stack.isEmpty()) {
-                while (!stack.isEmpty() && stack.peek().height < item.height) {
-                    Node pop = stack.pop();
-                    answer[pop.index] = item.index + 1;
-                }
+        Stack<Integer> stack = new Stack<>();
+        stack.push(0);
+        for (int i = 1; i <= n; i++) {
+            while (height[stack.peek()] < height[i]) {
+                stack.pop();
             }
-            stack.push(item);
+            answer[i - 1] = stack.peek();
+            stack.push(i);
         }
-
-        while (!stack.isEmpty()) {
-            Node pop = stack.pop();
-            answer[pop.index] = 0;
-        }
-
-        for (int i : answer) bw.write(i+" ");
+        for (int i : answer) sb.append(i).append(" ");
+        bw.write(sb.toString());
         bw.flush();
-    }
-
-    static class Node{
-        int height;
-        int index;
-
-        public Node(int height, int index) {
-            this.height = height;
-            this.index = index;
-        }
     }
 }
