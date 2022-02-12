@@ -53,6 +53,7 @@
 |[1715](https://www.acmicpc.net/problem/1715)|카드 정렬하기|Gold 4|2021-11-30|2021-11-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1715/Main.java)|
 |[1717](https://www.acmicpc.net/problem/1717)|집합의 표현|Gold 4|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1717/Main.java)|
 |[1720](https://www.acmicpc.net/problem/1720)|타일 코드|Gold 5|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1720/Main.java)|
+|[1748](https://www.acmicpc.net/problem/1748)|수 이어 쓰기 1|Silver 3|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1748/Main.java)|
 |[1753](https://www.acmicpc.net/problem/1753)|최단경로|Gold 5|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1753/Main.java)|
 |[1759](https://www.acmicpc.net/problem/1759)|암호 만들기|Gold 5|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1759/Main.java)|
 |[1780](https://www.acmicpc.net/problem/1780)|종이의 개수|Silver 2|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1780/Main.java)|
