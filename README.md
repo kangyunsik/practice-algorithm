@@ -250,6 +250,7 @@
 |[17626](https://www.acmicpc.net/problem/17626)|Four Squares|Silver 5|2021-09-12|2021-09-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17626/Main.java)|
 |[18115](https://www.acmicpc.net/problem/18115)|카드 놓기|Silver 3|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18115/Main.java)|
 |[18258](https://www.acmicpc.net/problem/18258)|큐|Silver 4|2022-01-01|2022-01-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18258/Main.java)|
+|[18352](https://www.acmicpc.net/problem/18352)|특정 거리의 도시 찾기|Silver 2|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18352/Main.java)|
 |[21608](https://www.acmicpc.net/problem/21608)|상어 초등학교|Silver 1|2022-01-13|2022-01-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q21608/Main.java)|
 |[22866](https://www.acmicpc.net/problem/22866)|탑 보기|Gold 4|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q22866/Main.java)|
 |[22942](https://www.acmicpc.net/problem/22942)|데이터 체커|Gold 4|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q22942/Main.java)|
