@@ -162,6 +162,7 @@
 |[10163](https://www.acmicpc.net/problem/10163)|색종이|Bronze 1|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10163/Main.java)|
 |[10217](https://www.acmicpc.net/problem/10217)|KCM Travel|Gold 1|2022-02-01|2022-02-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10217/Main.java)|
 |[10253](https://www.acmicpc.net/problem/10253)|헨리|Gold 2|2022-01-19|2022-01-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10253/Main.java)|
+|[10815](https://www.acmicpc.net/problem/10815)|숫자 카드|Silver 4|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10815/Main.java)|
 |[10819](https://www.acmicpc.net/problem/10819)|차이를 최대로|Silver 2|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10819/Main.java)|
 |[10825](https://www.acmicpc.net/problem/10825)|국영수|Silver 4|2021-12-06|2021-12-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10825/Main.java)|
 |[10942](https://www.acmicpc.net/problem/10942)|팰린드롬?|Gold 3|2021-12-20|2021-12-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10942/Main.java)|
