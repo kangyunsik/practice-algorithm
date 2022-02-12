@@ -166,6 +166,7 @@
 |[10819](https://www.acmicpc.net/problem/10819)|차이를 최대로|Silver 2|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10819/Main.java)|
 |[10825](https://www.acmicpc.net/problem/10825)|국영수|Silver 4|2021-12-06|2021-12-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10825/Main.java)|
 |[10942](https://www.acmicpc.net/problem/10942)|팰린드롬?|Gold 3|2021-12-20|2021-12-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10942/Main.java)|
+|[10974](https://www.acmicpc.net/problem/10974)|모든 순열|Silver 3|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10974/Main.java)|
 |[10999](https://www.acmicpc.net/problem/10999)|구간 합 구하기 2|Platinum 4|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10999/Main.java)|
 |[11003](https://www.acmicpc.net/problem/11003)|최솟값 찾기|Platinum 5|2022-01-08|2022-01-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11003/Main.java)|
 |[11004](https://www.acmicpc.net/problem/11004)|K번째 수|Silver 5|2021-12-09|2021-12-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11004/Main.java)|
