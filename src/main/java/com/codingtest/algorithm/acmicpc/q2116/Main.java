@@ -7,14 +7,12 @@ public class Main {
     static int[][] dices;
     static int n;
     static int[] map = {5, 3, 4, 1, 2, 0};
-    static int[][] dp;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         n = Integer.parseInt(br.readLine());
         dices = new int[n][6];
-        dp = new int[7][n];
         for (int i = 0; i < n; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine(), " ");
             for (int j = 0; j < 6; j++) {
@@ -33,7 +31,6 @@ public class Main {
         if (cur == n) {
             return 0;
         }
-        if (dp[botValue][cur] != 0) return dp[botValue][cur];
         int index = -1;
         for (int i = 0; i < 6; i++) {
             if (botValue == dices[cur][i]) {
@@ -48,6 +45,6 @@ public class Main {
                 curMax = Math.max(curMax, dices[cur][i]);
             }
         }
-        return dp[botValue][cur] = (curMax + findCase(dices[cur][map[index]], cur + 1));
+        return (curMax + findCase(dices[cur][map[index]], cur + 1));
     }
 }
