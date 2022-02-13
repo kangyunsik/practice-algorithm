@@ -75,6 +75,7 @@
 |[1976](https://www.acmicpc.net/problem/1976)|여행 가자|Gold 4|2022-01-28|2022-01-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1976/Main.java)|
 |[1987](https://www.acmicpc.net/problem/1987)|알파벳|Gold 4|2021-11-27|2021-11-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1987/Main.java)|
 |[2004](https://www.acmicpc.net/problem/2004)|조합 0의 개수|Silver 2|2022-01-02|2022-01-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2004/Main.java)|
+|[2011](https://www.acmicpc.net/problem/2011)|암호코드|Silver 1|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2011/Main.java)|
 |[2042](https://www.acmicpc.net/problem/2042)|구간 합 구하기|Gold 1|2021-11-30|2021-11-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2042/Main.java)|
 |[2075](https://www.acmicpc.net/problem/2075)|N번째 큰 수|Gold 5|2021-12-03|2021-12-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2075/Main.java)|
 |[2096](https://www.acmicpc.net/problem/2096)|내려가기|Gold 4|2021-12-12|2021-12-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2096/Main.java)|
