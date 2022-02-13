@@ -122,6 +122,7 @@
 |[2630](https://www.acmicpc.net/problem/2630)|색종이 만들기|Silver 3|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2630/Main.java)|
 |[2638](https://www.acmicpc.net/problem/2638)|치즈|Gold 4|2021-12-30|2021-12-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2638/Main.java)|
 |[2644](https://www.acmicpc.net/problem/2644)|촌수계산|Silver 2|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2644/Main.java)|
+|[2693](https://www.acmicpc.net/problem/2693)|N번째 큰 수|Silver 5|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2693/Main.java)|
 |[2696](https://www.acmicpc.net/problem/2696)|중앙값 구하기|Gold 2|2022-01-10|2022-01-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2696/Main.java)|
 |[2776](https://www.acmicpc.net/problem/2776)|암기왕|Silver 4|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2776/Main.java)|
 |[2800](https://www.acmicpc.net/problem/2800)|괄호 제거|Gold 5|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2800/Main.java)|
