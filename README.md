@@ -181,6 +181,7 @@
 |[10971](https://www.acmicpc.net/problem/10971)|외판원 순회 2|Silver 2|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10971/Main.java)|
 |[10974](https://www.acmicpc.net/problem/10974)|모든 순열|Silver 3|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10974/Main.java)|
 |[10999](https://www.acmicpc.net/problem/10999)|구간 합 구하기 2|Platinum 4|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10999/Main.java)|
+|[11000](https://www.acmicpc.net/problem/11000)|강의실 배정|Gold 5|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11000/Main.java)|
 |[11003](https://www.acmicpc.net/problem/11003)|최솟값 찾기|Platinum 5|2022-01-08|2022-01-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11003/Main.java)|
 |[11004](https://www.acmicpc.net/problem/11004)|K번째 수|Silver 5|2021-12-09|2021-12-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11004/Main.java)|
 |[11049](https://www.acmicpc.net/problem/11049)|행렬 곱셈 순서|Gold 3|2021-12-22|2021-12-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11049/Main.java)|
