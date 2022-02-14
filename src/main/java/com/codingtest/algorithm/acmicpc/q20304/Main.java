@@ -12,27 +12,25 @@ public class Main {
         int len = Integer.toBinaryString(n).length();
 
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
-        Queue<int[]> queue = new LinkedList<>();
-        for (int i = 0; i < m; i++) {
-            queue.offer(new int[]{Integer.parseInt(st.nextToken()), 0});
-        }
-
         int ans = 0;
         int[] dist = new int[n + 1];
-        Arrays.fill(dist, Integer.MAX_VALUE);
+        boolean[] already = new boolean[n + 1];
+
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < m; i++) {
+            int input = Integer.parseInt(st.nextToken());
+            queue.offer(input);
+            already[input] = true;
+        }
 
         while (!queue.isEmpty()) {
-            int[] poll = queue.poll();
-            int depth = Integer.bitCount(poll[1]);
-            if(depth >= dist[poll[0]]) continue;
-            dist[poll[0]] = depth;
-
-            for (int i = 0; i < len; i++) {
-                int bit = 1 << i;
-                int next = poll[0] ^ bit;
-                depth = Integer.bitCount(poll[1] + bit);
-                if (next <= n && (poll[1] & bit) == 0 && depth < dist[next]) {
-                    queue.offer(new int[]{next, poll[1] + bit});
+            int poll = queue.poll();
+            for (int i = 0; i < len; i++) { //  1010 len = 4 [i =0~ i =3]
+                int next = poll ^ (1 << i); // i=0 -> 1, i=1 -> 10, i=2 -> 100, i=3 -> 1000
+                if (next <= n && !already[next]) {
+                    already[next] = true;
+                    dist[next] = dist[poll] + 1;
+                    queue.offer(next);
                 }
             }
         }
@@ -45,3 +43,4 @@ public class Main {
         bw.flush();
     }
 }
+
