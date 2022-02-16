@@ -86,6 +86,7 @@
 |[2098](https://www.acmicpc.net/problem/2098)|외판원 순회|Gold 1|2022-02-07|2022-02-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2098/Main.java)|
 |[2116](https://www.acmicpc.net/problem/2116)|주사위 쌓기|Gold 4|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2116/Main.java)|
 |[2133](https://www.acmicpc.net/problem/2133)|타일 채우기|Gold 5|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2133/Main.java)|
+|[2138](https://www.acmicpc.net/problem/2138)|전구와 스위치|Silver 1|2022-02-16|2022-02-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2138/Main.java)|
 |[2143](https://www.acmicpc.net/problem/2143)|두 배열의 합|Gold 3|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2143/Main.java)|
 |[2166](https://www.acmicpc.net/problem/2166)|다각형의 면적|Gold 5|2021-12-20|2021-12-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2166/Main.java)|
 |[2206](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|Gold 4|2021-11-29|2021-11-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2206/Main.java)|
