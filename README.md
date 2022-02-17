@@ -84,6 +84,7 @@
 |[2075](https://www.acmicpc.net/problem/2075)|N번째 큰 수|Gold 5|2021-12-03|2021-12-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2075/Main.java)|
 |[2096](https://www.acmicpc.net/problem/2096)|내려가기|Gold 4|2021-12-12|2021-12-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2096/Main.java)|
 |[2098](https://www.acmicpc.net/problem/2098)|외판원 순회|Gold 1|2022-02-07|2022-02-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2098/Main.java)|
+|[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|Gold 5|2022-02-17|2022-02-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2110/Main.java)|
 |[2116](https://www.acmicpc.net/problem/2116)|주사위 쌓기|Gold 4|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2116/Main.java)|
 |[2133](https://www.acmicpc.net/problem/2133)|타일 채우기|Gold 5|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2133/Main.java)|
 |[2138](https://www.acmicpc.net/problem/2138)|전구와 스위치|Silver 1|2022-02-16|2022-02-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2138/Main.java)|
