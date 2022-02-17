@@ -210,6 +210,7 @@
 |[11728](https://www.acmicpc.net/problem/11728)|배열 합치기|Silver 5|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11728/Main.java)|
 |[11779](https://www.acmicpc.net/problem/11779)|최소비용 구하기 2|Gold 3|2021-12-12|2021-12-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11779/Main.java)|
 |[11780](https://www.acmicpc.net/problem/11780)|플로이드 2|Gold 2|2022-01-17|2022-01-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11780/Main.java)|
+|[12015](https://www.acmicpc.net/problem/12015)|가장 긴 증가하는 부분 수열 2|Gold 2|2022-02-17|2022-02-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12015/Main.java)|
 |[12100](https://www.acmicpc.net/problem/12100)|2048 (Easy)|Gold 2|2022-01-17|2022-01-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12100/Main.java)|
 |[12782](https://www.acmicpc.net/problem/12782)|비트 우정지수|Silver 4|2022-01-03|2022-01-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12782/Main.java)|
 |[12852](https://www.acmicpc.net/problem/12852)|1로 만들기 2|Silver 1|2022-01-14|2022-01-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12852/Main.java)|
