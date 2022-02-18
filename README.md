@@ -69,6 +69,7 @@
 |[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|Gold 5|2021-11-30|2021-11-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1916/Main.java)|
 |[1918](https://www.acmicpc.net/problem/1918)|후위 표기식|Gold 3|2021-12-10|2021-12-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1918/Main.java)|
 |[1920](https://www.acmicpc.net/problem/1920)|수 찾기|Silver 4|2021-11-25|2021-11-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1920/Main.java)|
+|[1926](https://www.acmicpc.net/problem/1926)|그림|Silver 1|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1926/Main.java)|
 |[1931](https://www.acmicpc.net/problem/1931)|회의실 배정|Silver 2|2022-02-15|2022-02-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1931/Main.java)|
 |[1935](https://www.acmicpc.net/problem/1935)|후위 표기식 2|Silver 3|2021-12-16|2021-12-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1935/Main.java)|
 |[1937](https://www.acmicpc.net/problem/1937)|욕심쟁이 판다|Gold 3|2021-12-02|2021-12-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1937/Main.java)|
