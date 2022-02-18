@@ -3,15 +3,19 @@ package com.codingtest.algorithm.acmicpc.q15683;
 import java.io.*;
 import java.util.*;
 
+/***
+ *  소요시간 : 240 ms
+ *  메모리사용량 : 67,036 KB
+ */
 public class Main {
-    static int[][] board;
-    static List<Cctv> cctvs;
-    static int ans = 0;
-    static int n, m, all;
     static final int[] dx = {1, 0, -1, 0};
     static final int[] dy = {0, -1, 0, 1};
-    static final int[] ca = {4, 2, 4, 4, 1};
-    static final int[][] helper = {{0}, {0, 2}, {0, 1}, {0, 1, 2}, {0, 1, 2, 3}};
+    static final int[] cctvCycleNum = {0, 4, 2, 4, 4, 1};
+    static final int[][] cctvDirInfo = {{}, {0}, {0, 2}, {0, 1}, {0, 1, 2}, {0, 1, 2, 3}};
+
+    static int[][] board;
+    static List<Cctv> cctvList;
+    static int n, m, ans, maxVisible;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -20,59 +24,56 @@ public class Main {
 
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
-        int input;
         board = new int[n][m];
-        cctvs = new ArrayList<>();
+        cctvList = new ArrayList<>();
+
         for (int i = 0; i < n; i++) {
             st = new StringTokenizer(br.readLine());
             for (int j = 0; j < m; j++) {
-                input = Integer.parseInt(st.nextToken());
-                board[i][j] = input;
-                if (input > 0 && input < 6) {
-                    cctvs.add(new Cctv(i, j, input));
-                } else if (input == 0) {
+                int type = Integer.parseInt(st.nextToken());
+                board[i][j] = type;
+                if (type == 0) {
                     ans++;
+                } else if (type < 6) {
+                    cctvList.add(new Cctv(i, j, type));
                 }
             }
         }
-        all = ans;
 
+        // Stack == CCTV 각각의 방향에 대한 정보 == cctvCycleInfo 의 인덱스에 해당.
         findCases(0, new Stack<>());
-        bw.write(ans + "\n");
+        bw.write((ans - maxVisible) + "\n");
         bw.flush();
     }
 
-    private static int findLookable(Stack<Integer> stack) {
+    private static int calcVisibleArea(Stack<Integer> stack) {
         int[][] temp = new int[n][m];
         for (int i = 0; i < n; i++) {
-            temp[i] = Arrays.copyOf(board[i],m);
+            temp[i] = Arrays.copyOf(board[i], m);
         }
 
         int result = 0;
-        int idx = 0;
-        for (Cctv cctv : cctvs) {
-            Integer i = stack.get(idx);
-            for (int j = 0; j < helper[cctv.kind - 1].length; j++) {
-                int next = (i + helper[cctv.kind - 1][j]) % 4;
+        for (int cctvIdx = 0; cctvIdx < cctvList.size(); cctvIdx++) {
+            Cctv cctv = cctvList.get(cctvIdx);
+            for (int j = 0; j < cctvDirInfo[cctv.kind].length; j++) {
+                int next = (stack.get(cctvIdx) + cctvDirInfo[cctv.kind][j]) % 4;
                 result += cctv.draw(dx[next], dy[next], temp);
             }
-            idx++;
         }
         return result;
     }
 
-    private static void findCases(int depth, Stack<Integer> stack) {
-        if (depth == cctvs.size()) {
-            ans = Math.min(ans, all - findLookable(stack));
+    private static void findCases(int cctvIdx, Stack<Integer> stack) {
+        if (cctvIdx == cctvList.size()) {
+            maxVisible = Math.max(maxVisible, calcVisibleArea(stack));
             return;
         }
 
-        for (int i = 0; i < ca[cctvs.get(depth).kind - 1]; i++) {
+        for (int i = 0; i < cctvCycleNum[cctvList.get(cctvIdx).kind]; i++) {
             stack.push(i);
-            findCases(depth + 1, stack);
+            findCases(cctvIdx + 1, stack);
             stack.pop();
         }
-
     }
 
     private static boolean inRange(int x, int y) {
