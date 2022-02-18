@@ -146,6 +146,7 @@
 |[3015](https://www.acmicpc.net/problem/3015)|오아시스 재결합|Gold 1|2022-01-30|2022-01-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3015/Main.java)|
 |[3040](https://www.acmicpc.net/problem/3040)|백설 공주와 일곱 난쟁이|Bronze 2|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3040/Main.java)|
 |[3085](https://www.acmicpc.net/problem/3085)|사탕 게임|Silver 3|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3085/Main.java)|
+|[3109](https://www.acmicpc.net/problem/3109)|빵집|Gold 2|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3109/Main.java)|
 |[3190](https://www.acmicpc.net/problem/3190)|뱀|Gold 5|2022-01-18|2022-01-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3190/Main.java)|
 |[3197](https://www.acmicpc.net/problem/3197)|백조의 호수|Platinum 5|2022-01-18|2022-01-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3197/Main.java)|
 |[3273](https://www.acmicpc.net/problem/3273)|두 수의 합|Silver 3|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3273/Main.java)|
