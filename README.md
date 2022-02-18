@@ -123,6 +123,7 @@
 |[2559](https://www.acmicpc.net/problem/2559)|수열|Silver 3|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2559/Main.java)|
 |[2563](https://www.acmicpc.net/problem/2563)|색종이|Bronze 1|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2563/Main.java)|
 |[2564](https://www.acmicpc.net/problem/2564)|경비원|Silver 1|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2564/Main.java)|
+|[2567](https://www.acmicpc.net/problem/2567)|색종이 - 2|Silver 4|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2567/Main.java)|
 |[2568](https://www.acmicpc.net/problem/2568)|전깃줄|Platinum 5|2021-12-19|2021-12-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2568/Main.java)|
 |[2573](https://www.acmicpc.net/problem/2573)|빙산|Gold 4|2022-01-20|2022-01-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2573/Main.java)|
 |[2578](https://www.acmicpc.net/problem/2578)|빙고|Silver 5|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2578/Main.java)|
