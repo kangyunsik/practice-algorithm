@@ -228,6 +228,7 @@
 |[13460](https://www.acmicpc.net/problem/13460)|구슬 탈출 2|Gold 1|2021-12-30|2021-12-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13460/Main.java)|
 |[13549](https://www.acmicpc.net/problem/13549)|숨바꼭질 3|Gold 5|2021-12-07|2021-12-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13549/Main.java)|
 |[13907](https://www.acmicpc.net/problem/13907)|세금|Platinum 4|2021-12-22|2021-12-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13907/Main.java)|
+|[13913](https://www.acmicpc.net/problem/13913)|숨바꼭질 4|Gold 4|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13913/Main.java)|
 |[13975](https://www.acmicpc.net/problem/13975)|파일 합치기 3|Gold 5|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13975/Main.java)|
 |[14002](https://www.acmicpc.net/problem/14002)|가장 긴 증가하는 부분 수열 4|Gold 4|2022-01-16|2022-01-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14002/Main.java)|
 |[14003](https://www.acmicpc.net/problem/14003)|가장 긴 증가하는 부분 수열 5|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14003/Main.java)|
