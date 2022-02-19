@@ -172,6 +172,7 @@
 |[7576](https://www.acmicpc.net/problem/7576)|토마토(2차원)|Silver 1|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7576/Main.java)|
 |[7579](https://www.acmicpc.net/problem/7579)|앱|Gold 3|2022-01-08|2022-01-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7579/Main.java)|
 |[7662](https://www.acmicpc.net/problem/7662)|이중 우선순위 큐|Gold 5|2021-09-08|2021-09-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7662/Main.java)|
+|[7785](https://www.acmicpc.net/problem/7785)|회사에 있는 사람|Silver 5|2022-02-19|2022-02-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7785/Main.java)|
 |[7795](https://www.acmicpc.net/problem/7795)|먹을 것인가 먹힐 것인가|Silver 3|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7795/Main.java)|
 |[8892](https://www.acmicpc.net/problem/8892)|팰린드롬|Silver 5|2021-12-27|2021-12-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q8892/Main.java)|
 |[8980](https://www.acmicpc.net/problem/8980)|택배|Gold 3|2022-02-02|2022-02-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q8980/Main.java)|
