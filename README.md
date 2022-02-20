@@ -293,6 +293,7 @@
 |[17413](https://www.acmicpc.net/problem/17413)|단어 뒤집기 2|Silver 3|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17413/Main.java)|
 |[17626](https://www.acmicpc.net/problem/17626)|Four Squares|Silver 5|2021-09-12|2021-09-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17626/Main.java)|
 |[17779](https://www.acmicpc.net/problem/17779)|게리멘더링 2|Gold 4|2022-02-20|2022-02-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17779/Main.java)|
+|[17837](https://www.acmicpc.net/problem/17837)|새로운 게임 2|Gold 2|2022-02-20|2022-02-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17837/Main.java)|
 |[18115](https://www.acmicpc.net/problem/18115)|카드 놓기|Silver 3|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18115/Main.java)|
 |[18258](https://www.acmicpc.net/problem/18258)|큐|Silver 4|2022-01-01|2022-01-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18258/Main.java)|
 |[18310](https://www.acmicpc.net/problem/18310)|안테나|Silver 3|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18310/Main.java)|
