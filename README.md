@@ -283,6 +283,7 @@
 |[16566](https://www.acmicpc.net/problem/16566)|카드 게임|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16566/Main.java)|
 |[16928](https://www.acmicpc.net/problem/16928)|뱀과 사다리 게임|Silver 1|2021-09-14|2021-10-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16928/Main.java)|
 |[16935](https://www.acmicpc.net/problem/16935)|배열 돌리기 3|Silver 1|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16935/Main.java)|
+|[16946](https://www.acmicpc.net/problem/16946)|벽 부수고 이동하기 4|Gold 2|2022-02-23|2022-02-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16946/Main.java)|
 |[16953](https://www.acmicpc.net/problem/16953)|A|Silver 1|2021-09-18|2021-09-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16953/Main.java)|
 |[17140](https://www.acmicpc.net/problem/17140)|이차원 배열과 연산|Gold 4|2022-02-07|2022-02-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17140/Main.java)|
 |[17142](https://www.acmicpc.net/problem/17142)|연구소 3|Gold 4|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17142/Main.java)|
