@@ -277,7 +277,7 @@
 |[16194](https://www.acmicpc.net/problem/16194)|카드 구매하기 2|Silver 1|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16194/Main.java)|
 |[16234](https://www.acmicpc.net/problem/16234)|인구 이동|Gold 5|2022-01-24|2022-01-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16234/Main.java)|
 |[16235](https://www.acmicpc.net/problem/16235)|나무 재테크|Gold 4|2022-01-22|2022-01-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16235/Main.java)|
-|[16236](https://www.acmicpc.net/problem/16236)|아기 상어|Gold 5|2021-09-17|2021-09-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16236/Main.java)|
+|[16236](https://www.acmicpc.net/problem/16236)|아기 상어|Gold 5|2021-09-17|2022-02-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16236/Main.java)|
 |[16472](https://www.acmicpc.net/problem/16472)|고냥이|Gold 4|2022-01-27|2022-01-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16472/Main.java)|
 |[16565](https://www.acmicpc.net/problem/16565)|N포커|Gold 1|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16565/Main.java)|
 |[16566](https://www.acmicpc.net/problem/16566)|카드 게임|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16566/Main.java)|
