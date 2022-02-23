@@ -32,6 +32,7 @@
 |[1167](https://www.acmicpc.net/problem/1167)|트리의 지름|Gold 3|2021-09-19|2021-09-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1167/Main.java)|
 |[1202](https://www.acmicpc.net/problem/1202)|보석 도둑|Gold 2|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1202/Main.java)|
 |[1208](https://www.acmicpc.net/problem/1208)|부분수열의 합 2|Gold 1|2021-12-15|2021-12-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1208/Main.java)|
+|[1235](https://www.acmicpc.net/problem/1235)|학생 번호|Silver 4|2022-02-23|2022-02-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1235/Main.java)|
 |[1238](https://www.acmicpc.net/problem/1238)|파티|Gold 3|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1238/Main.java)|
 |[1244](https://www.acmicpc.net/problem/1244)|스위치 켜고 끄기|Silver 3|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1244/Main.java)|
 |[1253](https://www.acmicpc.net/problem/1253)|좋다|Gold 4|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1253/Main.java)|
