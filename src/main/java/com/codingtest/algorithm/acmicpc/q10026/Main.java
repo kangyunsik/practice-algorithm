@@ -4,84 +4,73 @@ import java.io.*;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/***
+ *  소요시간 : 104 ms
+ *  메모리사용량 : 13,508 KB
+ */
 public class Main {
-    int n;
-    char[][] array;
+    static char[][] board;
+    static boolean[][] isVisit;
+    static int n;
+
+    static final int[] dx = {0, 0, 1, -1};
+    static final int[] dy = {1, -1, 0, 0};
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-
-        int n = Integer.parseInt(br.readLine());
-        Main main = new Main();
-        main.init(n);
+        n = Integer.parseInt(br.readLine());
+        board = new char[n][];
         for (int i = 0; i < n; i++) {
-            main.set(i,br.readLine());
+            board[i] = br.readLine().toCharArray();
         }
-        bw.write(main.getAnswer(false) +" " +main.getAnswer(true)+"\n");
+
+        int nonDisabled = getAreaCountByWhetherDisabled(false);
+        int disabled = getAreaCountByWhetherDisabled(true);
+
+        bw.append(String.valueOf(nonDisabled)).append(" ").append(String.valueOf(disabled));
         bw.flush();
     }
 
-    public void init(int n){
-        this.n = n;
-        array = new char[n][n];
-    }
-
-    public void set(int index,String in){
-        for (int i = 0; i < n; i++) {
-            char c = in.charAt(i);
-            array[index][i] = in.charAt(i);
-        }
-    }
-
-    public int getAnswer(boolean isDisabled){
-        boolean[][] check = new boolean[n][n];
-        Queue<Integer[]> queue = new LinkedList<>();
-        int[] vx = {1,0,-1,0};
-        int[] vy = {0,1,0,-1};
-
-        int count = 0;
+    private static int getAreaCountByWhetherDisabled(boolean isDisabled) {
+        int nonDisabled = 0;
+        isVisit = new boolean[n][n];
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                if(!check[i][j]) {
-                    count++;
-                    queue.add(new Integer[]{i,j});
-
-                    while(!queue.isEmpty()){
-                        Integer[] polled = queue.poll();
-                        int px = polled[0];
-                        int py = polled[1];
-
-                        if(!check[px][py]) {
-                            char target = array[px][py];
-                            check[px][py] = true;
-                            for (int k = 0; k < 4; k++) {
-                                int dx = px + vx[k];
-                                int dy = py + vy[k];
-                                if (dx < n && dx >= 0 &&
-                                        dy < n && dy >= 0 &&
-                                        isSameByDisabled(isDisabled, target, array[dx][dy])) {
-                                    queue.add(new Integer[]{dx, dy});
-                                }
-                            }
-                        }
-                    }
-                }
+                if (isVisit[i][j]) continue;
+                bfs(i, j, isDisabled);
+                nonDisabled++;
             }
         }
-        return count;
+        return nonDisabled;
     }
 
-    public boolean isSameByDisabled(boolean isDisabled, char a, char b) {
-        if(isDisabled){
-            if(a == 'R')
-                a = 'G';
-            if(b == 'R')
-                b = 'G';
-            return a==b;
-        }else{
-            return a==b;
+    private static void bfs(int x, int y, boolean isDisabled) {
+        Queue<int[]> queue = new LinkedList<>();
+        queue.offer(new int[]{x, y});
+        isVisit[x][y] = true;
+        while (!queue.isEmpty()) {
+            int[] poll = queue.poll();
+            x = poll[0];
+            y = poll[1];
+            for (int i = 0; i < 4; i++) {
+                int px = x + dx[i];
+                int py = y + dy[i];
+                if (isNotInRange(px, py) || isVisit[px][py]) continue;
+                if (!isEqualByDisabled(board[px][py], board[x][y], isDisabled)) continue;
+                isVisit[px][py] = true;
+                queue.offer(new int[]{px, py});
+            }
         }
     }
 
+    private static boolean isEqualByDisabled(char c1, char c2, boolean isDisabled) {
+        if (!isDisabled) return c1 == c2;
+        if (c1 == c2) return true;
+        return Math.abs(c1 - c2) == Math.abs('R' - 'G');
+    }
 
+    private static boolean isNotInRange(int x, int y) {
+        return x < 0 || y < 0 || x >= n || y >= n;
+    }
 }
