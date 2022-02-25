@@ -290,6 +290,7 @@
 |[16472](https://www.acmicpc.net/problem/16472)|고냥이|Gold 4|2022-01-27|2022-01-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16472/Main.java)|
 |[16565](https://www.acmicpc.net/problem/16565)|N포커|Gold 1|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16565/Main.java)|
 |[16566](https://www.acmicpc.net/problem/16566)|카드 게임|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16566/Main.java)|
+|[16900](https://www.acmicpc.net/problem/16900)|이름 정하기|Platinum 5|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16900/Main.java)|
 |[16928](https://www.acmicpc.net/problem/16928)|뱀과 사다리 게임|Silver 1|2021-09-14|2021-10-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16928/Main.java)|
 |[16933](https://www.acmicpc.net/problem/16933)|벽 부수고 이동하기 3|Gold 1|2022-02-23|2022-02-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16933/Main.java)|
 |[16935](https://www.acmicpc.net/problem/16935)|배열 돌리기 3|Silver 1|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16935/Main.java)|
