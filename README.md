@@ -70,6 +70,7 @@
 |[1806](https://www.acmicpc.net/problem/1806)|부분합|Gold 4|2021-10-22|2021-10-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1806/Main.java)|
 |[1863](https://www.acmicpc.net/problem/1863)|스카이라인 쉬운거|Gold 5|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1863/Main.java)|
 |[1865](https://www.acmicpc.net/problem/1865)|웜홀|Gold 3|2021-12-06|2021-12-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1865/Main.java)|
+|[1893](https://www.acmicpc.net/problem/1893)|시저 암호|Platinum 5|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1893/Main.java)|
 |[1914](https://www.acmicpc.net/problem/1914)|하노이 탑|Silver 2|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1914/Main.java)|
 |[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|Gold 5|2021-11-30|2021-11-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1916/Main.java)|
 |[1918](https://www.acmicpc.net/problem/1918)|후위 표기식|Gold 3|2021-12-10|2021-12-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1918/Main.java)|
