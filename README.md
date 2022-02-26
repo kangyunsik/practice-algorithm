@@ -65,6 +65,7 @@
 |[1744](https://www.acmicpc.net/problem/1744)|수 묶기|Gold 4|2022-02-17|2022-02-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1744/Main.java)|
 |[1748](https://www.acmicpc.net/problem/1748)|수 이어 쓰기 1|Silver 3|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1748/Main.java)|
 |[1753](https://www.acmicpc.net/problem/1753)|최단경로|Gold 5|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1753/Main.java)|
+|[1758](https://www.acmicpc.net/problem/1758)|알바생 강호|Silver 4|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1758/Main.java)|
 |[1759](https://www.acmicpc.net/problem/1759)|암호 만들기|Gold 5|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1759/Main.java)|
 |[1780](https://www.acmicpc.net/problem/1780)|종이의 개수|Silver 2|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1780/Main.java)|
 |[1781](https://www.acmicpc.net/problem/1781)|컵라면|Gold 2|2022-02-02|2022-02-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1781/Main.java)|
