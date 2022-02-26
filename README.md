@@ -241,6 +241,7 @@
 |[12865](https://www.acmicpc.net/problem/12865)|평범한 배낭|Gold 5|2021-11-28|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12865/Main.java)|
 |[12904](https://www.acmicpc.net/problem/12904)|A와 B|Gold 5|2021-12-05|2021-12-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12904/Main.java)|
 |[13023](https://www.acmicpc.net/problem/13023)|ABCDE|Gold 5|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13023/Main.java)|
+|[13164](https://www.acmicpc.net/problem/13164)|행복 유치원|Gold 5|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13164/Main.java)|
 |[13172](https://www.acmicpc.net/problem/13172)|Σ|Gold 5|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13172/Main.java)|
 |[13305](https://www.acmicpc.net/problem/13305)|주유소|Silver 4|2022-01-01|2022-01-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13305/Main.java)|
 |[13460](https://www.acmicpc.net/problem/13460)|구슬 탈출 2|Gold 1|2021-12-30|2021-12-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13460/Main.java)|
