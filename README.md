@@ -322,7 +322,8 @@
 |[18353](https://www.acmicpc.net/problem/18353)|병사 배치하기|Silver 2|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18353/Main.java)|
 |[18405](https://www.acmicpc.net/problem/18405)|경쟁적 전염|Silver 1|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18405/Main.java)|
 |[20299](https://www.acmicpc.net/problem/20299)|3대 측정|Bronze 2|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20299/Main.java)|
-|[20304](https://www.acmicpc.net/problem/20304)|비밀번호 제작|Gold 1|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20304/Main.java)|
+|[20300](https://www.acmicpc.net/problem/20300)|서강근육맨|Silver 3|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20300/Main.java)|
+|[20304](https://www.acmicpc.net/problem/20304)|비밀번호 제작|Platinum 5|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20304/Main.java)|
 |[20361](https://www.acmicpc.net/problem/20361)|일우는 야바위꾼|Bronze 3|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20361/Main.java)|
 |[21608](https://www.acmicpc.net/problem/21608)|상어 초등학교|Silver 1|2022-01-13|2022-01-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q21608/Main.java)|
 |[21937](https://www.acmicpc.net/problem/21937)|작업|Silver 1|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q21937/Main.java)|
