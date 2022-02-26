@@ -18,7 +18,7 @@ public class Main {
         for (int test_case = 0; test_case < T; test_case++) {
             seq = br.readLine().toCharArray();
             int cycleLen = seq.length;
-            mapper = new HashMap<>();
+            mapper = new HashMap<>(128);
             for (int i = 0; i < cycleLen; i++) {
                 mapper.put(seq[i], i);
             }
@@ -28,23 +28,30 @@ public class Main {
             pi = new int[originLen];
             getPi(origin);
 
-            List<Integer> indexes = new ArrayList<>();
             String target = br.readLine();
-            for (int cycle = 0; cycle < cycleLen; cycle++) {
-                int cnt = 0;
-                for (int i = 0, j = 0, tLen = target.length(); i < tLen; i++) {
-                    while (j > 0 && getReverseShift(target.charAt(i), cycle) != origin.charAt(j)) j = pi[j - 1];
-                    if (getReverseShift(target.charAt(i), cycle) != origin.charAt(j)) continue;
-                    if (++j == originLen) {
-                        cnt++;
-                        j = pi[j - 1];
-                    }
-                }
-                if (cnt == 1) indexes.add(cycle);
-            }
+            List<Integer> indexes = getIndexes(cycleLen, origin, target);
             printIndexAsFormat(indexes, bw);
         }
         bw.flush();
+    }
+
+    private static List<Integer> getIndexes(int cycleLen, String pattern, String target) {
+        List<Integer> indexes = new ArrayList<>();
+        for (int cycle = 0; cycle < cycleLen; cycle++) {
+            int cnt = 0;
+            for (int i = 0, j = 0, tLen = target.length(); i < tLen; i++) {
+                while (j > 0 && getReverseShift(target.charAt(i), cycle) != pattern.charAt(j))
+                    j = pi[j - 1];
+
+                if (getReverseShift(target.charAt(i), cycle) != pattern.charAt(j)) continue;
+                if (++j == pattern.length()) {
+                    cnt++;
+                    j = pi[j - 1];
+                }
+            }
+            if (cnt == 1) indexes.add(cycle);
+        }
+        return indexes;
     }
 
     private static void printIndexAsFormat(List<Integer> indexes, BufferedWriter bw) throws IOException {
