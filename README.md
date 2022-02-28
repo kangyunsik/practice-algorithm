@@ -163,6 +163,7 @@
 |[3986](https://www.acmicpc.net/problem/3986)|좋은 단어|Silver 4|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3986/Main.java)|
 |[4354](https://www.acmicpc.net/problem/4354)|문자열 제곱|Platinum 5|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4354/Main.java)|
 |[4358](https://www.acmicpc.net/problem/4358)|생태학|Silver 1|2021-12-23|2021-12-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4358/Main.java)|
+|[4485](https://www.acmicpc.net/problem/4485)|녹색 옷 입은 애가 젤다지?|Gold 4|2022-02-28|2022-02-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4485/Main.java)|
 |[4803](https://www.acmicpc.net/problem/4803)|트리|Gold 4|2022-01-09|2022-01-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4803/Main.java)|
 |[4866](https://www.acmicpc.net/problem/4866)|Squares|?|2021-12-28|2021-12-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4866/Main.java)|
 |[4991](https://www.acmicpc.net/problem/4991)|로봇 청소기|Gold 2|2022-01-25|2022-01-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4991/Main.java)|
