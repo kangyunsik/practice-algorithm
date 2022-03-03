@@ -344,6 +344,7 @@
 |[22942](https://www.acmicpc.net/problem/22942)|데이터 체커|Gold 4|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q22942/Main.java)|
 |[22973](https://www.acmicpc.net/problem/22973)|점프 숨바꼭질|Silver 2|2022-02-23|2022-02-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q22973/Main.java)|
 |[24523](https://www.acmicpc.net/problem/24523)|내 뒤에 나와 다른 수|Silver 2|2022-02-27|2022-02-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q24523/Main.java)|
+|[24524](https://www.acmicpc.net/problem/24524)|아름다운 문자열|Gold 5|2022-03-04|2022-03-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q24524/Main.java)|
 
 
 <br>
