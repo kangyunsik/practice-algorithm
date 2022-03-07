@@ -37,6 +37,7 @@
 |[1235](https://www.acmicpc.net/problem/1235)|학생 번호|Silver 4|2022-02-23|2022-02-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1235/Main.java) |
 |[1238](https://www.acmicpc.net/problem/1238)|파티|Gold 3|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1238/Main.java) |
 |[1244](https://www.acmicpc.net/problem/1244)|스위치 켜고 끄기|Silver 3|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1244/Main.java) |
+|[1245](https://www.acmicpc.net/problem/1245)|농장 관리|Gold 5|2022-03-08|2022-03-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1245/Main.java)|
 |[1251](https://www.acmicpc.net/problem/1251)|단어나누기|Silver 5|2022-02-25|2022-02-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1251/Main.java) |
 |[1253](https://www.acmicpc.net/problem/1253)|좋다|Gold 4|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1253/Main.java) |
 |[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|Silver 2|2021-11-10|2021-11-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1260/Main.java) |
