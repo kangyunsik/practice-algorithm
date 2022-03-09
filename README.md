@@ -271,6 +271,7 @@
 |[13975](https://www.acmicpc.net/problem/13975)|파일 합치기 3|Gold 5|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13975/Main.java)|
 |[14002](https://www.acmicpc.net/problem/14002)|가장 긴 증가하는 부분 수열 4|Gold 4|2022-01-16|2022-01-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14002/Main.java)|
 |[14003](https://www.acmicpc.net/problem/14003)|가장 긴 증가하는 부분 수열 5|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14003/Main.java)|
+|[14225](https://www.acmicpc.net/problem/14225)|부분수열의 합|Silver 1|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codinalgorithm/acmicpc/q14225/Main.java)|
 |[14425](https://www.acmicpc.net/problem/14425)|문자열 집합|Silver 3|2022-01-06|2022-01-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14425/Main.java)|
 |[14428](https://www.acmicpc.net/problem/14428)|수열과 쿼리 16|Gold 1|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14428/Main.java)|
 |[14442](https://www.acmicpc.net/problem/14442)|벽 부수고 이동하기 2|Gold 3|2022-01-11|2022-01-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14442/Main.java)|
