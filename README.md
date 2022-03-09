@@ -341,6 +341,7 @@
 |[18353](https://www.acmicpc.net/problem/18353)|병사 배치하기|Silver 2|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18353/Main.java)|
 |[18405](https://www.acmicpc.net/problem/18405)|경쟁적 전염|Silver 1|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18405/Main.java)|
 |[19598](https://www.acmicpc.net/problem/19598)|최소 회의실 개수|Gold 5|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q19598/Main.java)|
+|[20055](https://www.acmicpc.net/problem/20055)|컨베이어 벨트 위의 로봇|Gold 5|2022-03-09|2022-03-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/cest/algorithm/acmicpc/q20055/Main.java)|
 |[20299](https://www.acmicpc.net/problem/20299)|3대 측정|Bronze 2|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20299/Main.java)|
 |[20300](https://www.acmicpc.net/problem/20300)|서강근육맨|Silver 3|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20300/Main.java)|
 |[20304](https://www.acmicpc.net/problem/20304)|비밀번호 제작|Platinum 5|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20304/Main.java)|
