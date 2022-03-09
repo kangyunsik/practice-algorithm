@@ -157,6 +157,7 @@
 |[2628](https://www.acmicpc.net/problem/2628)|종이 자르기|Silver 5|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2628/Main.java) |
 |[2629](https://www.acmicpc.net/problem/2629)|양팔저울|Gold 3|2022-01-07|2022-01-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2629/Main.java) |
 |[2630](https://www.acmicpc.net/problem/2630)|색종이 만들기|Silver 3|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2630/Main.java) |
+|[2636](https://www.acmicpc.net/problem/2636)|치즈|Gold 5|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorit/acmicpc/q2636/Main.java)|
 |[2638](https://www.acmicpc.net/problem/2638)|치즈|Gold 4|2021-12-30|2021-12-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2638/Main.java) |
 |[2644](https://www.acmicpc.net/problem/2644)|촌수계산|Silver 2|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2644/Main.java) |
 |[2693](https://www.acmicpc.net/problem/2693)|N번째 큰 수|Silver 5|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2693/Main.java) |
