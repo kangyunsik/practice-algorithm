@@ -189,6 +189,7 @@
 |[5582](https://www.acmicpc.net/problem/5582)|공통 부분 문자열|Gold 5|2021-12-03|2021-12-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5582/Main.java) |
 |[5639](https://www.acmicpc.net/problem/5639)|이진 검색 트리|Silver 1|2021-09-18|2021-09-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5639/Main.java) |
 |[5719](https://www.acmicpc.net/problem/5719)|거의 최단 경로|Platinum 5|2021-12-22|2021-12-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5719/Main.java) |
+|[6087](https://www.acmicpc.net/problem/6087)|레이저 통신|Gold 4|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/ithm/acmicpc/q6087/Main.java)|
 |[6549](https://www.acmicpc.net/problem/6549)|히스토그램에서 가장 큰 직사각형|Platinum 5|2021-12-21|2021-12-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6549/Main.java) |
 |[6588](https://www.acmicpc.net/problem/6588)|골드바흐의 추측|Silver 1|2022-01-25|2022-01-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6588/Main.java) |
 |[7453](https://www.acmicpc.net/problem/7453)|합이 0인 네 정수|Gold 2|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7453/Main.java) |
@@ -346,6 +347,7 @@
 |[18352](https://www.acmicpc.net/problem/18352)|특정 거리의 도시 찾기|Silver 2|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18352/Main.java)|
 |[18353](https://www.acmicpc.net/problem/18353)|병사 배치하기|Silver 2|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18353/Main.java)|
 |[18405](https://www.acmicpc.net/problem/18405)|경쟁적 전염|Silver 1|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18405/Main.java)|
+|[18511](https://www.acmicpc.net/problem/18511)|큰 수 구성하기|Silver 5|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codi/algorithm/acmicpc/q18511/Main.java)|
 |[19598](https://www.acmicpc.net/problem/19598)|최소 회의실 개수|Gold 5|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q19598/Main.java)|
 |[20055](https://www.acmicpc.net/problem/20055)|컨베이어 벨트 위의 로봇|Gold 5|2022-03-09|2022-03-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/cest/algorithm/acmicpc/q20055/Main.java)|
 |[20299](https://www.acmicpc.net/problem/20299)|3대 측정|Bronze 2|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20299/Main.java)|
