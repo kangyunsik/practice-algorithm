@@ -189,6 +189,7 @@
 |[5373](https://www.acmicpc.net/problem/5373)|큐빙|Platinum 5|2022-01-23|2022-01-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5373/Main.java) |
 |[5397](https://www.acmicpc.net/problem/5397)|키로거|Silver 3|2022-01-23|2022-01-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5397/Main.java) |
 |[5525](https://www.acmicpc.net/problem/5525)|IOIOI|Silver 2|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5525/Main.java) |
+|[5568](https://www.acmicpc.net/problem/5568)|카드 놓기|Silver 5|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/rithm/acmicpc/q5568/Main.java)|
 |[5582](https://www.acmicpc.net/problem/5582)|공통 부분 문자열|Gold 5|2021-12-03|2021-12-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5582/Main.java) |
 |[5639](https://www.acmicpc.net/problem/5639)|이진 검색 트리|Silver 1|2021-09-18|2021-09-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5639/Main.java) |
 |[5719](https://www.acmicpc.net/problem/5719)|거의 최단 경로|Platinum 5|2021-12-22|2021-12-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5719/Main.java) |
