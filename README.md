@@ -92,6 +92,7 @@
 |[1935](https://www.acmicpc.net/problem/1935)|후위 표기식 2|Silver 3|2021-12-16|2021-12-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1935/Main.java) |
 |[1937](https://www.acmicpc.net/problem/1937)|욕심쟁이 판다|Gold 3|2021-12-02|2021-12-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1937/Main.java) |
 |[1939](https://www.acmicpc.net/problem/1939)|중량제한|Gold 4|2022-03-04|2022-03-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1939/Main.java) |
+|[1940](https://www.acmicpc.net/problem/1940)|주몽|Silver 4|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorhm/acmicpc/q1940/Main.java)|
 |[1946](https://www.acmicpc.net/problem/1946)|신입 사원|Silver 1|2021-12-21|2021-12-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1946/Main.java) |
 |[1956](https://www.acmicpc.net/problem/1956)|운동|Gold 4|2022-01-09|2022-01-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1956/Main.java) |
 |[1965](https://www.acmicpc.net/problem/1965)|상자넣기|Silver 2|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1965/Main.java) |
