@@ -283,6 +283,7 @@
 |[14428](https://www.acmicpc.net/problem/14428)|수열과 쿼리 16|Gold 1|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14428/Main.java)|
 |[14442](https://www.acmicpc.net/problem/14442)|벽 부수고 이동하기 2|Gold 3|2022-01-11|2022-01-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14442/Main.java)|
 |[14466](https://www.acmicpc.net/problem/14466)|소가 길을 건너간 이유 6|Gold 4|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/ctest/algorithm/acmicpc/q14466/Main.java)|
+|[14469](https://www.acmicpc.net/problem/14469)|소가 길을 건너간 이유 3|Silver 4|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/javangtest/algorithm/acmicpc/q14469/Main.java)|
 |[14499](https://www.acmicpc.net/problem/14499)|주사위 굴리기|Gold 4|2022-01-14|2022-01-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14499/Main.java)|
 |[14500](https://www.acmicpc.net/problem/14500)|테트로미노|Gold 5|2021-09-16|2021-09-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14500/Main.java)|
 |[14501](https://www.acmicpc.net/problem/14501)|퇴사|Silver 3|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14501/Main.java)|
