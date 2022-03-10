@@ -207,6 +207,7 @@
 |[8892](https://www.acmicpc.net/problem/8892)|팰린드롬|Silver 5|2021-12-27|2021-12-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q8892/Main.java) |
 |[8980](https://www.acmicpc.net/problem/8980)|택배|Gold 3|2022-02-02|2022-02-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q8980/Main.java) |
 |[9019](https://www.acmicpc.net/problem/9019)|DSLR|Gold 5|2021-09-14|2021-09-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9019/Main.java) |
+|[9079](https://www.acmicpc.net/problem/9079)|동전 게임|Silver 4|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/rithm/acmicpc/q9079/Main.java)|
 |[9084](https://www.acmicpc.net/problem/9084)|동전|Gold 5|2022-01-10|2022-01-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9084/Main.java) |
 |[9177](https://www.acmicpc.net/problem/9177)|단어 섞기|Gold 4|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9177/Main.java) |
 |[9205](https://www.acmicpc.net/problem/9205)|맥주 마시면서 걸어가기|Silver 1|2021-12-24|2021-12-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9205/Main.java) |
