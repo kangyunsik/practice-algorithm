@@ -41,6 +41,7 @@
 |[1251](https://www.acmicpc.net/problem/1251)|단어나누기|Silver 5|2022-02-25|2022-02-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1251/Main.java) |
 |[1253](https://www.acmicpc.net/problem/1253)|좋다|Gold 4|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1253/Main.java) |
 |[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|Silver 2|2021-11-10|2021-11-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1260/Main.java) |
+|[1263](https://www.acmicpc.net/problem/1263)|시간 관리|Silver 1|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/rithm/acmicpc/q1263/Main.java)|
 |[1287](https://www.acmicpc.net/problem/1287)|할 수 있다|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1287/Main.java) |
 |[1292](https://www.acmicpc.net/problem/1292)|쉽게 푸는 문제|Silver 5|2022-01-15|2022-01-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1292/Main.java) |
 |[1300](https://www.acmicpc.net/problem/1300)|K번째 수|Gold 2|2022-01-05|2022-01-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1300/Main.java) |
