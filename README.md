@@ -31,6 +31,7 @@
 |[1083](https://www.acmicpc.net/problem/1083)|소트|Gold 4|2022-01-19|2022-01-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1083/Main.java) |
 |[1105](https://www.acmicpc.net/problem/1105)|팔|Silver 1|2022-03-15|2022-03-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1105/Main.java)|
 |[1111](https://www.acmicpc.net/problem/1111)|IQ Test|Gold 2|2021-12-18|2021-12-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1111/Main.java) |
+|[1124](https://www.acmicpc.net/problem/1124)|언더프라임|Silver 3|2022-03-15|2022-03-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1124/Main.java)|
 |[1167](https://www.acmicpc.net/problem/1167)|트리의 지름|Gold 3|2021-09-19|2021-09-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1167/Main.java) |
 |[1202](https://www.acmicpc.net/problem/1202)|보석 도둑|Gold 2|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1202/Main.java) |
 |[1205](https://www.acmicpc.net/problem/1205)|등수 구하기|Silver 4|2022-03-03|2022-03-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1205/Main.java) |
