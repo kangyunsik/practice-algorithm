@@ -59,7 +59,7 @@ class q62048Test {
     void pr_test5(){
         int w = 100000000;
         int h = 999999999;
-        long exp = 99999998800000010L;
+        long exp = 99999998800000002L;
         Solution solution = new Solution();
         long result = solution.solution(w, h);
         assertThat(result).isEqualTo(exp);

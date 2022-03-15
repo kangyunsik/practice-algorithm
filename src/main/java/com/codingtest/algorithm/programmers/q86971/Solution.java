@@ -3,12 +3,14 @@ package com.codingtest.algorithm.programmers.q86971;
 import java.util.*;
 
 class Solution {
-    static Map<Integer, Set<Integer>> edges = new HashMap<>();
-    static int answer = Integer.MAX_VALUE;
+    static Map<Integer, Set<Integer>> edges;
+    static int answer;
     static int n;
 
     public int solution(int n, int[][] wires) {
         Solution.n = n;
+        edges = new HashMap<>();
+        answer = Integer.MAX_VALUE;
 
         for (int i = 0; i < n - 1; i++) {
             int s = wires[i][0];
