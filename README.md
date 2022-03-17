@@ -40,6 +40,7 @@
 |[1208](https://www.acmicpc.net/problem/1208)|부분수열의 합 2|Gold 1|2021-12-15|2021-12-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1208/Main.java) |
 |[1235](https://www.acmicpc.net/problem/1235)|학생 번호|Silver 4|2022-02-23|2022-02-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1235/Main.java) |
 |[1238](https://www.acmicpc.net/problem/1238)|파티|Gold 3|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1238/Main.java) |
+|[1240](https://www.acmicpc.net/problem/1240)|노드사이의 거리|Gold 5|2022-03-18|2022-03-18|[?](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtorithm/acmicpc/q1240/Main.java)|
 |[1244](https://www.acmicpc.net/problem/1244)|스위치 켜고 끄기|Silver 3|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1244/Main.java) |
 |[1245](https://www.acmicpc.net/problem/1245)|농장 관리|Gold 5|2022-03-08|2022-03-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1245/Main.java)|
 |[1251](https://www.acmicpc.net/problem/1251)|단어나누기|Silver 5|2022-02-25|2022-02-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1251/Main.java) |
