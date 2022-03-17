@@ -28,7 +28,6 @@ public class Main {
             for (int j = 0; j < m; j++) {
                 int next = Integer.parseInt(st.nextToken()) - 1;
                 edges[i].add(next);
-                edges[next].add(i);
             }
         }
 
