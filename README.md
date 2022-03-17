@@ -201,6 +201,7 @@
 |[5639](https://www.acmicpc.net/problem/5639)|이진 검색 트리|Silver 1|2021-09-18|2021-09-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5639/Main.java) |
 |[5719](https://www.acmicpc.net/problem/5719)|거의 최단 경로|Platinum 5|2021-12-22|2021-12-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5719/Main.java) |
 |[6087](https://www.acmicpc.net/problem/6087)|레이저 통신|Gold 4|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/ithm/acmicpc/q6087/Main.java)|
+|[6497](https://www.acmicpc.net/problem/6497)|전력난|Gold 4|2022-03-17|2022-03-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorm/acmicpc/q6497/Main.java)|
 |[6549](https://www.acmicpc.net/problem/6549)|히스토그램에서 가장 큰 직사각형|Platinum 5|2021-12-21|2021-12-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6549/Main.java) |
 |[6588](https://www.acmicpc.net/problem/6588)|골드바흐의 추측|Silver 1|2022-01-25|2022-01-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6588/Main.java) |
 |[7453](https://www.acmicpc.net/problem/7453)|합이 0인 네 정수|Gold 2|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7453/Main.java) |
