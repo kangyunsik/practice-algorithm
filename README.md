@@ -205,6 +205,7 @@
 |[6497](https://www.acmicpc.net/problem/6497)|전력난|Gold 4|2022-03-17|2022-03-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorm/acmicpc/q6497/Main.java)|
 |[6549](https://www.acmicpc.net/problem/6549)|히스토그램에서 가장 큰 직사각형|Platinum 5|2021-12-21|2021-12-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6549/Main.java) |
 |[6588](https://www.acmicpc.net/problem/6588)|골드바흐의 추측|Silver 1|2022-01-25|2022-01-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6588/Main.java) |
+|[6593](https://www.acmicpc.net/problem/6593)|상범 빌딩|Gold 5|2022-03-19|2022-03-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/althm/acmicpc/q6593/Main.java)|
 |[7453](https://www.acmicpc.net/problem/7453)|합이 0인 네 정수|Gold 2|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7453/Main.java) |
 |[7562](https://www.acmicpc.net/problem/7562)|나이트의 이동|Silver 2|2022-01-08|2022-01-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7562/Main.java) |
 |[7569](https://www.acmicpc.net/problem/7569)|토마토(3차원)|Silver 1|2021-09-13|2021-09-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q7569/Main.java) |
