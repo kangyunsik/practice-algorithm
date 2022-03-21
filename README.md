@@ -250,6 +250,7 @@
 |[11054](https://www.acmicpc.net/problem/11054)|가장 긴 바이토닉 부분수열|Gold 3|2021-12-24|2021-12-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11054/Main.java)|
 |[11055](https://www.acmicpc.net/problem/11055)|가장 큰 증가 부분 수열|Silver 2|2021-12-03|2021-12-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11055/Main.java)|
 |[11058](https://www.acmicpc.net/problem/11058)|크리보드|Gold 5|2021-12-06|2021-12-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11058/Main.java)|
+|[11060](https://www.acmicpc.net/problem/11060)|점프 점프|Silver 2|2022-03-21|2022-03-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesgorithm/acmicpc/q11060/Main.java)|
 |[11066](https://www.acmicpc.net/problem/11066)|파일 합치기|Gold 3|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11066/Main.java)|
 |[11286](https://www.acmicpc.net/problem/11286)|절댓값 힙|Silver 1|2021-09-13|2021-09-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11286/Main.java)|
 |[11403](https://www.acmicpc.net/problem/11403)|경로 찾기|Silver 1|2021-09-12|2021-09-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11403/Main.java)|
