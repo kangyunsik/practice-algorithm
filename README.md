@@ -128,6 +128,7 @@
 |[2167](https://www.acmicpc.net/problem/2167)|2차원 배열의 합|Bronze 1|2022-02-20|2022-02-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2167/Main.java) |
 |[2206](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|Gold 4|2021-11-29|2021-11-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2206/Main.java) |
 |[2210](https://www.acmicpc.net/problem/2210)|숫자판 점프|Silver 2|2022-03-16|2022-03-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesorithm/acmicpc/q2210/Main.java)|
+|[2228](https://www.acmicpc.net/problem/2228)|구간 나누기|Gold 4|2022-03-25|2022-03-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/ithm/acmicpc/q2228/Main.java)|
 |[2230](https://www.acmicpc.net/problem/2230)|수 고르기|Gold 5|2021-11-29|2021-11-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2230/Main.java) |
 |[2234](https://www.acmicpc.net/problem/2234)|성곽|Gold 4|2022-01-10|2022-01-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2234/Main.java) |
 |[2239](https://www.acmicpc.net/problem/2239)|스도쿠|Gold 4|2022-02-07|2022-02-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2239/Main.java) |
