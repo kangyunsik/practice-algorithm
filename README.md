@@ -352,6 +352,7 @@
 |[16439](https://www.acmicpc.net/problem/16439)|치킨치킨치킨|Silver 3|2022-03-12|2022-03-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codinglgorithm/acmicpc/q16439/Main.java)|
 |[16472](https://www.acmicpc.net/problem/16472)|고냥이|Gold 4|2022-01-27|2022-01-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16472/Main.java)|
 |[16508](https://www.acmicpc.net/problem/16508)|전공책|Silver 3|2022-03-16|2022-03-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/arithm/acmicpc/q16508/Main.java)|
+|[16562](https://www.acmicpc.net/problem/16562)|친구비|Gold 3|2022-03-28|2022-03-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algthm/acmicpc/q16562/Main.java)|
 |[16565](https://www.acmicpc.net/problem/16565)|N포커|Gold 1|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16565/Main.java)|
 |[16566](https://www.acmicpc.net/problem/16566)|카드 게임|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16566/Main.java)|
 |[16570](https://www.acmicpc.net/problem/16570)|앞뒤가 맞는 수열|Platinum 5|2022-02-27|2022-02-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16570/Main.java)|
