@@ -400,6 +400,7 @@
 |[18310](https://www.acmicpc.net/problem/18310)|안테나|Silver 3|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18310/Main.java)|
 |[18352](https://www.acmicpc.net/problem/18352)|특정 거리의 도시 찾기|Silver 2|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18352/Main.java)|
 |[18353](https://www.acmicpc.net/problem/18353)|병사 배치하기|Silver 2|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18353/Main.java)|
+|[18404](https://www.acmicpc.net/problem/18404)|현명한 나이트|Silver 1|2022-03-29|2022-03-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codinalgorithm/acmicpc/q18404/Main.java)|
 |[18405](https://www.acmicpc.net/problem/18405)|경쟁적 전염|Silver 1|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18405/Main.java)|
 |[18428](https://www.acmicpc.net/problem/18428)|감시 피하기|Silver 1|2022-03-21|2022-03-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtlgorithm/acmicpc/q18428/Main.java)|
 |[18511](https://www.acmicpc.net/problem/18511)|큰 수 구성하기|Silver 5|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codi/algorithm/acmicpc/q18511/Main.java)|
