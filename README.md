@@ -395,6 +395,7 @@
 |[18115](https://www.acmicpc.net/problem/18115)|카드 놓기|Silver 3|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18115/Main.java)|
 |[18116](https://www.acmicpc.net/problem/18116)|로봇 조립|Gold 4|2022-03-29|2022-03-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/rithm/acmicpc/q18116/Main.java)|
 |[18233](https://www.acmicpc.net/problem/18233)|러버덕을 사랑하는 모임|Silver 1|2022-02-21|2022-02-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18233/Main.java)|
+|[18243](https://www.acmicpc.net/problem/18243)|Small World Network|Silver 2|2022-03-29|2022-03-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18243/Main.java)|
 |[18258](https://www.acmicpc.net/problem/18258)|큐|Silver 4|2022-01-01|2022-01-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18258/Main.java)|
 |[18310](https://www.acmicpc.net/problem/18310)|안테나|Silver 3|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18310/Main.java)|
 |[18352](https://www.acmicpc.net/problem/18352)|특정 거리의 도시 찾기|Silver 2|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18352/Main.java)|
