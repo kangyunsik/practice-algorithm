@@ -1,17 +1,14 @@
 package com.codingtest.algorithm.acmicpc.q1707;
 
 import java.io.*;
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
-        HashSet<Integer>[] edges;
+        List<Integer>[] edges;
         boolean[] visit;
         boolean answer;
         int test_case = Integer.parseInt(br.readLine());
@@ -22,10 +19,10 @@ public class Main {
             v = Integer.parseInt(st.nextToken());
             e = Integer.parseInt(st.nextToken());
             answer = true;
-            edges = new HashSet[v];
+            edges = new List[v];
             visit = new boolean[v];
             for (int i = 0; i < v; i++) {
-                edges[i] = new HashSet<>();
+                edges[i] = new ArrayList<>();
             }
 
             for (int i = 0; i < e; i++) {
@@ -48,7 +45,7 @@ public class Main {
         }
     }
 
-    static boolean findOdd(HashSet<Integer>[] edges, int start, boolean[] visit){
+    static boolean findOdd(List<Integer>[] edges, int start, boolean[] visit){
         Queue<Node> queue = new LinkedList<>();
         queue.offer(new Node(start, 1));
         int[] status = new int[visit.length];
