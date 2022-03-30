@@ -5,6 +5,10 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+/***
+ *  소요시간 : 116 ms
+ *  메모리사용량 : 14284 KB
+ */
 public class Main {
     static int[][] board;
     static int prev;
@@ -14,7 +18,6 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
         X = Integer.parseInt(st.nextToken());
         Y = Integer.parseInt(st.nextToken());
@@ -23,51 +26,43 @@ public class Main {
             st = new StringTokenizer(br.readLine(), " ");
             for (int j = 0; j < Y; j++) {
                 board[i][j] = Integer.parseInt(st.nextToken());
-                if(board[i][j] == 1) remain++;
+                if (board[i][j] == 1) remain++;
             }
         }
-
         int cnt = 0;
-        while (bfs(0, 0)) {
-            cnt++;
-        }
-        bw.write(String.valueOf(cnt));
-        bw.newLine();
-        bw.write(String.valueOf(prev));
-        bw.flush();
+        while (bfs(0, 0)) cnt++;
+        System.out.println(cnt);
+        System.out.println(prev);
     }
 
     private static boolean bfs(int x, int y) {
         boolean[][] visit = new boolean[X][Y];
         Queue<int[]> queue = new LinkedList<>();
-        Queue<int[]> removeList = new LinkedList<>();
         queue.offer(new int[]{x, y});
         visit[x][y] = true;
+        int removeCnt = 0;
         while (!queue.isEmpty()) {
             int[] poll = queue.poll();
             for (int i = 0; i < 4; i++) {
                 int nextX = poll[0] + dx[i];
                 int nextY = poll[1] + dy[i];
-                if (isValidRange(nextX, nextY) && !visit[nextX][nextY]) {
-                    visit[nextX][nextY] = true;
-                    if (board[nextX][nextY] == 0)
-                        queue.offer(new int[]{nextX, nextY});
-                    else
-                        removeList.offer(new int[]{nextX, nextY});
+                if (isInvalidRange(nextX, nextY) || visit[nextX][nextY]) continue;
+                visit[nextX][nextY] = true;
+                if (board[nextX][nextY] == 0) queue.offer(new int[]{nextX, nextY});
+                else {
+                    board[nextX][nextY] = 0;
+                    removeCnt++;
                 }
             }
         }
-
-        if(removeList.size() == 0) return false;
-        prev = remain;
-        for (int[] pos : removeList) {
-            board[pos[0]][pos[1]] = 0;
-            remain--;
+        remain -= removeCnt;
+        if (removeCnt > 0) {
+            prev = removeCnt;
         }
-        return true;
+        return removeCnt > 0;
     }
 
-    private static boolean isValidRange(int x, int y) {
-        return x >= 0 && y >= 0 && x < X && y < Y;
+    private static boolean isInvalidRange(int x, int y) {
+        return x < 0 || y < 0 || x >= X || y >= Y;
     }
 }
