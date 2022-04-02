@@ -4,30 +4,35 @@ import java.io.*;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
-import java.util.stream.Stream;
 
+/***
+ *  소요시간 : 508 ms
+ *  메모리사용량 : 88304 KB
+ */
 public class Main {
     static int[][] board;
     static boolean[][][] already;
-    static final int[] dx = {1, -1, 0, 0};
-    static final int[] dy = {0, 0, 1, -1};
-    static final int[] jx = {1, 2, 2, 1, -1, -2, -2, -1};
-    static final int[] jy = {2, 1, -1, -2, -2, -1, 1, 2};
+    static final int[] dr = {1, -1, 0, 0};
+    static final int[] dc = {0, 0, 1, -1};
+    static final int[] jr = {1, 2, 2, 1, -1, -2, -2, -1};
+    static final int[] jc = {2, 1, -1, -2, -2, -1, 1, 2};
     static int n, m;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
         int k = Integer.parseInt(br.readLine());
         st = new StringTokenizer(br.readLine(), " ");
         m = Integer.parseInt(st.nextToken());
         n = Integer.parseInt(st.nextToken());
-        board = new int[n][];
+        board = new int[n][m];
         already = new boolean[n][m][k + 1];
 
         for (int i = 0; i < n; i++) {
-            board[i] = Stream.of(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+            st = new StringTokenizer(br.readLine(), " ");
+            for (int j = 0; j < m; j++) {
+                board[i][j] = Integer.parseInt(st.nextToken());
+            }
         }
 
         Queue<int[]> queue = new LinkedList<>();
@@ -36,37 +41,36 @@ public class Main {
         int ans = -1;
         while (!queue.isEmpty()) {
             int[] poll = queue.poll();
-            if (poll[0] == n - 1 && poll[1] == m - 1) {
-                ans = poll[2];
+            int r = poll[0];
+            int c = poll[1];
+            int cost = poll[2];
+            int jump = poll[3];
+            if (r == n - 1 && c == m - 1) {
+                ans = cost;
                 break;
             }
-
             for (int i = 0; i < 4; i++) {
-                int px = poll[0] + dx[i];
-                int py = poll[1] + dy[i];
-                if (inRange(px, py) && !already[px][py][poll[3]] && board[px][py] == 0) {
-                    already[px][py][poll[3]] = true;
-                    queue.offer(new int[]{px, py, poll[2] + 1, poll[3]});
-                }
+                int nr = r + dr[i];
+                int nc = c + dc[i];
+                if (isInvalidRange(nr, nc) || already[nr][nc][jump] || board[nr][nc] != 0) continue;
+                already[nr][nc][jump] = true;
+                queue.offer(new int[]{nr, nc, cost + 1, jump});
             }
 
-            if (poll[3] > 0) {
+            if (jump > 0) {
                 for (int i = 0; i < 8; i++) {
-                    int px = poll[0] + jx[i];
-                    int py = poll[1] + jy[i];
-                    if (inRange(px, py) && !already[px][py][poll[3] - 1] && board[px][py] == 0) {
-                        already[px][py][poll[3] - 1] = true;
-                        queue.offer(new int[]{px, py, poll[2] + 1, poll[3] - 1});
-                    }
+                    int nr = r + jr[i];
+                    int nc = c + jc[i];
+                    if (isInvalidRange(nr, nc) || already[nr][nc][jump - 1] || board[nr][nc] != 0) continue;
+                    already[nr][nc][jump - 1] = true;
+                    queue.offer(new int[]{nr, nc, cost + 1, jump - 1});
                 }
             }
         }
-
-        bw.write(ans + "\n");
-        bw.flush();
+        System.out.println(ans);
     }
 
-    private static boolean inRange(int x, int y) {
-        return x >= 0 && y >= 0 && x < n && y < m;
+    private static boolean isInvalidRange(int r, int c) {
+        return r < 0 || c < 0 || r >= n || c >= m;
     }
 }

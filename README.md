@@ -27,6 +27,7 @@
 |[1058](https://www.acmicpc.net/problem/1058)|친구|Silver 2|2022-02-11|2022-02-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1058/Main.java) |
 |[1059](https://www.acmicpc.net/problem/1059)|좋은 구간|Silver 5|2022-03-01|2022-03-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1059/Main.java) |
 |[1062](https://www.acmicpc.net/problem/1062)|가르침|Gold 4|2021-12-28|2021-12-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1062/Main.java) |
+|[1063](https://www.acmicpc.net/problem/1063)|킹|Silver 4|2022-04-01|2022-04-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algoritm/acmicpc/q1063/Main.java)|
 |[1069](https://www.acmicpc.net/problem/1069)|집으로|Gold 2|2021-12-31|2021-12-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1069/Main.java) |
 |[1072](https://www.acmicpc.net/problem/1072)|게임|Silver 3|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1072/Main.java) |
 |[1080](https://www.acmicpc.net/problem/1080)|행렬|Silver 1|2022-02-20|2022-02-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1080/Main.java) |
