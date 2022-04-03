@@ -177,6 +177,7 @@
 |[2605](https://www.acmicpc.net/problem/2605)|줄 세우기|Bronze 2|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2605/Main.java) |
 |[2615](https://www.acmicpc.net/problem/2615)|오목|Silver 2|2022-01-25|2022-01-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2615/Main.java) |
 |[2623](https://www.acmicpc.net/problem/2623)|음악프로그램|Gold 2|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2623/Main.java) |
+|[2624](https://www.acmicpc.net/problem/2624)|동전 바꿔주기|Gold 5|2022-04-03|2022-04-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesrithm/acmicpc/q2624/Main.java)|
 |[2628](https://www.acmicpc.net/problem/2628)|종이 자르기|Silver 5|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2628/Main.java) |
 |[2629](https://www.acmicpc.net/problem/2629)|양팔저울|Gold 3|2022-01-07|2022-01-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2629/Main.java) |
 |[2630](https://www.acmicpc.net/problem/2630)|색종이 만들기|Silver 3|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2630/Main.java) |
