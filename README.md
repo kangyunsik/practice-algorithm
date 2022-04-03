@@ -386,6 +386,7 @@
 |[17143](https://www.acmicpc.net/problem/17143)|낚시왕|Gold 2|2022-01-30|2022-01-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17143/Main.java)|
 |[17144](https://www.acmicpc.net/problem/17144)|미세먼지 안녕!|Gold 4|2022-01-24|2022-01-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17144/Main.java)|
 |[17219](https://www.acmicpc.net/problem/17219)|비밀번호 찾기|Silver 4|2021-09-12|2021-09-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17219/Main.java)|
+|[17244](https://www.acmicpc.net/problem/17244)|아맞다우산|Gold 2|2022-04-03|2022-04-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtestrithm/acmicpc/q17244/Main.java)|
 |[17281](https://www.acmicpc.net/problem/17281)|⚾|Gold 4|2022-02-15|2022-02-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17281/Main.java)|
 |[17298](https://www.acmicpc.net/problem/17298)|오큰수|Gold 4|2021-12-04|2021-12-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17298/Main.java)|
 |[17299](https://www.acmicpc.net/problem/17299)|오등큰수|Gold 3|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17299/Main.java)|
