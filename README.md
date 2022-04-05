@@ -38,6 +38,7 @@
 |[1105](https://www.acmicpc.net/problem/1105)|팔|Silver 1|2022-03-15|2022-03-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1105/Main.java)|
 |[1111](https://www.acmicpc.net/problem/1111)|IQ Test|Gold 2|2021-12-18|2021-12-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1111/Main.java) |
 |[1124](https://www.acmicpc.net/problem/1124)|언더프라임|Silver 3|2022-03-15|2022-03-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1124/Main.java)|
+|[1139](https://www.acmicpc.net/problem/1139)|울타리|Gold 1|2022-04-05|2022-04-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorm/acmicpc/q1139/Main.java)|
 |[1141](https://www.acmicpc.net/problem/1141)|접두사|Silver 2|2022-03-15|2022-03-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1141/Main.java)|
 |[1167](https://www.acmicpc.net/problem/1167)|트리의 지름|Gold 3|2021-09-19|2021-09-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1167/Main.java) |
 |[1189](https://www.acmicpc.net/problem/1189)|컴백홈|Silver 1|2022-03-15|2022-03-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1189/Main.java)|
