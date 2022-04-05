@@ -63,6 +63,7 @@
 |[1300](https://www.acmicpc.net/problem/1300)|K번째 수|Gold 2|2022-01-05|2022-01-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1300/Main.java) |
 |[1303](https://www.acmicpc.net/problem/1303)|전쟁 - 전투|Silver 1|2022-03-15|2022-03-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesgorithm/acmicpc/q1303/Main.java)|
 |[1305](https://www.acmicpc.net/problem/1305)|광고|Platinum 4|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1305/Main.java) |
+|[1311](https://www.acmicpc.net/problem/1311)|할일 정하기|Gold 1|2022-04-05|2022-04-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/ithm/acmicpc/q1311/Main.java)|
 |[1323](https://www.acmicpc.net/problem/1323)|숫자 연결하기|Gold 5|2021-12-05|2021-12-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1323/Main.java) |
 |[1325](https://www.acmicpc.net/problem/1325)|효율적인 해킹|Silver 1|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1325/Main.java) |
 |[1327](https://www.acmicpc.net/problem/1327)|소트 게임|Silver 1|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1327/Main.java) |
