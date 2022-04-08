@@ -333,6 +333,7 @@
 |[14499](https://www.acmicpc.net/problem/14499)|주사위 굴리기|Gold 4|2022-01-14|2022-01-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14499/Main.java)|
 |[14500](https://www.acmicpc.net/problem/14500)|테트로미노|Gold 5|2021-09-16|2021-09-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14500/Main.java)|
 |[14501](https://www.acmicpc.net/problem/14501)|퇴사|Silver 3|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14501/Main.java)|
+|[14502](https://www.acmicpc.net/problem/14502)|연구소|Gold 5|2022-04-08|2022-04-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algthm/acmicpc/q14502/Main.java)|
 |[14503](https://www.acmicpc.net/problem/14503)|로봇 청소기|Gold 5|2022-01-18|2022-01-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14503/Main.java)|
 |[14595](https://www.acmicpc.net/problem/14595)|동방 프로젝트 (Large)|Gold 2|2022-03-28|2022-03-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/comgtest/algorithm/acmicpc/q14595/Main.java)|
 |[14725](https://www.acmicpc.net/problem/14725)|개미굴|Gold 2|2022-01-06|2022-01-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14725/Main.java)|
