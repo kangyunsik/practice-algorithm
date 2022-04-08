@@ -366,6 +366,7 @@
 |[15787](https://www.acmicpc.net/problem/15787)|기차가 어둠을 헤치고 은하수를|Silver 2|2022-02-21|2022-02-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15787/Main.java)|
 |[15791](https://www.acmicpc.net/problem/15791)|세진이의 미팅|Gold 1|2022-02-06|2022-02-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15791/Main.java)|
 |[15817](https://www.acmicpc.net/problem/15817)|배수 공사|Silver 1|2021-12-28|2021-12-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15817/Main.java)|
+|[15927](https://www.acmicpc.net/problem/15927)|회문은 회문이아니야!!|Gold 5|2022-04-08|2022-04-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/comst/algorithm/acmicpc/q15927/Main.java)|
 |[15961](https://www.acmicpc.net/problem/15961)|회전 초밥|Gold 4|2022-04-05|2022-04-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/rithm/acmicpc/q15961/Main.java)|
 |[15990](https://www.acmicpc.net/problem/15990)|1, 2, 3 더하기 5|Silver 2|2022-01-13|2022-01-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15990/Main.java)|
 |[16194](https://www.acmicpc.net/problem/16194)|카드 구매하기 2|Silver 1|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16194/Main.java)|
