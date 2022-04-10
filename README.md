@@ -338,6 +338,7 @@
 |[14503](https://www.acmicpc.net/problem/14503)|로봇 청소기|Gold 5|2022-01-18|2022-01-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14503/Main.java)|
 |[14595](https://www.acmicpc.net/problem/14595)|동방 프로젝트 (Large)|Gold 2|2022-03-28|2022-03-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/comgtest/algorithm/acmicpc/q14595/Main.java)|
 |[14725](https://www.acmicpc.net/problem/14725)|개미굴|Gold 2|2022-01-06|2022-01-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14725/Main.java)|
+|[14728](https://www.acmicpc.net/problem/14728)|벼락치기|Gold 5|2022-04-10|2022-04-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/aithm/acmicpc/q14728/Main.java)|
 |[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|Silver 1|2021-10-21|2021-10-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14888/Main.java)|
 |[14889](https://www.acmicpc.net/problem/14889)|스타트와 링크|Silver 3|2021-12-10|2021-12-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14889/Main.java)|
 |[14890](https://www.acmicpc.net/problem/14890)|경사로|Gold 3|2021-12-07|2021-12-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14890/Main.java)|
