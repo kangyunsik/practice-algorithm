@@ -120,6 +120,7 @@
 |[1941](https://www.acmicpc.net/problem/1941)|소문난 칠공주|Gold 3|2022-03-25|2022-03-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesrithm/acmicpc/q1941/Main.java)|
 |[1946](https://www.acmicpc.net/problem/1946)|신입 사원|Silver 1|2021-12-21|2021-12-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1946/Main.java) |
 |[1956](https://www.acmicpc.net/problem/1956)|운동|Gold 4|2022-01-09|2022-01-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1956/Main.java) |
+|[1963](https://www.acmicpc.net/problem/1963)|소수 경로|Gold 4|2022-04-13|2022-04-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/althm/acmicpc/q1963/Main.java)|
 |[1965](https://www.acmicpc.net/problem/1965)|상자넣기|Silver 2|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1965/Main.java) |
 |[1967](https://www.acmicpc.net/problem/1967)|트리의 지름|Gold 4|2021-09-23|2021-09-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1967/Main.java) |
 |[1976](https://www.acmicpc.net/problem/1976)|여행 가자|Gold 4|2022-01-28|2022-01-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1976/Main.java) |
