@@ -195,6 +195,7 @@
 |[2636](https://www.acmicpc.net/problem/2636)|치즈|Gold 5|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorit/acmicpc/q2636/Main.java)|
 |[2638](https://www.acmicpc.net/problem/2638)|치즈|Gold 4|2021-12-30|2021-12-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2638/Main.java) |
 |[2644](https://www.acmicpc.net/problem/2644)|촌수계산|Silver 2|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2644/Main.java) |
+|[2660](https://www.acmicpc.net/problem/2660)|회장뽑기|Gold 5|2022-04-14|2022-04-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/alghm/acmicpc/q2660/Main.java)|
 |[2666](https://www.acmicpc.net/problem/2666)|벽장문의 이동|Gold 5|2022-04-09|2022-04-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesrithm/acmicpc/q2666/Main.java)|
 |[2693](https://www.acmicpc.net/problem/2693)|N번째 큰 수|Silver 5|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2693/Main.java) |
 |[2696](https://www.acmicpc.net/problem/2696)|중앙값 구하기|Gold 2|2022-01-10|2022-01-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2696/Main.java) |
