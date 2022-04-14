@@ -436,6 +436,7 @@
 |[18428](https://www.acmicpc.net/problem/18428)|감시 피하기|Silver 1|2022-03-21|2022-03-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtlgorithm/acmicpc/q18428/Main.java)|
 |[18511](https://www.acmicpc.net/problem/18511)|큰 수 구성하기|Silver 5|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codi/algorithm/acmicpc/q18511/Main.java)|
 |[19598](https://www.acmicpc.net/problem/19598)|최소 회의실 개수|Gold 5|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q19598/Main.java)|
+|[19951](https://www.acmicpc.net/problem/19951)|태상이의 훈련소 생활|Gold 5|2022-04-14|2022-04-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/t/algorithm/acmicpc/q19951/Main.java)|
 |[20040](https://www.acmicpc.net/problem/20040)|사이클 게임|Gold 4|2022-03-11|2022-03-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesorithm/acmicpc/q20040/Main.java)|
 |[20055](https://www.acmicpc.net/problem/20055)|컨베이어 벨트 위의 로봇|Gold 5|2022-03-09|2022-03-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/cest/algorithm/acmicpc/q20055/Main.java)|
 |[20299](https://www.acmicpc.net/problem/20299)|3대 측정|Bronze 2|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20299/Main.java)|
