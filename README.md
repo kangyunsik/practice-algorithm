@@ -267,6 +267,7 @@
 |[10819](https://www.acmicpc.net/problem/10819)|차이를 최대로|Silver 2|2022-01-31|2022-01-31|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10819/Main.java)|
 |[10825](https://www.acmicpc.net/problem/10825)|국영수|Silver 4|2021-12-06|2021-12-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10825/Main.java)|
 |[10826](https://www.acmicpc.net/problem/10826)|피보나치 수 4|Silver 4|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10826/Main.java)|
+|[10868](https://www.acmicpc.net/problem/10868)|최솟값|Gold 1|2022-04-16|2022-04-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algthm/acmicpc/q10868/Main.java)|
 |[10942](https://www.acmicpc.net/problem/10942)|팰린드롬?|Gold 3|2021-12-20|2021-12-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10942/Main.java)|
 |[10971](https://www.acmicpc.net/problem/10971)|외판원 순회 2|Silver 2|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10971/Main.java)|
 |[10974](https://www.acmicpc.net/problem/10974)|모든 순열|Silver 3|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10974/Main.java)|
