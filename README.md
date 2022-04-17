@@ -332,6 +332,7 @@
 |[14395](https://www.acmicpc.net/problem/14395)|4연산|Gold 4|2022-04-15|2022-04-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14395/Main.java)|
 |[14425](https://www.acmicpc.net/problem/14425)|문자열 집합|Silver 3|2022-01-06|2022-01-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14425/Main.java)|
 |[14428](https://www.acmicpc.net/problem/14428)|수열과 쿼리 16|Gold 1|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14428/Main.java)|
+|[14438](https://www.acmicpc.net/problem/14438)|수열과 쿼리 17|Gold 1|2022-04-17|2022-04-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingalgorithm/acmicpc/q14438/Main.java)|
 |[14442](https://www.acmicpc.net/problem/14442)|벽 부수고 이동하기 2|Gold 3|2022-01-11|2022-01-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14442/Main.java)|
 |[14466](https://www.acmicpc.net/problem/14466)|소가 길을 건너간 이유 6|Gold 4|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/ctest/algorithm/acmicpc/q14466/Main.java)|
 |[14469](https://www.acmicpc.net/problem/14469)|소가 길을 건너간 이유 3|Silver 4|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/javangtest/algorithm/acmicpc/q14469/Main.java)|
