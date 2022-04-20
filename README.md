@@ -333,6 +333,7 @@
 |[14003](https://www.acmicpc.net/problem/14003)|가장 긴 증가하는 부분 수열 5|Platinum 5|2021-12-14|2021-12-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14003/Main.java)|
 |[14225](https://www.acmicpc.net/problem/14225)|부분수열의 합|Silver 1|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codinalgorithm/acmicpc/q14225/Main.java)|
 |[14226](https://www.acmicpc.net/problem/14226)|이모티콘|Gold 5|2022-03-28|2022-03-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/aithm/acmicpc/q14226/Main.java)|
+|[14245](https://www.acmicpc.net/problem/14245)|XOR|Platinum 4|2022-04-20|2022-04-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14245/Main.java)|
 |[14395](https://www.acmicpc.net/problem/14395)|4연산|Gold 4|2022-04-15|2022-04-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14395/Main.java)|
 |[14425](https://www.acmicpc.net/problem/14425)|문자열 집합|Silver 3|2022-01-06|2022-01-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14425/Main.java)|
 |[14428](https://www.acmicpc.net/problem/14428)|수열과 쿼리 16|Gold 1|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14428/Main.java)|
