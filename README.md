@@ -380,6 +380,7 @@
 |[15817](https://www.acmicpc.net/problem/15817)|배수 공사|Silver 1|2021-12-28|2021-12-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15817/Main.java)|
 |[15927](https://www.acmicpc.net/problem/15927)|회문은 회문이아니야!!|Gold 5|2022-04-08|2022-04-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/comst/algorithm/acmicpc/q15927/Main.java)|
 |[15961](https://www.acmicpc.net/problem/15961)|회전 초밥|Gold 4|2022-04-05|2022-04-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/rithm/acmicpc/q15961/Main.java)|
+|[15967](https://www.acmicpc.net/problem/15967)|에바쿰|Platinum 4|2022-04-20|2022-04-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtestgorithm/acmicpc/q15967/Main.java)|
 |[15990](https://www.acmicpc.net/problem/15990)|1, 2, 3 더하기 5|Silver 2|2022-01-13|2022-01-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q15990/Main.java)|
 |[16134](https://www.acmicpc.net/problem/16134)|조합 (Combination)|Gold 1|2022-04-11|2022-04-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/congtest/algorithm/acmicpc/q16134/Main.java)|
 |[16194](https://www.acmicpc.net/problem/16194)|카드 구매하기 2|Silver 1|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16194/Main.java)|
