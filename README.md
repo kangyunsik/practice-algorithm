@@ -70,6 +70,7 @@
 |[1337](https://www.acmicpc.net/problem/1337)|올바른 배열|Silver 4|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1337/Main.java) |
 |[1343](https://www.acmicpc.net/problem/1343)|폴리오미노|Silver 5|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1343/Main.java) |
 |[1354](https://www.acmicpc.net/problem/1354)|무한 수열 2|Gold 4|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1354/Main.java) |
+|[1365](https://www.acmicpc.net/problem/1365)|꼬인 전깃줄|Gold 2|2022-04-21|2022-04-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/ithm/acmicpc/q1365/Main.java)|
 |[1395](https://www.acmicpc.net/problem/1395)|스위치|Platinum 3|2022-04-19|2022-04-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/arithm/acmicpc/q1395/Main.java)|
 |[1410](https://www.acmicpc.net/problem/1410)|패턴의 개수|Platinum 4|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1410/Main.java) |
 |[1446](https://www.acmicpc.net/problem/1446)|지름길|Silver 1|2022-03-07|2022-03-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1446/Main.java)|
