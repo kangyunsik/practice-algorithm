@@ -214,6 +214,7 @@
 |[3015](https://www.acmicpc.net/problem/3015)|오아시스 재결합|Gold 1|2022-01-30|2022-01-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3015/Main.java) |
 |[3020](https://www.acmicpc.net/problem/3020)|개똥벌레|Gold 5|2022-03-25|2022-03-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/alghm/acmicpc/q3020/Main.java)|
 |[3040](https://www.acmicpc.net/problem/3040)|백설 공주와 일곱 난쟁이|Bronze 2|2022-02-14|2022-02-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3040/Main.java) |
+|[3066](https://www.acmicpc.net/problem/3066)|브리징 시그널|Gold 2|2022-04-23|2022-04-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesrithm/acmicpc/q3066/Main.java)|
 |[3067](https://www.acmicpc.net/problem/3067)|Coins|Gold 5|2022-04-03|2022-04-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3067/Main.java)|
 |[3085](https://www.acmicpc.net/problem/3085)|사탕 게임|Silver 3|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3085/Main.java) |
 |[3109](https://www.acmicpc.net/problem/3109)|빵집|Gold 2|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3109/Main.java) |
