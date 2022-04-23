@@ -305,6 +305,7 @@
 |[11652](https://www.acmicpc.net/problem/11652)|카드|Silver 4|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11652/Main.java)|
 |[11659](https://www.acmicpc.net/problem/11659)|구간 합 구하기4|Silver 3|2021-09-12|2021-09-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11659/Main.java)|
 |[11660](https://www.acmicpc.net/problem/11660)|구간 합 구하기5|Silver 1|2021-09-21|2021-09-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11660/Main.java)|
+|[11689](https://www.acmicpc.net/problem/11689)|GCD(n, k) = 1|Gold 1|2022-04-23|2022-04-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11689/Main.java)|
 |[11723](https://www.acmicpc.net/problem/11723)|집합|Silver 5|2021-09-07|2021-09-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11723/Main.java)|
 |[11728](https://www.acmicpc.net/problem/11728)|배열 합치기|Silver 5|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11728/Main.java)|
 |[11779](https://www.acmicpc.net/problem/11779)|최소비용 구하기 2|Gold 3|2021-12-12|2021-12-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11779/Main.java)|
