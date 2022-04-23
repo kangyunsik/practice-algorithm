@@ -278,6 +278,7 @@
 |[10942](https://www.acmicpc.net/problem/10942)|팰린드롬?|Gold 3|2021-12-20|2021-12-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10942/Main.java)|
 |[10971](https://www.acmicpc.net/problem/10971)|외판원 순회 2|Silver 2|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10971/Main.java)|
 |[10974](https://www.acmicpc.net/problem/10974)|모든 순열|Silver 3|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10974/Main.java)|
+|[10986](https://www.acmicpc.net/problem/10986)|나머지 합|Gold 3|2022-04-23|2022-04-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/rithm/acmicpc/q10986/Main.java)|
 |[10993](https://www.acmicpc.net/problem/10993)|별찍기 - 18|Gold 5|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10993/Main.java)|
 |[10997](https://www.acmicpc.net/problem/10997)|별 찍기 - 22|Silver 2|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10997/Main.java)|
 |[10999](https://www.acmicpc.net/problem/10999)|구간 합 구하기 2|Platinum 4|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10999/Main.java)|
