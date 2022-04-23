@@ -221,6 +221,7 @@
 |[3190](https://www.acmicpc.net/problem/3190)|뱀|Gold 5|2022-01-18|2022-01-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3190/Main.java) |
 |[3197](https://www.acmicpc.net/problem/3197)|백조의 호수|Platinum 5|2022-01-18|2022-01-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3197/Main.java) |
 |[3273](https://www.acmicpc.net/problem/3273)|두 수의 합|Silver 3|2021-11-28|2021-11-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3273/Main.java) |
+|[3745](https://www.acmicpc.net/problem/3745)|오름세|Gold 2|2022-04-23|2022-04-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorm/acmicpc/q3745/Main.java)|
 |[3986](https://www.acmicpc.net/problem/3986)|좋은 단어|Silver 4|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3986/Main.java) |
 |[4195](https://www.acmicpc.net/problem/4195)|친구 네트워크|Gold 2|2022-03-04|2022-03-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4195/Main.java) |
 |[4354](https://www.acmicpc.net/problem/4354)|문자열 제곱|Platinum 5|2022-02-26|2022-02-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4354/Main.java) |
