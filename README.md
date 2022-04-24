@@ -262,6 +262,7 @@
 |[9205](https://www.acmicpc.net/problem/9205)|맥주 마시면서 걸어가기|Silver 1|2021-12-24|2021-12-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9205/Main.java) |
 |[9333](https://www.acmicpc.net/problem/9333)|돈 갚기|Silver 2|2022-01-12|2022-01-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9333/Main.java) |
 |[9466](https://www.acmicpc.net/problem/9466)|텀 프로젝트|Gold 3|2022-01-22|2022-01-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9466/Main.java) |
+|[9660](https://www.acmicpc.net/problem/9660)|돌게임 6|Gold 5|2022-04-24|2022-04-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algthm/acmicpc/q9660/Main.java)|
 |[9663](https://www.acmicpc.net/problem/9663)|N|Gold 5|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9663/Main.java) |
 |[10026](https://www.acmicpc.net/problem/10026)|적록색약|Gold 5|2021-09-15|2022-02-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10026/Main.java)|
 |[10157](https://www.acmicpc.net/problem/10157)|자리배정|Silver 4|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q10157/Main.java)|
