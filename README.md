@@ -340,6 +340,7 @@
 |[13506](https://www.acmicpc.net/problem/13506)|카멜레온 부분 문자열|Platinum 4|2022-03-05|2022-03-05|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/gtest/algorithm/acmicpc/q13506/Main.java)     |
 |[13546](https://www.acmicpc.net/problem/13546)|수열과 쿼리 4|Diamond 5|2022-04-26|2022-04-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codit/algorithm/acmicpc/q13546/Main.java)|
 |[13547](https://www.acmicpc.net/problem/13547)|수열과 쿼리 5|Platinum 2|2022-04-26|2022-04-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codst/algorithm/acmicpc/q13547/Main.java)|
+|[13548](https://www.acmicpc.net/problem/13548)|수열과 쿼리 6|Platinum 1|2022-04-26|2022-04-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codst/algorithm/acmicpc/q13548/Main.java)|
 |[13549](https://www.acmicpc.net/problem/13549)|숨바꼭질 3|Gold 5|2021-12-07|2021-12-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13549/Main.java)|
 |[13699](https://www.acmicpc.net/problem/13699)|점화식|Silver 4|2022-03-25|2022-03-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/arithm/acmicpc/q13699/Main.java)|
 |[13711](https://www.acmicpc.net/problem/13711)|LCS 4|Gold 1|2022-03-02|2022-03-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13711/Main.java)|
