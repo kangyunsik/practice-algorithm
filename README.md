@@ -195,6 +195,7 @@
 |[2589](https://www.acmicpc.net/problem/2589)|보물섬|Gold 5|2021-12-02|2021-12-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2589/Main.java) |
 |[2605](https://www.acmicpc.net/problem/2605)|줄 세우기|Bronze 2|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2605/Main.java) |
 |[2615](https://www.acmicpc.net/problem/2615)|오목|Silver 2|2022-01-25|2022-01-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2615/Main.java) |
+|[2618](https://www.acmicpc.net/problem/2618)|경찰차|Platinum 5|2022-04-26|2022-04-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/arithm/acmicpc/q2618/Main.java)|
 |[2623](https://www.acmicpc.net/problem/2623)|음악프로그램|Gold 2|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2623/Main.java) |
 |[2624](https://www.acmicpc.net/problem/2624)|동전 바꿔주기|Gold 5|2022-04-03|2022-04-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesrithm/acmicpc/q2624/Main.java)|
 |[2628](https://www.acmicpc.net/problem/2628)|종이 자르기|Silver 5|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2628/Main.java) |
