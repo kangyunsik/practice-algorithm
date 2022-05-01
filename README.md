@@ -390,6 +390,7 @@
 |[14889](https://www.acmicpc.net/problem/14889)|스타트와 링크|Silver 3|2021-12-10|2021-12-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14889/Main.java)|
 |[14890](https://www.acmicpc.net/problem/14890)|경사로|Gold 3|2021-12-07|2021-12-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14890/Main.java)|
 |[14891](https://www.acmicpc.net/problem/14891)|톱니바퀴|Silver 1|2022-01-16|2022-01-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14891/Main.java)|
+|[14897](https://www.acmicpc.net/problem/14897)|서로 다른 수와 쿼리 1|Platinum 2|2022-05-02|2022-05-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/javaingtest/algorithm/acmicpc/q14897/Main.java)|
 |[14907](https://www.acmicpc.net/problem/14907)|프로젝트 스케줄링|Gold 2|2022-03-20|2022-03-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codalgorithm/acmicpc/q14907/Main.java)|
 |[14916](https://www.acmicpc.net/problem/14916)|거스름돈|Silver 5|2022-02-19|2022-02-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14916/Main.java)|
 |[14929](https://www.acmicpc.net/problem/14929)|귀찮아 (SIB)|Silver 5|2022-03-29|2022-03-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingt/algorithm/acmicpc/q14929/Main.java)|
