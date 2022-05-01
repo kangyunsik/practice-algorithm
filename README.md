@@ -74,6 +74,7 @@
 |[1388](https://www.acmicpc.net/problem/1388)|바닥 장식|Silver 4|2022-04-25|2022-04-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/rithm/acmicpc/q1388/Main.java)|
 |[1395](https://www.acmicpc.net/problem/1395)|스위치|Platinum 3|2022-04-19|2022-04-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/arithm/acmicpc/q1395/Main.java)|
 |[1410](https://www.acmicpc.net/problem/1410)|패턴의 개수|Platinum 4|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1410/Main.java) |
+|[1414](https://www.acmicpc.net/problem/1414)|불우이웃돕기|Gold 3|2022-05-01|2022-05-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtestithm/acmicpc/q1414/Main.java)|
 |[1446](https://www.acmicpc.net/problem/1446)|지름길|Silver 1|2022-03-07|2022-03-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1446/Main.java)|
 |[1449](https://www.acmicpc.net/problem/1449)|수리공 항승|Silver 3|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1449/Main.java) |
 |[1450](https://www.acmicpc.net/problem/1450)|냅색문제|Gold 1|2022-01-08|2022-01-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1450/Main.java) |
