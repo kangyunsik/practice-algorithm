@@ -371,6 +371,7 @@
 |[14226](https://www.acmicpc.net/problem/14226)|이모티콘|Gold 5|2022-03-28|2022-03-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/aithm/acmicpc/q14226/Main.java)|
 |[14245](https://www.acmicpc.net/problem/14245)|XOR|Platinum 4|2022-04-20|2022-04-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14245/Main.java)|
 |[14395](https://www.acmicpc.net/problem/14395)|4연산|Gold 4|2022-04-15|2022-04-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14395/Main.java)|
+|[14413](https://www.acmicpc.net/problem/14413)|Poklon|Platinum 1|2022-05-02|2022-05-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14413/Main.java)|
 |[14425](https://www.acmicpc.net/problem/14425)|문자열 집합|Silver 3|2022-01-06|2022-01-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14425/Main.java)|
 |[14428](https://www.acmicpc.net/problem/14428)|수열과 쿼리 16|Gold 1|2022-02-03|2022-02-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q14428/Main.java)|
 |[14438](https://www.acmicpc.net/problem/14438)|수열과 쿼리 17|Gold 1|2022-04-17|2022-04-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingalgorithm/acmicpc/q14438/Main.java)|
