@@ -168,6 +168,7 @@
 |[2343](https://www.acmicpc.net/problem/2343)|기타 레슨|Silver 1|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2343/Main.java) |
 |[2346](https://www.acmicpc.net/problem/2346)|풍선 터뜨리기|Silver 3|2022-02-04|2022-02-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2346/Main.java) |
 |[2357](https://www.acmicpc.net/problem/2357)|최솟값과 최댓값|Gold 1|2022-02-01|2022-02-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2357/Main.java) |
+|[2406](https://www.acmicpc.net/problem/2406)|안정적인 네트워크|Gold 3|2022-05-02|2022-05-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingorithm/acmicpc/q2406/Main.java)|
 |[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에...|Silver 5|2021-12-26|2021-12-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2422/Main.java) |
 |[2435](https://www.acmicpc.net/problem/2435)|기상청 인턴 신현수|Silver 5|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/co/algorithm/acmicpc/q2435/Main.java)|
 |[2463](https://www.acmicpc.net/problem/2463)|비용|Platinum 5|2022-01-11|2022-01-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2463/Main.java) |
