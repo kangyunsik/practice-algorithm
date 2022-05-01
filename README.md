@@ -342,6 +342,7 @@
 |[12865](https://www.acmicpc.net/problem/12865)|평범한 배낭|Gold 5|2021-11-28|2022-03-25|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12865/Main.java)|
 |[12869](https://www.acmicpc.net/problem/12869)|뮤탈리스크|Gold 4|2022-04-23|2022-04-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtestrithm/acmicpc/q12869/Main.java)|
 |[12895](https://www.acmicpc.net/problem/12895)|화려한 마을|Platinum 3|2022-05-02|2022-05-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codin/algorithm/acmicpc/q12895/Main.java)|
+|[12899](https://www.acmicpc.net/problem/12899)|데이터 구조|Platinum 4|2022-05-02|2022-05-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codin/algorithm/acmicpc/q12899/Main.java)|
 |[12904](https://www.acmicpc.net/problem/12904)|A와 B|Gold 5|2021-12-05|2021-12-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12904/Main.java)|
 |[12920](https://www.acmicpc.net/problem/12920)|평범한 배낭 2|Platinum 4|2022-03-16|2022-03-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codst/algorithm/acmicpc/q12920/Main.java)|
 |[12986](https://www.acmicpc.net/problem/12986)|화려한 마을2|Platinum 2|2022-04-28|2022-04-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codit/algorithm/acmicpc/q12986/Main.java)|
