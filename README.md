@@ -165,6 +165,7 @@
 |[2304](https://www.acmicpc.net/problem/2304)|창고 다각형|Silver 2|2022-02-10|2022-02-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2304/Main.java) |
 |[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이|Bronze 2|2022-02-09|2022-02-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2309/Main.java) |
 |[2331](https://www.acmicpc.net/problem/2331)|반복수열|Silver 4|2021-11-11|2021-11-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2331/Main.java) |
+|[2342](https://www.acmicpc.net/problem/2342)|Dance Dance Revolution|Gold 3|2022-05-03|2022-05-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2342/Main.java)|
 |[2343](https://www.acmicpc.net/problem/2343)|기타 레슨|Silver 1|2022-02-18|2022-02-18|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2343/Main.java) |
 |[2346](https://www.acmicpc.net/problem/2346)|풍선 터뜨리기|Silver 3|2022-02-04|2022-02-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2346/Main.java) |
 |[2357](https://www.acmicpc.net/problem/2357)|최솟값과 최댓값|Gold 1|2022-02-01|2022-02-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2357/Main.java) |
