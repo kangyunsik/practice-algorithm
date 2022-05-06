@@ -222,6 +222,7 @@
 |[2776](https://www.acmicpc.net/problem/2776)|암기왕|Silver 4|2022-02-13|2022-02-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2776/Main.java) |
 |[2800](https://www.acmicpc.net/problem/2800)|괄호 제거|Gold 5|2022-02-05|2022-02-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2800/Main.java) |
 |[2812](https://www.acmicpc.net/problem/2812)|크게 만들기|Gold 4|2022-03-28|2022-03-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/ithm/acmicpc/q2812/Main.java)|
+|[2820](https://www.acmicpc.net/problem/2820)|자동차 공장|Platinum 3|2022-05-07|2022-05-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtlgorithm/acmicpc/q2820/Main.java)|
 |[2847](https://www.acmicpc.net/problem/2847)|게임을 만든 동준이|Silver 4|2022-03-23|2022-03-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/co/algorithm/acmicpc/q2847/Main.java)|
 |[2887](https://www.acmicpc.net/problem/2887)|행성 터널|Gold 1|2022-04-28|2022-04-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/althm/acmicpc/q2887/Main.java)|
 |[2912](https://www.acmicpc.net/problem/2912)|백설공주와 난쟁이|Platinum 3|2022-04-28|2022-04-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/ct/algorithm/acmicpc/q2912/Main.java)|
