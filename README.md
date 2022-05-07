@@ -438,6 +438,7 @@
 |[16235](https://www.acmicpc.net/problem/16235)|나무 재테크|Gold 4|2022-01-22|2022-01-22|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16235/Main.java)|
 |[16236](https://www.acmicpc.net/problem/16236)|아기 상어|Gold 5|2021-09-17|2022-02-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16236/Main.java)|
 |[16400](https://www.acmicpc.net/problem/16400)|소수 화폐|Gold 5|2022-04-03|2022-04-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/rithm/acmicpc/q16400/Main.java)|
+|[16404](https://www.acmicpc.net/problem/16404)|주식회사 승범이네|Platinum 3|2022-05-07|2022-05-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/comest/algorithm/acmicpc/q16404/Main.java)|
 |[16439](https://www.acmicpc.net/problem/16439)|치킨치킨치킨|Silver 3|2022-03-12|2022-03-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codinglgorithm/acmicpc/q16439/Main.java)|
 |[16472](https://www.acmicpc.net/problem/16472)|고냥이|Gold 4|2022-01-27|2022-01-27|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16472/Main.java)|
 |[16507](https://www.acmicpc.net/problem/16507)|어두운 건 무서워|Silver 1|2022-04-05|2022-04-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/cot/algorithm/acmicpc/q16507/Main.java)|
