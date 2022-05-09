@@ -487,6 +487,7 @@
 |[17299](https://www.acmicpc.net/problem/17299)|오등큰수|Gold 3|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17299/Main.java)|
 |[17371](https://www.acmicpc.net/problem/17371)|이사|Gold 1|2022-04-23|2022-04-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorhm/acmicpc/q17371/Main.java)|
 |[17386](https://www.acmicpc.net/problem/17386)|선분 교차 1|Gold 3|2022-05-07|2022-05-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesgorithm/acmicpc/q17386/Main.java)|
+|[17387](https://www.acmicpc.net/problem/17387)|선분 교차 2|Gold 2|2022-05-09|2022-05-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesgorithm/acmicpc/q17387/Main.java)|
 |[17404](https://www.acmicpc.net/problem/17404)|RGB 거리 2|Gold 4|2022-04-05|2022-04-05|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtestlgorithm/acmicpc/q17404/Main.java)|
 |[17406](https://www.acmicpc.net/problem/17406)|배열 돌리기 4|Gold 4|2022-01-14|2022-01-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17406/Main.java)|
 |[17413](https://www.acmicpc.net/problem/17413)|단어 뒤집기 2|Silver 3|2022-02-12|2022-02-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17413/Main.java)|
