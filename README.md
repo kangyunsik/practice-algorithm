@@ -330,6 +330,7 @@
 |[11404](https://www.acmicpc.net/problem/11404)|플로이드|Gold 4|2021-12-07|2021-12-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11404/Main.java)|
 |[11438](https://www.acmicpc.net/problem/11438)|LCA 2|Platinum 5|2022-05-09|2022-05-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11438/Main.java)|
 |[11444](https://www.acmicpc.net/problem/11444)|피보나치 수 6|Gold 3|2021-12-11|2021-12-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11444/Main.java)|
+|[11478](https://www.acmicpc.net/problem/11478)|서로 다른 부분 문자열의 개수|Silver 3|2022-05-09|2022-05-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/maindingtest/algorithm/acmicpc/q11478/Main.java)|
 |[11497](https://www.acmicpc.net/problem/11497)|통나무 건너뛰기|Silver 1|2022-01-04|2022-01-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11497/Main.java)|
 |[11501](https://www.acmicpc.net/problem/11501)|주식|Silver 2|2022-02-19|2022-02-19|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11501/Main.java)|
 |[11505](https://www.acmicpc.net/problem/11505)|구간 곱 구하기|Gold 1|2022-04-23|2022-04-23|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codinglgorithm/acmicpc/q11505/Main.java)|
