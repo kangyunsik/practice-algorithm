@@ -471,6 +471,7 @@
 |[16967](https://www.acmicpc.net/problem/16967)|배열 복원하기|Silver 3|2022-05-02|2022-05-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codinalgorithm/acmicpc/q16967/Main.java)|
 |[16975](https://www.acmicpc.net/problem/16975)|수열과 쿼리 21|Platinum 4|2022-04-28|2022-04-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/coest/algorithm/acmicpc/q16975/Main.java)|
 |[16991](https://www.acmicpc.net/problem/16991)|외판원 순회 3|Gold 1|2022-03-10|2022-03-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtlgorithm/acmicpc/q16991/Main.java)|
+|[17086](https://www.acmicpc.net/problem/17086)|아기 상어 2|Silver 2|2022-05-09|2022-05-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtalgorithm/acmicpc/q17086/Main.java)|
 |[17090](https://www.acmicpc.net/problem/17090)|미로 탈출하기|Gold 2|2022-03-29|2022-03-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtgorithm/acmicpc/q17090/Main.java)|
 |[17123](https://www.acmicpc.net/problem/17123)|배열 놀이|Silver 2|2022-04-03|2022-04-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesgorithm/acmicpc/q17123/Main.java)|
 |[17135](https://www.acmicpc.net/problem/17135)|캐슬 디펜스|Gold 4|2022-03-15|2022-03-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesorithm/acmicpc/q17135/Main.java)|
