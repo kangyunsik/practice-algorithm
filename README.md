@@ -156,6 +156,7 @@
 |[2150](https://www.acmicpc.net/problem/2150)|Strongly Connected Component|Platinum 5|2022-04-30|2022-04-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2150/Main.java)|
 |[2166](https://www.acmicpc.net/problem/2166)|다각형의 면적|Gold 5|2021-12-20|2021-12-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2166/Main.java) |
 |[2167](https://www.acmicpc.net/problem/2167)|2차원 배열의 합|Bronze 1|2022-02-20|2022-02-20|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2167/Main.java) |
+|[2188](https://www.acmicpc.net/problem/2188)|축사 배정|Platinum 4|2022-05-11|2022-05-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesgorithm/acmicpc/q2188/Main.java)|
 |[2206](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|Gold 4|2021-11-29|2021-11-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2206/Main.java) |
 |[2210](https://www.acmicpc.net/problem/2210)|숫자판 점프|Silver 2|2022-03-16|2022-03-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesorithm/acmicpc/q2210/Main.java)|
 |[2213](https://www.acmicpc.net/problem/2213)|트리의 독립집합|Gold 1|2022-05-04|2022-05-04|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtorithm/acmicpc/q2213/Main.java)|
