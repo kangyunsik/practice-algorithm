@@ -333,7 +333,8 @@
 |[11060](https://www.acmicpc.net/problem/11060)|점프 점프|Silver 2|2022-03-21|2022-03-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesgorithm/acmicpc/q11060/Main.java)|
 |[11066](https://www.acmicpc.net/problem/11066)|파일 합치기|Gold 3|2021-11-26|2021-11-26|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11066/Main.java)|
 |[11286](https://www.acmicpc.net/problem/11286)|절댓값 힙|Silver 1|2021-09-13|2021-09-13|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11286/Main.java)|
-|[11375](https://www.acmicpc.net/problem/11375)|열혈 강호|Platinum 4|2022-05-11|2022-05-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtalgorithm/acmicpc/q11375/Main.java)|
+|[11375](https://www.acmicpc.net/problem/11375)|열혈강호|Platinum 4|2022-05-11|2022-05-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtalgorithm/acmicpc/q11375/Main.java)|
+|[11376](https://www.acmicpc.net/problem/11376)|열혈강호 2|Platinum 4|2022-05-11|2022-05-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/coding/algorithm/acmicpc/q11376/Main.java)|
 |[11403](https://www.acmicpc.net/problem/11403)|경로 찾기|Silver 1|2021-09-12|2021-09-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11403/Main.java)|
 |[11404](https://www.acmicpc.net/problem/11404)|플로이드|Gold 4|2021-12-07|2021-12-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11404/Main.java)|
 |[11438](https://www.acmicpc.net/problem/11438)|LCA 2|Platinum 5|2022-05-09|2022-05-09|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q11438/Main.java)|
