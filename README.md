@@ -487,6 +487,7 @@
 |[17135](https://www.acmicpc.net/problem/17135)|캐슬 디펜스|Gold 4|2022-03-15|2022-03-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtesorithm/acmicpc/q17135/Main.java)|
 |[17136](https://www.acmicpc.net/problem/17136)|색종이 붙이기|Gold 2|2022-03-17|2022-03-17|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtgorithm/acmicpc/q17136/Main.java)|
 |[17140](https://www.acmicpc.net/problem/17140)|이차원 배열과 연산|Gold 4|2022-02-07|2022-02-07|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17140/Main.java)|
+|[17141](https://www.acmicpc.net/problem/17141)|연구소 2|Gold 4|2022-05-14|2022-05-14|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/arithm/acmicpc/q17141/Main.java)|
 |[17142](https://www.acmicpc.net/problem/17142)|연구소 3|Gold 4|2022-02-08|2022-02-08|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17142/Main.java)|
 |[17143](https://www.acmicpc.net/problem/17143)|낚시왕|Gold 2|2022-01-30|2022-01-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17143/Main.java)|
 |[17144](https://www.acmicpc.net/problem/17144)|미세먼지 안녕!|Gold 4|2022-01-24|2022-01-24|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17144/Main.java)|
