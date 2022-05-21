@@ -505,6 +505,7 @@
 |[17281](https://www.acmicpc.net/problem/17281)|⚾|Gold 4|2022-02-15|2022-02-15| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17281/Main.java) |
 |[17298](https://www.acmicpc.net/problem/17298)|오큰수|Gold 4|2021-12-04|2021-12-04| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17298/Main.java) |
 |[17299](https://www.acmicpc.net/problem/17299)|오등큰수|Gold 3|2022-02-08|2022-02-08| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17299/Main.java) |
+|[17353](https://www.acmicpc.net/problem/17353)|하늘에서 떨어지는 1, 2, ..., R-L+1개의 별|Platinum 2|2022-05-21|2022-05-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17353/Main.java)|
 |[17371](https://www.acmicpc.net/problem/17371)|이사|Gold 1|2022-04-23|2022-04-23|  [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorhm/acmicpc/q17371/Main.java)  |
 |[17386](https://www.acmicpc.net/problem/17386)|선분 교차 1|Gold 3|2022-05-07|2022-05-07| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17386/Main.java) |
 |[17387](https://www.acmicpc.net/problem/17387)|선분 교차 2|Gold 2|2022-05-09|2022-05-09| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q17387/Main.java) |
