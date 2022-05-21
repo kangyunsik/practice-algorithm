@@ -530,6 +530,7 @@
 |[18404](https://www.acmicpc.net/problem/18404)|현명한 나이트|Silver 1|2022-03-29|2022-03-29|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codinalgorithm/acmicpc/q18404/Main.java)    |
 |[18405](https://www.acmicpc.net/problem/18405)|경쟁적 전염|Silver 1|2022-02-18|2022-02-18| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18405/Main.java) |
 |[18428](https://www.acmicpc.net/problem/18428)|감시 피하기|Silver 1|2022-03-21|2022-03-21| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18428/Main.java) |
+|[18437](https://www.acmicpc.net/problem/18437)|회사 문화 5|Platinum 3|2022-05-21|2022-05-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18437/Main.java)|
 |[18511](https://www.acmicpc.net/problem/18511)|큰 수 구성하기|Silver 5|2022-03-10|2022-03-10| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18511/Main.java) |
 |[19598](https://www.acmicpc.net/problem/19598)|최소 회의실 개수|Gold 5|2022-02-26|2022-02-26| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q19598/Main.java) |
 |[19951](https://www.acmicpc.net/problem/19951)|태상이의 훈련소 생활|Gold 5|2022-04-14|2022-04-14| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q19951/Main.java) |
