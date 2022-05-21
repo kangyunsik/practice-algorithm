@@ -13,6 +13,7 @@
 |:---:|:---:|:---:|:---:|:---:|:----------------------------------------------------------------------------------------------------------------------------------:|
 |[1014](https://www.acmicpc.net/problem/1014)|컨닝|Platinum 4|2022-02-10|2022-02-10| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1014/Main.java)  |
 |[1016](https://www.acmicpc.net/problem/1016)|제곱 ㄴㄴ 수|Gold 1|2021-11-26|2021-11-26| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1016/Main.java)  |
+|[1017](https://www.acmicpc.net/problem/1017)|소수 쌍|Platinum 3|2022-05-21|2022-05-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1017/Main.java)|
 |[1025](https://www.acmicpc.net/problem/1025)|제곱수 찾기|Gold 5|2021-12-28|2021-12-28| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1025/Main.java)  |
 |[1028](https://www.acmicpc.net/problem/1028)|다이아몬드 광산|Platinum 5|2021-12-25|2021-12-25| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1028/Main.java)  |
 |[1029](https://www.acmicpc.net/problem/1029)|그림 교환|Gold 1|2022-03-26|2022-03-26| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1029/Main.java)  |
