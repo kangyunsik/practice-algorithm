@@ -168,6 +168,7 @@
 |[2239](https://www.acmicpc.net/problem/2239)|스도쿠|Gold 4|2022-02-07|2022-02-07| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2239/Main.java)  |
 |[2240](https://www.acmicpc.net/problem/2240)|자두나무|Gold 5|2022-04-18|2022-04-18|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2240/Main.java)    |
 |[2243](https://www.acmicpc.net/problem/2243)|사탕 상자|Platinum 5|2022-04-26|2022-04-26|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2243/Main.java)    |
+|[2251](https://www.acmicpc.net/problem/2251)|물통|Gold 5|2022-05-21|2022-05-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2251/Main.java)|
 |[2252](https://www.acmicpc.net/problem/2252)|줄 세우기|Gold 3|2021-12-22|2021-12-22| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2252/Main.java)  |
 |[2261](https://www.acmicpc.net/problem/2261)|가장 가까운 두 점|Platinum 2|2022-02-07|2022-02-07| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2261/Main.java)  |
 |[2263](https://www.acmicpc.net/problem/2263)|트리의 순회|Gold 2|2021-12-09|2021-12-09| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2263/Main.java)  |
