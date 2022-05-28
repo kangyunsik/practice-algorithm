@@ -97,6 +97,7 @@
 |[1644](https://www.acmicpc.net/problem/1644)|소수의 연속합|Gold 3|2021-11-28|2021-11-28| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1644/Main.java)  |
 |[1647](https://www.acmicpc.net/problem/1647)|도시 분할 계획|Gold 4|2022-03-04|2022-03-04| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1647/Main.java)  |
 |[1655](https://www.acmicpc.net/problem/1655)|가운데를 말해요|Gold 2|2021-12-28|2021-12-28| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1655/Main.java)  |
+|[1671](https://www.acmicpc.net/problem/1671)|상어의 저녁식사|Platinum 3|2022-05-28|2022-05-28|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1671/Main.java)|
 |[1700](https://www.acmicpc.net/problem/1700)|멀티탭 스케줄링|Gold 1|2022-02-18|2022-02-18| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1700/Main.java)  |
 |[1707](https://www.acmicpc.net/problem/1707)|이분 그래프|Gold 4|2021-12-08|2021-12-08| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1707/Main.java)  |
 |[1713](https://www.acmicpc.net/problem/1713)|후보 추천하기|Silver 2|2022-04-23|2022-04-23|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1713/Main.java)     |
