@@ -161,6 +161,7 @@
 |[2188](https://www.acmicpc.net/problem/2188)|축사 배정|Platinum 4|2022-05-11|2022-05-11|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2188/Main.java)    |
 |[2206](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|Gold 4|2021-11-29|2021-11-29| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2206/Main.java)  |
 |[2210](https://www.acmicpc.net/problem/2210)|숫자판 점프|Silver 2|2022-03-16|2022-03-16|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2210/Main.java)    |
+|[2212](https://www.acmicpc.net/problem/2212)|센서|Gold 5|2022-05-29|2022-05-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2212/Main.java)|
 |[2213](https://www.acmicpc.net/problem/2213)|트리의 독립집합|Gold 1|2022-05-04|2022-05-04|     [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2213/Main.java)     |
 |[2224](https://www.acmicpc.net/problem/2224)|명제 증명|Gold 5|2022-03-29|2022-03-29|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2224/Main.java)    |
 |[2228](https://www.acmicpc.net/problem/2228)|구간 나누기|Gold 4|2022-03-25|2022-03-25|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2228/Main.java)    |
