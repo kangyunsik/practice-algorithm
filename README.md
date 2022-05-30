@@ -294,6 +294,7 @@
 |[8462](https://www.acmicpc.net/problem/8462)|배열의 힘|Platinum 2|2022-04-29|2022-04-29|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q8462/Main.java)    |
 |[8892](https://www.acmicpc.net/problem/8892)|팰린드롬|Silver 5|2021-12-27|2021-12-27| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q8892/Main.java)  |
 |[8980](https://www.acmicpc.net/problem/8980)|택배|Gold 3|2022-02-02|2022-02-02| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q8980/Main.java)  |
+|[9009](https://www.acmicpc.net/problem/9009)|피보나치|Silver 1|2022-05-30|2022-05-30|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9009/Main.java)|
 |[9019](https://www.acmicpc.net/problem/9019)|DSLR|Gold 5|2021-09-14|2021-09-14| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9019/Main.java)  |
 |[9079](https://www.acmicpc.net/problem/9079)|동전 게임|Silver 4|2022-03-10|2022-03-10|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9079/Main.java)    |
 |[9084](https://www.acmicpc.net/problem/9084)|동전|Gold 5|2022-01-10|2022-01-10| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q9084/Main.java)  |
