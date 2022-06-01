@@ -87,6 +87,7 @@
 |[1509](https://www.acmicpc.net/problem/1509)|팰린드롬 분할|Gold 1|2022-05-04|2022-05-04|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1509/Main.java)     |
 |[1516](https://www.acmicpc.net/problem/1516)|게임 개발|Gold 3|2022-04-03|2022-04-03|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1516/Main.java)    |
 |[1517](https://www.acmicpc.net/problem/1517)|버블 소트|Platinum 5|2022-05-09|2022-05-09|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1517/Main.java)    |
+|[1525](https://www.acmicpc.net/problem/1525)|퍼즐|Gold 2|2022-06-01|2022-06-01|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1525/Main.java)|
 |[1535](https://www.acmicpc.net/problem/1535)|안녕|Silver 2|2022-04-03|2022-04-03|  [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1535/Main.java)   |
 |[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|Silver 2|2021-09-09|2021-09-09| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1541/Main.java)  |
 |[1543](https://www.acmicpc.net/problem/1543)|문서 검색|Silver 4|2021-12-23|2021-12-23| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1543/Main.java)  |
