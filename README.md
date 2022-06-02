@@ -542,6 +542,7 @@
 |[19951](https://www.acmicpc.net/problem/19951)|태상이의 훈련소 생활|Gold 5|2022-04-14|2022-04-14| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q19951/Main.java) |
 |[20040](https://www.acmicpc.net/problem/20040)|사이클 게임|Gold 4|2022-03-11|2022-03-11| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20040/Main.java) |
 |[20055](https://www.acmicpc.net/problem/20055)|컨베이어 벨트 위의 로봇|Gold 5|2022-03-09|2022-03-09|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/codingtest/algorithm/acmicpc/q20055/Main.java)   |
+|[20061](https://www.acmicpc.net/problem/20061)|모노미노도미노 2|Gold 2|2022-06-02|2022-06-02|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20061/Main.java)|
 |[20295](https://www.acmicpc.net/problem/20295)|사탕 배달|Platinum 3|2022-05-10|2022-05-10| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20295/Main.java) |
 |[20299](https://www.acmicpc.net/problem/20299)|3대 측정|Bronze 2|2022-02-14|2022-02-14| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20299/Main.java) |
 |[20300](https://www.acmicpc.net/problem/20300)|서강근육맨|Silver 3|2022-02-26|2022-02-26| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20300/Main.java) |
