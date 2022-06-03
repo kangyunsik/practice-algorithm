@@ -271,6 +271,7 @@
 |[5052](https://www.acmicpc.net/problem/5052)|전화번호 목록|Gold 4|2021-12-02|2021-12-02| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5052/Main.java)  |
 |[5373](https://www.acmicpc.net/problem/5373)|큐빙|Platinum 5|2022-01-23|2022-01-23| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5373/Main.java)  |
 |[5397](https://www.acmicpc.net/problem/5397)|키로거|Silver 3|2022-01-23|2022-01-23| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5397/Main.java)  |
+|[5427](https://www.acmicpc.net/problem/5427)|불|Gold 4|2022-06-03|2022-06-03|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5427/Main.java)|
 |[5525](https://www.acmicpc.net/problem/5525)|IOIOI|Silver 2|2021-09-07|2021-09-07| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5525/Main.java)  |
 |[5568](https://www.acmicpc.net/problem/5568)|카드 놓기|Silver 5|2022-03-10|2022-03-10|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5568/Main.java)    |
 |[5582](https://www.acmicpc.net/problem/5582)|공통 부분 문자열|Gold 5|2021-12-03|2021-12-03| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5582/Main.java)  |
