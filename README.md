@@ -259,6 +259,7 @@
 |[3665](https://www.acmicpc.net/problem/3665)|최종 순위|Gold 1|2022-05-10|2022-05-10|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3665/Main.java)    |
 |[3745](https://www.acmicpc.net/problem/3745)|오름세|Gold 2|2022-04-23|2022-04-23|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3745/Main.java)   |
 |[3986](https://www.acmicpc.net/problem/3986)|좋은 단어|Silver 4|2022-02-05|2022-02-05| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q3986/Main.java)  |
+|[4179](https://www.acmicpc.net/problem/4179)|불!|Gold 4|2022-06-10|2022-06-10|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorith/acmicpc/q4179/Main.java)|
 |[4195](https://www.acmicpc.net/problem/4195)|친구 네트워크|Gold 2|2022-03-04|2022-03-04| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4195/Main.java)  |
 |[4196](https://www.acmicpc.net/problem/4196)|도미노|Platinum 4|2022-05-02|2022-05-02|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4196/Main.java)   |
 |[4354](https://www.acmicpc.net/problem/4354)|문자열 제곱|Platinum 5|2022-02-26|2022-02-26| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q4354/Main.java)  |
