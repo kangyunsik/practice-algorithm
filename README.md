@@ -178,6 +178,7 @@
 |[2252](https://www.acmicpc.net/problem/2252)|줄 세우기|Gold 3|2021-12-22|2021-12-22| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2252/Main.java)  |
 |[2261](https://www.acmicpc.net/problem/2261)|가장 가까운 두 점|Platinum 2|2022-02-07|2022-02-07| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2261/Main.java)  |
 |[2263](https://www.acmicpc.net/problem/2263)|트리의 순회|Gold 2|2021-12-09|2021-12-09| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2263/Main.java)  |
+|[2268](https://www.acmicpc.net/problem/2268)|수들의 합 7|Gold 1|2022-06-11|2022-06-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2268/Main.java)|
 |[2283](https://www.acmicpc.net/problem/2283)|구간 자르기|Gold 2|2022-01-11|2022-01-11| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2283/Main.java)  |
 |[2304](https://www.acmicpc.net/problem/2304)|창고 다각형|Silver 2|2022-02-10|2022-02-10| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2304/Main.java)  |
 |[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이|Bronze 2|2022-02-09|2022-02-09| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2309/Main.java)  |
