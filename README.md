@@ -59,6 +59,7 @@
 |[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|Silver 2|2021-11-10|2021-11-10| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1260/Main.java)  |
 |[1263](https://www.acmicpc.net/problem/1263)|시간 관리|Silver 1|2022-03-10|2022-03-10|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1263/Main.java)    |
 |[1270](https://www.acmicpc.net/problem/1270)|전쟁 - 땅따먹기|Silver 3|2022-03-25|2022-03-25|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1270/Main.java)     |
+|[1275](https://www.acmicpc.net/problem/1275)|커피숍2|Gold 1|2022-06-11|2022-06-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1275/Main.java)|
 |[1285](https://www.acmicpc.net/problem/1285)|동전 뒤집기|Gold 1|2022-04-05|2022-04-05|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1285/Main.java)    |
 |[1287](https://www.acmicpc.net/problem/1287)|할 수 있다|Platinum 5|2021-12-14|2021-12-14| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1287/Main.java)  |
 |[1292](https://www.acmicpc.net/problem/1292)|쉽게 푸는 문제|Silver 5|2022-01-15|2022-01-15| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1292/Main.java)  |
