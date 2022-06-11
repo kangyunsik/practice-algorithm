@@ -95,6 +95,7 @@
 |[1548](https://www.acmicpc.net/problem/1548)|부분 삼각 수열|Gold 5|2022-03-13|2022-03-13|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1548/Main.java)     |
 |[1563](https://www.acmicpc.net/problem/1563)|개근상|Gold 4|2022-04-08|2022-04-08|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1563/Main.java)   |
 |[1593](https://www.acmicpc.net/problem/1593)|문자 해독|Gold 4|2022-03-06|2022-03-06|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1593/Main.java)    |
+|[1595](https://www.acmicpc.net/problem/1595)|북쪽나라의 도로|Gold 3|2022-06-11|2022-06-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1595/Main.java)|
 |[1600](https://www.acmicpc.net/problem/1600)|말이 되고픈 원숭이|Gold 4|2022-02-03|2022-02-03| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1600/Main.java)  |
 |[1644](https://www.acmicpc.net/problem/1644)|소수의 연속합|Gold 3|2021-11-28|2021-11-28| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1644/Main.java)  |
 |[1647](https://www.acmicpc.net/problem/1647)|도시 분할 계획|Gold 4|2022-03-04|2022-03-04| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1647/Main.java)  |
