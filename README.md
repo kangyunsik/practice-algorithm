@@ -548,6 +548,7 @@
 |[18436](https://www.acmicpc.net/problem/18436)|수열과 쿼리 37|Gold 1|2022-06-11|2022-06-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18436/Main.java)|
 |[18437](https://www.acmicpc.net/problem/18437)|회사 문화 5|Platinum 3|2022-05-21|2022-05-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18437/Main.java)|
 |[18511](https://www.acmicpc.net/problem/18511)|큰 수 구성하기|Silver 5|2022-03-10|2022-03-10| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q18511/Main.java) |
+|[19238](https://www.acmicpc.net/problem/19238)|스타트 택시|Gold 3|2022-06-11|2022-06-11|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q19238/Main.java)|
 |[19598](https://www.acmicpc.net/problem/19598)|최소 회의실 개수|Gold 5|2022-02-26|2022-02-26| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q19598/Main.java) |
 |[19951](https://www.acmicpc.net/problem/19951)|태상이의 훈련소 생활|Gold 5|2022-04-14|2022-04-14| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q19951/Main.java) |
 |[20040](https://www.acmicpc.net/problem/20040)|사이클 게임|Gold 4|2022-03-11|2022-03-11| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20040/Main.java) |
