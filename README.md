@@ -568,6 +568,7 @@
 |[20304](https://www.acmicpc.net/problem/20304)|비밀번호 제작|Platinum 5|2022-02-14|2022-02-14| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20304/Main.java) |
 |[20361](https://www.acmicpc.net/problem/20361)|일우는 야바위꾼|Bronze 3|2022-02-14|2022-02-14| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q20361/Main.java) |
 |[21608](https://www.acmicpc.net/problem/21608)|상어 초등학교|Silver 1|2022-01-13|2022-01-13| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q21608/Main.java) |
+|[21610](https://www.acmicpc.net/problem/21610)|마법사 상어와 비바라기|Gold 5|2022-06-15|2022-06-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/codingtest/algorithm/acmicpc/q21610/Main.java)|
 |[21937](https://www.acmicpc.net/problem/21937)|작업|Silver 1|2022-02-14|2022-02-14| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q21937/Main.java) |
 |[21941](https://www.acmicpc.net/problem/21941)|문자열 제거|Gold 5|2022-04-08|2022-04-08| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q21941/Main.java) |
 |[22866](https://www.acmicpc.net/problem/22866)|탑 보기|Gold 4|2022-02-05|2022-02-05| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q22866/Main.java) |
