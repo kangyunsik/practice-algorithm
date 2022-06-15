@@ -503,6 +503,7 @@
 |[16933](https://www.acmicpc.net/problem/16933)|벽 부수고 이동하기 3|Gold 1|2022-02-23|2022-02-23| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16933/Main.java) |
 |[16935](https://www.acmicpc.net/problem/16935)|배열 돌리기 3|Silver 1|2022-02-13|2022-02-13| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16935/Main.java) |
 |[16937](https://www.acmicpc.net/problem/16937)|두 스티커|Silver 4|2022-03-12|2022-03-12| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16937/Main.java) |
+|[16943](https://www.acmicpc.net/problem/16943)|숫자 재배치|Silver 1|2022-06-15|2022-06-15|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16943/Main.java)|
 |[16946](https://www.acmicpc.net/problem/16946)|벽 부수고 이동하기 4|Gold 2|2022-02-23|2022-02-23| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16946/Main.java) |
 |[16953](https://www.acmicpc.net/problem/16953)|A|Silver 1|2021-09-18|2021-09-18| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16953/Main.java) |
 |[16956](https://www.acmicpc.net/problem/16956)|늑대와 양|Silver 3|2022-04-03|2022-04-03| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q16956/Main.java) |
