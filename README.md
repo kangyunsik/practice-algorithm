@@ -120,6 +120,7 @@
 |[1781](https://www.acmicpc.net/problem/1781)|컵라면|Gold 2|2022-02-02|2022-02-02| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1781/Main.java)  |
 |[1783](https://www.acmicpc.net/problem/1783)|병든 나이트|Silver 4|2022-04-08|2022-04-08|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1783/Main.java)    |
 |[1786](https://www.acmicpc.net/problem/1786)|찾기|Platinum 5|2022-02-25|2022-02-25| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1786/Main.java)  |
+|[1799](https://www.acmicpc.net/problem/1799)|비숍|Gold 1|2022-06-16|2022-06-16|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1799/Main.java)|
 |[1806](https://www.acmicpc.net/problem/1806)|부분합|Gold 4|2021-10-22|2021-10-22| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1806/Main.java)  |
 |[1818](https://www.acmicpc.net/problem/1818)|책정리|Gold 2|2022-04-22|2022-04-22|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1818/Main.java)   |
 |[1863](https://www.acmicpc.net/problem/1863)|스카이라인 쉬운거|Gold 5|2022-02-05|2022-02-05| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q1863/Main.java)  |
