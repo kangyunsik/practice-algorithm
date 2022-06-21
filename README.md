@@ -167,6 +167,7 @@
 |[2151](https://www.acmicpc.net/problem/2151)|거울 설치|Gold 3|2022-06-12|2022-06-12|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2151/Main.java)|
 |[2166](https://www.acmicpc.net/problem/2166)|다각형의 면적|Gold 5|2021-12-20|2021-12-20| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2166/Main.java)  |
 |[2167](https://www.acmicpc.net/problem/2167)|2차원 배열의 합|Bronze 1|2022-02-20|2022-02-20| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2167/Main.java)  |
+|[2169](https://www.acmicpc.net/problem/2169)|로봇 조종하기|Gold 2|2022-06-21|2022-06-21|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2169/Main.java)|
 |[2170](https://www.acmicpc.net/problem/2170)|선 긋기|Gold 5|2022-06-06|2022-06-06|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2170/Main.java)|
 |[2188](https://www.acmicpc.net/problem/2188)|축사 배정|Platinum 4|2022-05-11|2022-05-11|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2188/Main.java)    |
 |[2206](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|Gold 4|2021-11-29|2021-11-29| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q2206/Main.java)  |
