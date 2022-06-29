@@ -292,6 +292,7 @@
 |[5670](https://www.acmicpc.net/problem/5670)|휴대용 자판|Platinum 4|2022-05-10|2022-05-10|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5670/Main.java)    |
 |[5719](https://www.acmicpc.net/problem/5719)|거의 최단 경로|Platinum 5|2021-12-22|2021-12-22| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q5719/Main.java)  |
 |[6087](https://www.acmicpc.net/problem/6087)|레이저 통신|Gold 4|2022-03-10|2022-03-10|    [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6087/Main.java)    |
+|[6236](https://www.acmicpc.net/problem/6236)|용돈 관리|Silver 2|2022-06-29|2022-06-29|[✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6236/Main.java)|
 |[6497](https://www.acmicpc.net/problem/6497)|전력난|Gold 4|2022-03-17|2022-03-17|   [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6497/Main.java)   |
 |[6515](https://www.acmicpc.net/problem/6515)|Frequent values|Platinum 1|2022-05-03|2022-05-03| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6515/Main.java)  |
 |[6549](https://www.acmicpc.net/problem/6549)|히스토그램에서 가장 큰 직사각형|Platinum 5|2021-12-21|2021-12-21| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q6549/Main.java)  |
