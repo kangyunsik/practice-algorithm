@@ -403,6 +403,7 @@
 |[12920](https://www.acmicpc.net/problem/12920)|평범한 배낭 2|Platinum 4|2022-03-16|2022-03-16| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12920/Main.java) |
 |[12986](https://www.acmicpc.net/problem/12986)|화려한 마을2|Platinum 2|2022-04-28|2022-04-28| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12986/Main.java) |
 |[12999](https://www.acmicpc.net/problem/12999)|화려한 마을3|Platinum 1|2022-05-02|2022-05-02| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q12999/Main.java) |
+|[13019](https://www.acmicpc.net/problem/13019)|A를 B로|Silver 1|2022-07-28|2022-07-28| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13019/Main.java)|
 |[13023](https://www.acmicpc.net/problem/13023)|ABCDE|Gold 5|2022-02-18|2022-02-18| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13023/Main.java) |
 |[13164](https://www.acmicpc.net/problem/13164)|행복 유치원|Gold 5|2022-02-26|2022-02-26| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13164/Main.java) |
 |[13172](https://www.acmicpc.net/problem/13172)|Σ|Gold 5|2022-02-18|2022-02-18| [✔️](https://github.com/kangyunsik/practice-algorithm/blob/master/src/main/java/com/codingtest/algorithm/acmicpc/q13172/Main.java) |
